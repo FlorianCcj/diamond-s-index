@@ -1,5 +1,5 @@
-GnuLinuxMag-N203(2017.04)
-hackable-N14(2017.09)
+GnuLinuxMag-N207(2017.08)
+hackable-N20(2017.09)
 LinuxPratique-HS-N37(2016.10)
 LinuxPratique-N92(2015.11)
 misc-N73(2014.05)
@@ -395,6 +395,85 @@ misc-N73(2014.05)
   Securite & vulnerabilité
 	Return oriented programming
 }
+2017.05-GNU Linux mag 204 {
+  Actus & Humeur
+	Principaux xhangements et ameliorations de Django 1.10
+  Ia, Robotique & Science
+	Radio Data System (RDS) : Analyse du canal numérique transmis par les stations radio FM commerciales, introduction aux codes correcteurs d'erreur
+  Systeme & Reseau
+	Deployez kubernetes sur Raspberry Pi avec KubeAdm
+  Iot & Embarque
+	Programmez votre objet connecté RPI avec Python
+  Kernel & Bas niveau
+	Programmation fonctionnelle en C++
+  Hack & Bidouille
+	"Paie ton patch" : Weboob
+  Libs & Modules
+	Construction "with" en langage ... bash !
+	et si la prediction n'etait plus le domaine reserve des oracles ?
+  Mobile & Web
+	Creez votre propre saveur markdown
+  Securite et vulnerabilité
+	Adress Space Layout Randomization
+}
+2017.06-GNU Linux mag 205 {
+  Actus & Humeur
+	Cloud computing : developper des technologies et services natifs
+  Ia, Robotique & Science
+	Comment recreer notre monde en quelques divisions et additions
+	Le jeu de la vie de conway implementation et petite adaptations
+  Iot & Embarque
+	Canopen avec Raspberry Pi
+  Kernel & Bas niveau
+	Jouons avec les Bits ... en Python
+  Hack & Bidouille
+	Afficher du texte sur un ecran de Led ws2812
+  Libs & Modules
+	Developpement rabide d'applications GTK+ avec Glade
+  Mobile & Web
+	De beaux chronogrammes avec Wavedrom
+  Securite & Vulnerabilite
+	La faille dirty cow
+}
+2017.07-GNU Linux mag 206 {
+	Actus & Humeur
+	  Je suis passe de python a Go
+	Ia, robotique & Science
+	  Creer un robot qui Tweete pour vous
+	Systeme & Reseau
+	  Cache Maven partage avec Nginx
+	Kernel & Bas Niveau
+	  Duke Nukem 3D : un outil Valgrind adapte a la lecture d'appels systemes
+	  Le test de Peter
+	Hack & Bidouille
+	  Surveillez un dossier de sources pour executer une commande automatiquement
+	Libs & Modules
+	  Blockchain : modifier un contrat immuable
+	  Utilisez Dropbox depuis Python
+	Mobile & Web
+	  PHP-RBAC : gerez les droits de votre application a l'aide de roles
+	Securite & Vulnerabilite
+	  L'art du reverse avec Radare2
+}
+2017.08-GNU Linux mag 207 {
+	Actus & Humeur
+	  Le metier d'architecte en SI
+	Ia, Robotique & Science
+	  Des reseaux de neurones pour classer des images
+	Systeme & Reseau
+	  Amazon <3 Linux
+	IoT & Embarque
+	  Freetos : Application a la realisation d'un analysateur de reseau numerique sur STM32
+	Hack & Bidouile
+	  Installation sans ecran de Slackware sur un Raspberry Pi 3
+	Libs & Modules
+	  Realisation d'un paquet Emacs : Un navigateur de Tickets Github
+	Mobile & Web
+	  Django par la pratique
+	Securite & Vulnerabilite
+	  Chez les barbus - Java & Securite : Authentification a deux etapes
+	
+}
 
 2016.09-Hackable 14 {
   Actualites
@@ -492,6 +571,20 @@ misc-N73(2014.05)
   Domotique & Robotique
 	Analyser le bus Siemens BSB d'une pompe a chaleur Atlantic
 	Pilotez votre pompe a chaleur Atlantic en utilisant le bus Siemens BSB
+}
+2017.09-Hackable 20 {
+  Equipement
+	Fabriquez vos cables/jumpers pour platines a essais
+  En Couverture
+	Creez une lampe lunaire : preparation
+	Creez une lampe lunaire : en route !
+  Embarque & Informatique
+	Visualisez la charge processeur de votre Pi avec Pimoroni Piglow
+	Sense HAT pour donner de la couleur et plus a votre Raspberry Pi
+  Demontage, Hacks & Recup
+	Creez votre ordinateur 8 bits sur platine a essais : le processeur
+  Tension & Courant
+	Prenez de bonnes mesures ! Et si des la rentree on se mettait au courant ?
 }
 
 2015.11-Linux Pratique 92 {
