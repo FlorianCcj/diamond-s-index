@@ -1,0 +1,616 @@
+{
+  "Gnu_Linux_mag": [
+    {
+      "name": "lm101",
+      "date": "2008-01-01",
+      "index": {
+        "Developpement": [
+          "Pilotes de peripheriques orientes caracteres pour Linux 2.6",
+          "Respectez les conventions de codage avec PHPCheckStyle, et PHP_Beautifier",
+          "C++ sous cafeine, quand Java rencontre C++",
+          "Programmation noyau saus Linux Partie 4 : Les pilotes USB"
+        ],
+        "Hacks/codes": [
+          "Perles de Mangeurs : CPAN"
+        ],
+        "Kernel corner": [
+          "Les nouveautes du moyau 2.6.24"
+        ],
+        "Securite": [
+          "Le chiffrement de disque sous Linux"
+        ],
+        "Science/Techno": [
+          "Quelques notions d audionumerique : de la bouche a l oreille"
+        ],
+        "People": [
+          "Les journees Perl 2007",
+          "Journee Mediterraneenne des Logiciels Libre 2007"
+        ],
+        "Sysadmin": [
+          "Gli pour les (futures) barbus",
+          "Anti-spam adaptable et performant avec OpenSSD et Spand"
+        ]
+      }
+    },
+    {
+      "name": "lm145",
+      "date": "2012-01-01",
+      "index": {
+        "Code": [
+          "Plus leger, plus rapide : Compactez votre site web ! (3/2)",
+          "Utilisez le meilleur de Python 2.X et de Python 3.X au sein d'un seul et meme application",
+          "Comet, Meteor, notification Nagios en PUSH sur mon Aster(and)oid",
+          "Redmine et Git pour gerer vos projets avec acces prives"
+        ],
+        "NetAdmin": [
+          "Integrer le mail dans sa messagerie 2.0"
+        ],
+        "News": [
+          "Nouveautes de PostgreSql 9.1 partie 1"
+        ],
+        "Sysadmin": [
+          "Depoez Virtualbox avec Vagrant",
+          "Bash, bonnes pratiques a respectez pour s adapter aux aleas du \"Cloud\"",
+          "Bacula : le vampire qui m a sauve la vie"
+        ]
+      }
+    },
+    {
+      "name": "lm176",
+      "date": "2014-11-01",
+      "index": {
+        "Actualites": [
+          "Auditer une application reactive"
+        ],
+        "Algo/IA": [
+          "Algorithmes de tri et impacts des choix d implementation sur les performances"
+        ],
+        "Android": [
+          "Permissions des applications Android : le laisser-aller des developpeurs ?"
+        ],
+        "Code": [
+          "Une application web avec AngularJS en quelques minutes",
+          "Approche detaillee des futex (partie 3/4)"
+        ],
+        "Humeur": [
+          "Foutaises politico-techniques #3 : quand les politiques causent d Internet - Special projet de loi de lutte contre le terrorisme"
+        ],
+        "Reperes": [
+          "Une histoire de l informatique #2 - L ere electromecanique"
+        ],
+        "Python": [
+          "Requests : beau, simple, pythonique"
+        ],
+        "Sysadmin/NetAdmin": [
+          "RealOpInsight : ajouter une vision métier dans la supervision avec Nagios, Zabbix et Zenoss"
+        ]
+      }
+    },
+    {
+      "name": "lm177",
+      "date": "2014-12-01",
+      "index": {
+        "Actualites": [
+          "PostgreSQL 9.4 encore quelques nouveautes",
+          "Nouveautes de PHP 5.6"
+        ],
+        "Algo/IA": [
+          "Democratiser la cryptographie"
+        ],
+        "Android": [
+          "Developper pour Android en Go ?"
+        ],
+        "Code": [
+          "Laissez souffler une petite brise dans l univers PHP avec Zephir",
+          "Realisez des tests que tout le monde peut lire (et ecrire)",
+          "Gestionnaire de consoles pour grappe de serveurs"
+        ],
+        "Humeur": [
+          "Foutaises parlementaires - petites question entre amis"
+        ],
+        "Reperes": [
+          "Un histoire de l informatique #3 - Recherches et developpements",
+          "Les failles de chiffrement"
+        ],
+        "Python": [
+          "Brainfuck, une machine de Turing"
+        ],
+        "Sysadmin/NetAdmin": [
+          "Monitoring avec Riemann",
+          "PAVE : deploiement a distance de serveurs heterogenes",
+          "L environnement POSIX du mini serveur embarque en C"
+        ]
+      }
+    },
+    {
+      "name": "lm182",
+      "date": "2015-05-01",
+      "index": {
+        "Actualites": [
+          "A la decouverte de Glances 2.4"
+        ],
+        "Algo/IA": [
+          "L art du camouflage informatique"
+        ],
+        "Android": [
+          "Gestion des droits numeriques sous Android"
+        ],
+        "Code": [
+          "Introduction a Postscript - Elements graphiques",
+          "La programmation fonctionnelle en Javascript avec underscore.js",
+          "Creez des dashboard sexy avec vos terminaux"
+        ],
+        "Humeur": [
+          "De la lutte contre le terrorisme au projet de loi renseignement : avec quels moyens ?"
+        ],
+        "Reperes": [
+          "GNU/Linux : Dessine moi un Manchot"
+        ],
+        "Python": [
+          "API-HOUR : le changement de paradigme Web"
+        ],
+        "Sysadmin": [],
+        "Sysadmin/NetAdmin": [
+          "IPV6 - Aspect theoriques",
+          "Un pas vers la decouverte de ... SquashFS"
+        ]
+      }
+    },
+    {
+      "name": "lm183",
+      "date": "2015-06-01",
+      "index": {
+        "Actualites": [
+          "Supervision avec la nouvelle version d Icinga"
+        ],
+        "Algo/IA": [
+          "Les codes-barres unidimensionnels"
+        ],
+        "Android": [
+          "Android : gestion des capteurs"
+        ],
+        "Code": [
+          "Depassez les limitations du code ASCII avec C99",
+          "Decouvert de services avec VLC"
+        ],
+        "Humeur": [
+          "Projet de Loi Renseignement : notre debriefing"
+        ],
+        "Reperes": [
+          "L invention de l interface graphique"
+        ],
+        "Python": [
+          "Debug sous Python"
+        ],
+        "Sysadmin": [],
+        "Sysadmin/NetAdmin": [
+          "Architectures All-in-memory",
+          "Architecture des processeurs"
+        ]
+      }
+    },
+    {
+      "name": "lm196",
+      "date": "2016-09-01",
+      "index": {
+        "Actualites": [
+          "PostgreSQL 9.5 : Securite et Replication"
+        ],
+        "Developpement": [
+          "Chez les Barbus - Java et Securite",
+          "Modelisation d un systeme de teleinformation EDF",
+          "Format MIDI : composez en C !"
+        ],
+        "Developpement web et mobile": [
+          "A la decouverte d une application 'unhosted' : Litewrite et PHP RemoteStorage"
+        ],
+        "Humeur": [
+          "J en ai ma claque, j abandonne tout et je pars elever des chevres dans le Larzac"
+        ],
+        "Les 'how to' du sysadmin": [
+          "Fonctionnalités avancees d Aptly"
+        ],
+        "Les 'how to' du developpeur": [
+          "Developpement rapide d un micro gestionnaire de tickets avec Node.js"
+        ],
+        "Reperes": [
+          "Le TicTacToe est un jeu simple a developper ?",
+          "Fabriquer un corps fini"
+        ],
+        "Sysadmin": [
+          "Continuous Data Protection For GNU/Linux"
+        ],
+        "Sysadmin/NetAdmin": []
+      }
+    },
+    {
+      "name": "lm197",
+      "date": "AAAA-MM-01",
+      "index": {
+        "Actualites": [
+          "Generer son appli avec JBoss Forge"
+        ],
+        "Developpement": [
+          "Les secrets de fabrication d une entree gagnante de l IOCCC",
+          "Partez a la decouverte de la realite augmentet",
+          "Conception d un systeme de tele-informations EDF",
+          "Pharo et les bases de donnees relationnelles"
+        ],
+        "Developpement web et mobile": [
+          "Ecrire une bibliotheque performante pour Node.js"
+        ],
+        "Humeur": [
+          "Logiciel 'libre' ou Open Source : finissons-en avec les polemiques !"
+        ],
+        "Reperes": [
+          "Peut-on vraiment calculer avec un ordinateur : mesurer et ameliorer la precision",
+          "Recherche de motifs giometriques dans une omage : la transformee de Hough"
+        ],
+        "Sysadmin": [
+          "Gestion des Access Control List de vos reseaux"
+        ]
+      }
+    },
+    {
+      "name": "lm198",
+      "date": "2016-11-01",
+      "index": {
+        "Actualites": [
+          "Le stockage de series chronologiques avec influDB",
+          "PostgreSQL 9.6 et le parallelisme"
+        ],
+        "Developpement": [
+          "Format MIDI et musique algorithmique",
+          "Des menus dans une application GTK+"
+        ],
+        "Developpement web et mobile": [
+          "Ajax & JQuery"
+        ],
+        "Humeur": [
+          "Et BEM ! Des css enfin lisibles !"
+        ],
+        "Les 'how to' du sysadmin": [
+          "Trier automatiquement les fichiers d un repertoire au fil de leur apparition"
+        ],
+        "Reperes": [
+          "Apprentissage supervise a l aide de reseaux de neurones",
+          "Repare un code QR"
+        ],
+        "Sysadmin": [
+          "Les reseaux logiques (VLANs)",
+          "Apprenez a programmer la libcap"
+        ]
+      }
+    },
+    {
+      "name": "lm199",
+      "date": "2016-12-01",
+      "index": {
+        "Actualites": [
+          "Decouvrez les nouveautes de PHP 7.1"
+        ],
+        "Developpement": [
+          "Python et le cas du switch (ou switch cas en anglais)",
+          "Analyser le Web a l'aide d'un web Crawler"
+        ],
+        "Developpement web et mobile": [
+          "Web Cryptography API",
+          "TypeScript : devenez serieux avec JavaScript"
+        ],
+        "Humeur": [
+          "Fichtre si j'etais le probleme de mon equipe"
+        ],
+        "Les 'how to' du developpeur": [
+          "Moteur de Template Twig : prise en main",
+          "Etendez Pandadoc avec Lua"
+        ],
+        "Reperes": [
+          "Utilisez un code source de qualite en respectant un standard",
+          "Preparer un code QR",
+          "Dessiner un code QR"
+        ],
+        "Sysadmin": [
+          "Knock kock knock'in on heaven's door",
+          "Virtualisation avancee avec Proxmox VE : volumes ZFS et cluster Corosync"
+        ]
+      }
+    },
+    {
+      "name": "lm200",
+      "date": "2017-01-01",
+      "index": {
+        "Actus & Humeur": ["Compilation, Instalation et utilisation basique de VIM 8"],
+        "Hack & Bidouille": ["Creez votre clavier programmable"],
+        "IA, Robotique & Science": ["Dissemination de donnees georeferencees - qgis - server et openlayers"],
+        "IoT & Embarque": ["Le relais 2 X 5V ... dans l'iot ou l'art de piloter en ble les peripheriques de la Warp7"],
+        "Kernel & Bas niveau": ["Programmation d'application audio en C++ avec juce"],
+        "Libs & Modules": ["La creation d'interfaces graphiques avec WXPython"],
+        "Mobile & Web": ["Creez une application pour votre tizen TV samsung"],
+        "Securite & Vulnerabilite": ["Le CSRF demystifie et bloque"],
+        "Systeme & Reseau": ["A la decouverte de systemd"]
+      }
+    },
+    {
+      "name": "lm201",
+      "date": "2017-02-01",
+      "index": {
+        "Actus & Humeur": ["Test et documentation les deux piliers de tout projets"],
+        "Hack & Bidouille": ["Bidouillez les fichiers binaires en ligne de commandes"],
+        "IA, Robotique & Science": ["Conjuguer performance et souplesse avec LLVM"],
+        "IoT & Embarque": [
+          "Iot : Objet connecte Raspberry Pi 3 Zigbee",
+          "Kenerl & Bas niveau",
+          "Back to basics : l'assembleur"
+        ],
+        "Libs & Modules": ["Creez votre premier virus en python"],
+        "Mobile & Web": [
+          "Introduction a haxe-nodejs",
+          "Programmation fonctionnelle avec reactivex android"
+        ],
+        "Securite & Vulnerabilite": ["A la decouverte de MOD_AUTH_KERB"],
+        "Systeme & Reseau": ["Atop et Grafana au coeur de la supervision de performance"]
+      }
+    },
+    {
+      "name": "lm202",
+      "date": "2017-03-01",
+      "index": {
+        "Actus & Humeur": ["FOSDEM 2017, Bruxelles"],
+        "Hack & Bidouille": ["Live-System from scratch"],
+        "IA, Robotique & Science": ["Transfert de style : et si Van Gogh peignait Tux ?"],
+        "IoT & Embarque": [
+          "Camera 3D et nuage de points",
+          "Kernel & bas niveau",
+          "Les itérateurs en C++"
+        ],
+        "Libs & Modules": [
+          "Code Java concis avec lombok",
+          "Conception d'un emulateur de LEDS WS2812",
+          "Rien ne vaut la pratique : Creation d'un paquetage pour pip"
+        ],
+        "Mobile & Web": [
+          "Moteur de template Twig : Heritage et macros"
+        ],
+        "Securite & Vulnerabilite": [
+          "Configuration TLS avec Haproxy et Openssl"
+        ],
+        "Systeme & Reseau": ["Facilitez-vous la vie avec la ligne de commandes"]
+      }
+    },
+    {
+      "name": "lm203",
+      "date": "2017-04-01",
+      "index": {
+        "Actus & Humeur": ["La programmation audio multicoeur avec python"],
+        "Hack & Bidouille": ["Creation d'un systeme de sauvegarde 'maison'"],
+        "IA, Robotique & Science": ["Reconnaissance faciale"],
+        "IoT & Embarque": ["Programmation embarquée sur Raspberry Pi sans sonde Jtag"],
+        "Kernel & Bas niveau": ["Programmer dans le monde uefi"],
+        "Libs & Modules": ["Etendre un serveur mysql/mariaDb avec des fonctions compilees"],
+        "Mobile & Web": ["Liberez les donnees de vos utilisateurs avec remotestorage"],
+        "Securite & Vulnerabilite": ["Return oriented programming"],
+        "Systeme & Reseau": ["Nix et Nixos"]
+      }
+    },
+    {
+      "name": "lm204",
+      "date": "2017-05-01",
+      "index": {
+        "Actus & Humeur": ["Principaux xhangements et ameliorations de Django 1.10"],
+        "Hack & Bidouille": ["'Paie ton patch' : Weboob"],
+        "IA, Robotique & Science": ["Radio Data System (RDS) : Analyse du canal numérique transmis par les stations radio FM commerciales, introduction aux codes correcteurs d'erreur"],
+        "IoT & Embarque": ["Programmez votre objet connecté RPI avec Python"],
+        "Kernel & Bas niveau": ["Programmation fonctionnelle en C++"],
+        "Libs & Modules": [
+          "Construction 'with' en langage ... bash !",
+          "et si la prediction n'etait plus le domaine reserve des oracles ?"
+        ],
+        "Mobile & Web": ["Creez votre propre saveur markdown"],
+        "Securite & Vulnerabilite": ["Adress Space Layout Randomization"],
+        "Systeme & Reseau": ["Deployez kubernetes sur Raspberry Pi avec KubeAdm"]
+      }
+    },
+    {
+      "name": "lm205",
+      "date": "2017-06-01",
+      "index": {
+        "Actus & Humeur": ["Cloud computing : developper des technologies et services natifs"],
+        "Hack & Bidouille": ["Afficher du texte sur un ecran de Led ws2812"],
+        "IA, Robotique & Science": [
+          "Comment recreer notre monde en quelques divisions et additions",
+          "Le jeu de la vie de conway implementation et petite adaptations"
+        ],
+        "IoT & Embarque": ["Canopen avec Raspberry Pi"],
+        "Kernel & Bas niveau": ["Jouons avec les Bits ... en Python"],
+        "Libs & Modules": ["Developpement rabide d'applications GTK+ avec Glade"],
+        "Mobile & Web": ["De beaux chronogrammes avec Wavedrom"],
+        "Securite & Vulnerabilite": ["La faille dirty cow"]
+      }
+    },
+    {
+      "name": "lm206",
+      "date": "2017-07-01",
+      "index": {
+        "Actus & Humeur": ["Je suis passe de python a Go"],
+        "Hack & Bidouille": ["Surveillez un dossier de sources pour executer une commande automatiquement"],
+        "IA, Robotique & Science": ["Creer un robot qui Tweete pour vous"],
+        "Kernel & Bas niveau": [
+          "Duke Nukem 3D : un outil Valgrind adapte a la lecture d'appels systemes",
+          "Le test de Peter"
+        ],
+        "Libs & Modules": [
+          "Blockchain : modifier un contrat immuable",
+          "Utilisez Dropbox depuis Python"
+        ],
+        "Mobile & Web": ["PHP-RBAC : gerez les droits de votre application a l'aide de roles"],
+        "Securite & Vulnerabilite": ["L'art du reverse avec Radare2"],
+        "Systeme & Reseau": ["Cache Maven partage avec Nginx"]
+      }
+    },
+    {
+      "name": "lm207",
+      "date": "2017-08-01",
+      "index": {
+        "Actus & Humeur": ["Le metier d'architecte en SI"],
+        "Hack & Bidouille": ["Installation sans ecran de Slackware sur un Raspberry Pi 3"],
+        "IA, Robotique & Science": ["Des reseaux de neurones pour classer des images"],
+        "IoT & Embarque": ["Freetos : Application a la realisation d'un analysateur de reseau numerique sur STM32"],
+        "Libs & Modules": ["Realisation d'un paquet Emacs : Un navigateur de Tickets Github"],
+        "Mobile & Web": ["Django par la pratique"],
+        "Securite & Vulnerabilite": ["Chez les barbus - Java & Securite : Authentification a deux etapes"],
+        "Systeme & Reseau": ["Amazon <3 Linux"]
+      }
+    },
+    {
+      "name": "lmXXX",
+      "date": "AAAA-MM-01",
+      "index": {
+        "Actualites": [],
+        "Actus & Humeur": [],
+        "Algo/IA": [],
+        "Android": [],
+        "Code": [],
+        "Developpement": [],
+        "Developpement web et mobile": [],
+        "Hack & Bidouille": [],
+        "Hacks/codes": [],
+        "Humeur": [],
+        "IA, Robotique & Science": [],
+        "IoT & Embarque": [],
+        "Kernel & Bas niveau": [],
+        "Kernel corner": [],
+        "Les 'how to' du sysadmin": [],
+        "Les 'how to' du developpeur": [],
+        "Libs & Modules": [],
+        "Mobile & Web": [],
+        "NetAdmin": [],
+        "News": [],
+        "People": [],
+        "Python": [],
+        "Reperes": [],
+        "Securite": [],
+        "Securite & Vulnerabilite": [],
+        "Science/Techno": [],
+        "Sysadmin": [],
+        "Sysadmin/NetAdmin": [],
+        "Systeme & Reseau": []
+      }
+    }
+  ],
+  "Gnu_Linux_mag_HS": [
+    {
+      "name": "lmhs86",
+      "date": "2016-09-01",
+      "title": "Memo python: 75 recettes pour accelerer vos developpements",
+      "index": {
+        "Exploitez les types de base": [
+          "Chercher des sous-chaines a l aide d une expression reguliere",
+          "Lire des donnees au clavier",
+          "Internationaliser un texte",
+          "Utiliser un template pour generer du texte",
+          "Enregistrer et charger des matrices",
+          "Utiliser des nombres aleatoires",
+          "Verifier la validite d une date",
+          "Lire un fichier texte ligne a ligne",
+          "Acceder a un endroit precis d un fichier",
+          "Creer un fichier xml",
+          "Lire un fichier xml",
+          "Creer un fichier json",
+          "Lire un fichier json",
+          "Creer un fichier ini",
+          "Lire un fichier ini",
+          "Creer un fichier hdf5",
+          "Lier un fichier hdf5",
+          "Creer un fichier odt",
+          "Lier un fichier odt",
+          "Parcourir une liste",
+          "Trier une liste d entiers lue sous forme de chaine de caracteres",
+          "Trier avec fct de tri personnalisee",
+          "Supprimer les doublons d une liste",
+          "Trier les valeurs d un dictionnaire",
+          "Conserver l ordre des elements dans un dictionnaire",
+          "Creer un dictionnaire qui soit la fusion de deux dictionnaires",
+          "Creer une liste en utilisant la comprehension de listes",
+          "Creer un dictionnaire en utilisant la comprehension de dictionnaires"
+        ],
+        "Organisez votre code": [
+          "Creer une fonction ayant un nombre de parametres infini",
+          "Creer une fonction anonyme",
+          "Creer une fonction qui renvoie une fonction",
+          "Connaitre l etat de sortie d une boucle for",
+          "Affecter une variable de maniere conditionnelle",
+          "Creer une fonction ayant un comportement different suivant le type de ses parametres",
+          "Creer un decorateur de log",
+          "Creer un decorateur indiquant les types attendus pour les parametres d une fonction",
+          "Creer un iterateur",
+          "Creer un iterateur a l aide d un generateur",
+          "Creer un paquetage de modules",
+          "Creer des constantes",
+          "Creer un attribut de classe",
+          "Creer une methode de classe",
+          "Creer un singleton",
+          "Surcharger un operateur",
+          "Rendre un objet callable",
+          "Ajouter un attribut a un objet sans le degrader",
+          "Ajouter une methode a une classe existante",
+          "Creer un selecteur de methode"
+        ],
+        "Interagissez avec vos donnees et les utiisateur": [
+          "Creer une base SQLite3",
+          "Inserer des donneed dans une base SQLite3",
+          "Lire les donnees dans une base SQLite3",
+          "Appeler une commande shell",
+          "Recuperer les arguments de la ligne de commandeEffectuer un calcul en utilisant plusieurs CPUs",
+          "Charger une page html",
+          "Trater des donnees JSON",
+          "Envoyer un Email",
+          "Creer un serveur XMLRPC",
+          "Creer un serveur CGI",
+          "Telecharger un fichier",
+          "Creer une comminication entre deux machines",
+          "Ecrire en couleur dans un terminal",
+          "Modifier la position du curseur",
+          "Creer un menu en mode texte",
+          "Tracer et annoter une courbe",
+          "Creer une animation d attente en mode terminal",
+          "Creer une interface graphique"
+        ],
+        "Utilisez les bon outils": [
+          "Distribuez les fichier d un projet dans un seul fichier executable",
+          "Gerer les modules avec pip",
+          "Travailler avec un environnement virtuel",
+          "Mettre en place des tests unitaires",
+          "Debugger un programme",
+          "Obtenir une trace detaillee des erreurs",
+          "Afficher des messages de debogage a l aide d un logger",
+          "Mesurer le temps d execution d une commande"
+        ]
+      }
+    },
+    {
+      "name": "lmhs87",
+      "date": "2016-11-01",
+      "title": "Kernel, le guide pour plonger au coeur de votre systeme gnu/linux",
+      "index": {
+        "Debutez, Recompilez et adaptez le noyau a votre PC": [
+          "Generalites sur le noyau Linux",
+          "Adaptez le noyau a votre ordinateur"
+        ],
+        "Experimentez, 5 cas de developpement noyau": [
+          "Cas 1, Interactions entre espace utilisateur, noyau et materiel",
+          "Cas 2, Cloisonnement des processus au sein du noyau Linux",
+          "Cas 3, Comment deboguer le noyau ?",
+          "Cas 4, Modification des appels systemes du noyau Linux",
+          "Cas 5, Un cas concret : StarBoard en 64 bits"
+        ],
+        "Virtualisez, Etudiez le fonctionnement de l'hyperviseur KVM": [
+          "KVM : focus sur l'implementation d'un hyperviseur dans Linux"
+        ],
+        "Securisez, Utilisez SELinux pour securiser l'acces a vos services": [
+          "La securite du noyau avec SELinux"
+        ],
+        "Annexe, Retrouvez ici les definitions de certains termes et acronymes presents dans les articles": []
+      }
+    }
+  ]
+}
