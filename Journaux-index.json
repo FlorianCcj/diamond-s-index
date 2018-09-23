@@ -1,4 +1,57 @@
 {
+  "todo": [
+    {
+      "Gnu_Linux_mag": [],
+      "Gnu_Linux_mag_HS": [],
+      "Hackable": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "Linux_Pratique": [
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218
+      ],
+      "Linux_Pratique_HS": [
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "Misc": [
+        "check missing",
+        91,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "Misc_HS": [
+        15,
+        16,
+        17
+      ],
+      "Open_silicium": [
+        null
+      ]
+    }
+  ],
   "Gnu_Linux_mag": [
     {
       "name": "lm101",
@@ -319,45 +372,81 @@
       "name": "lm200",
       "date": "2017-01-01",
       "index": {
-        "Actus & Humeur": ["Compilation, Instalation et utilisation basique de VIM 8"],
-        "Hack & Bidouille": ["Creez votre clavier programmable"],
-        "IA, Robotique & Science": ["Dissemination de donnees georeferencees - qgis - server et openlayers"],
-        "IoT & Embarque": ["Le relais 2 X 5V ... dans l'iot ou l'art de piloter en ble les peripheriques de la Warp7"],
-        "Kernel & Bas niveau": ["Programmation d'application audio en C++ avec juce"],
-        "Libs & Modules": ["La creation d'interfaces graphiques avec WXPython"],
-        "Mobile & Web": ["Creez une application pour votre tizen TV samsung"],
-        "Securite & Vulnerabilite": ["Le CSRF demystifie et bloque"],
-        "Systeme & Reseau": ["A la decouverte de systemd"]
+        "Actus & Humeur": [
+          "Compilation, Instalation et utilisation basique de VIM 8"
+        ],
+        "Hack & Bidouille": [
+          "Creez votre clavier programmable"
+        ],
+        "IA, Robotique & Science": [
+          "Dissemination de donnees georeferencees - qgis - server et openlayers"
+        ],
+        "IoT & Embarque": [
+          "Le relais 2 X 5V ... dans l'iot ou l'art de piloter en ble les peripheriques de la Warp7"
+        ],
+        "Kernel & Bas niveau": [
+          "Programmation d'application audio en C++ avec juce"
+        ],
+        "Libs & Modules": [
+          "La creation d'interfaces graphiques avec WXPython"
+        ],
+        "Mobile & Web": [
+          "Creez une application pour votre tizen TV samsung"
+        ],
+        "Securite & Vulnerabilite": [
+          "Le CSRF demystifie et bloque"
+        ],
+        "Systeme & Reseau": [
+          "A la decouverte de systemd"
+        ]
       }
     },
     {
       "name": "lm201",
       "date": "2017-02-01",
       "index": {
-        "Actus & Humeur": ["Test et documentation les deux piliers de tout projets"],
-        "Hack & Bidouille": ["Bidouillez les fichiers binaires en ligne de commandes"],
-        "IA, Robotique & Science": ["Conjuguer performance et souplesse avec LLVM"],
+        "Actus & Humeur": [
+          "Test et documentation les deux piliers de tout projets"
+        ],
+        "Hack & Bidouille": [
+          "Bidouillez les fichiers binaires en ligne de commandes"
+        ],
+        "IA, Robotique & Science": [
+          "Conjuguer performance et souplesse avec LLVM"
+        ],
         "IoT & Embarque": [
           "Iot : Objet connecte Raspberry Pi 3 Zigbee",
           "Kenerl & Bas niveau",
           "Back to basics : l'assembleur"
         ],
-        "Libs & Modules": ["Creez votre premier virus en python"],
+        "Libs & Modules": [
+          "Creez votre premier virus en python"
+        ],
         "Mobile & Web": [
           "Introduction a haxe-nodejs",
           "Programmation fonctionnelle avec reactivex android"
         ],
-        "Securite & Vulnerabilite": ["A la decouverte de MOD_AUTH_KERB"],
-        "Systeme & Reseau": ["Atop et Grafana au coeur de la supervision de performance"]
+        "Securite & Vulnerabilite": [
+          "A la decouverte de MOD_AUTH_KERB"
+        ],
+        "Systeme & Reseau": [
+          "Atop et Grafana au coeur de la supervision de performance"
+        ]
       }
     },
     {
       "name": "lm202",
       "date": "2017-03-01",
       "index": {
-        "Actus & Humeur": ["FOSDEM 2017, Bruxelles"],
-        "Hack & Bidouille": ["Live-System from scratch"],
-        "IA, Robotique & Science": ["Transfert de style : et si Van Gogh peignait Tux ?"],
+        "Actus & Humeur": [
+          "FOSDEM 2017, Bruxelles"
+        ],
+        "Hack & Bidouille": [
+          "Live-System from scratch"
+        ],
+        "IA, Robotique & Science": [
+          "Transfert de style : et si Van Gogh peignait Tux ?"
+        ],
         "IoT & Embarque": [
           "Camera 3D et nuage de points",
           "Kernel & bas niveau",
@@ -374,66 +463,122 @@
         "Securite & Vulnerabilite": [
           "Configuration TLS avec Haproxy et Openssl"
         ],
-        "Systeme & Reseau": ["Facilitez-vous la vie avec la ligne de commandes"]
+        "Systeme & Reseau": [
+          "Facilitez-vous la vie avec la ligne de commandes"
+        ]
       }
     },
     {
       "name": "lm203",
       "date": "2017-04-01",
       "index": {
-        "Actus & Humeur": ["La programmation audio multicoeur avec python"],
-        "Hack & Bidouille": ["Creation d'un systeme de sauvegarde 'maison'"],
-        "IA, Robotique & Science": ["Reconnaissance faciale"],
-        "IoT & Embarque": ["Programmation embarquée sur Raspberry Pi sans sonde Jtag"],
-        "Kernel & Bas niveau": ["Programmer dans le monde uefi"],
-        "Libs & Modules": ["Etendre un serveur mysql/mariaDb avec des fonctions compilees"],
-        "Mobile & Web": ["Liberez les donnees de vos utilisateurs avec remotestorage"],
-        "Securite & Vulnerabilite": ["Return oriented programming"],
-        "Systeme & Reseau": ["Nix et Nixos"]
+        "Actus & Humeur": [
+          "La programmation audio multicoeur avec python"
+        ],
+        "Hack & Bidouille": [
+          "Creation d'un systeme de sauvegarde 'maison'"
+        ],
+        "IA, Robotique & Science": [
+          "Reconnaissance faciale"
+        ],
+        "IoT & Embarque": [
+          "Programmation embarquée sur Raspberry Pi sans sonde Jtag"
+        ],
+        "Kernel & Bas niveau": [
+          "Programmer dans le monde uefi"
+        ],
+        "Libs & Modules": [
+          "Etendre un serveur mysql/mariaDb avec des fonctions compilees"
+        ],
+        "Mobile & Web": [
+          "Liberez les donnees de vos utilisateurs avec remotestorage"
+        ],
+        "Securite & Vulnerabilite": [
+          "Return oriented programming"
+        ],
+        "Systeme & Reseau": [
+          "Nix et Nixos"
+        ]
       }
     },
     {
       "name": "lm204",
       "date": "2017-05-01",
       "index": {
-        "Actus & Humeur": ["Principaux xhangements et ameliorations de Django 1.10"],
-        "Hack & Bidouille": ["'Paie ton patch' : Weboob"],
-        "IA, Robotique & Science": ["Radio Data System (RDS) : Analyse du canal numérique transmis par les stations radio FM commerciales, introduction aux codes correcteurs d'erreur"],
-        "IoT & Embarque": ["Programmez votre objet connecté RPI avec Python"],
-        "Kernel & Bas niveau": ["Programmation fonctionnelle en C++"],
+        "Actus & Humeur": [
+          "Principaux xhangements et ameliorations de Django 1.10"
+        ],
+        "Hack & Bidouille": [
+          "'Paie ton patch' : Weboob"
+        ],
+        "IA, Robotique & Science": [
+          "Radio Data System (RDS) : Analyse du canal numérique transmis par les stations radio FM commerciales, introduction aux codes correcteurs d'erreur"
+        ],
+        "IoT & Embarque": [
+          "Programmez votre objet connecté RPI avec Python"
+        ],
+        "Kernel & Bas niveau": [
+          "Programmation fonctionnelle en C++"
+        ],
         "Libs & Modules": [
           "Construction 'with' en langage ... bash !",
           "et si la prediction n'etait plus le domaine reserve des oracles ?"
         ],
-        "Mobile & Web": ["Creez votre propre saveur markdown"],
-        "Securite & Vulnerabilite": ["Adress Space Layout Randomization"],
-        "Systeme & Reseau": ["Deployez kubernetes sur Raspberry Pi avec KubeAdm"]
+        "Mobile & Web": [
+          "Creez votre propre saveur markdown"
+        ],
+        "Securite & Vulnerabilite": [
+          "Adress Space Layout Randomization"
+        ],
+        "Systeme & Reseau": [
+          "Deployez kubernetes sur Raspberry Pi avec KubeAdm"
+        ]
       }
     },
     {
       "name": "lm205",
       "date": "2017-06-01",
       "index": {
-        "Actus & Humeur": ["Cloud computing : developper des technologies et services natifs"],
-        "Hack & Bidouille": ["Afficher du texte sur un ecran de Led ws2812"],
+        "Actus & Humeur": [
+          "Cloud computing : developper des technologies et services natifs"
+        ],
+        "Hack & Bidouille": [
+          "Afficher du texte sur un ecran de Led ws2812"
+        ],
         "IA, Robotique & Science": [
           "Comment recreer notre monde en quelques divisions et additions",
           "Le jeu de la vie de conway implementation et petite adaptations"
         ],
-        "IoT & Embarque": ["Canopen avec Raspberry Pi"],
-        "Kernel & Bas niveau": ["Jouons avec les Bits ... en Python"],
-        "Libs & Modules": ["Developpement rabide d'applications GTK+ avec Glade"],
-        "Mobile & Web": ["De beaux chronogrammes avec Wavedrom"],
-        "Securite & Vulnerabilite": ["La faille dirty cow"]
+        "IoT & Embarque": [
+          "Canopen avec Raspberry Pi"
+        ],
+        "Kernel & Bas niveau": [
+          "Jouons avec les Bits ... en Python"
+        ],
+        "Libs & Modules": [
+          "Developpement rabide d'applications GTK+ avec Glade"
+        ],
+        "Mobile & Web": [
+          "De beaux chronogrammes avec Wavedrom"
+        ],
+        "Securite & Vulnerabilite": [
+          "La faille dirty cow"
+        ]
       }
     },
     {
       "name": "lm206",
       "date": "2017-07-01",
       "index": {
-        "Actus & Humeur": ["Je suis passe de python a Go"],
-        "Hack & Bidouille": ["Surveillez un dossier de sources pour executer une commande automatiquement"],
-        "IA, Robotique & Science": ["Creer un robot qui Tweete pour vous"],
+        "Actus & Humeur": [
+          "Je suis passe de python a Go"
+        ],
+        "Hack & Bidouille": [
+          "Surveillez un dossier de sources pour executer une commande automatiquement"
+        ],
+        "IA, Robotique & Science": [
+          "Creer un robot qui Tweete pour vous"
+        ],
         "Kernel & Bas niveau": [
           "Duke Nukem 3D : un outil Valgrind adapte a la lecture d'appels systemes",
           "Le test de Peter"
@@ -442,23 +587,45 @@
           "Blockchain : modifier un contrat immuable",
           "Utilisez Dropbox depuis Python"
         ],
-        "Mobile & Web": ["PHP-RBAC : gerez les droits de votre application a l'aide de roles"],
-        "Securite & Vulnerabilite": ["L'art du reverse avec Radare2"],
-        "Systeme & Reseau": ["Cache Maven partage avec Nginx"]
+        "Mobile & Web": [
+          "PHP-RBAC : gerez les droits de votre application a l'aide de roles"
+        ],
+        "Securite & Vulnerabilite": [
+          "L'art du reverse avec Radare2"
+        ],
+        "Systeme & Reseau": [
+          "Cache Maven partage avec Nginx"
+        ]
       }
     },
     {
       "name": "lm207",
       "date": "2017-08-01",
       "index": {
-        "Actus & Humeur": ["Le metier d'architecte en SI"],
-        "Hack & Bidouille": ["Installation sans ecran de Slackware sur un Raspberry Pi 3"],
-        "IA, Robotique & Science": ["Des reseaux de neurones pour classer des images"],
-        "IoT & Embarque": ["Freetos : Application a la realisation d'un analysateur de reseau numerique sur STM32"],
-        "Libs & Modules": ["Realisation d'un paquet Emacs : Un navigateur de Tickets Github"],
-        "Mobile & Web": ["Django par la pratique"],
-        "Securite & Vulnerabilite": ["Chez les barbus - Java & Securite : Authentification a deux etapes"],
-        "Systeme & Reseau": ["Amazon <3 Linux"]
+        "Actus & Humeur": [
+          "Le metier d'architecte en SI"
+        ],
+        "Hack & Bidouille": [
+          "Installation sans ecran de Slackware sur un Raspberry Pi 3"
+        ],
+        "IA, Robotique & Science": [
+          "Des reseaux de neurones pour classer des images"
+        ],
+        "IoT & Embarque": [
+          "Freetos : Application a la realisation d'un analysateur de reseau numerique sur STM32"
+        ],
+        "Libs & Modules": [
+          "Realisation d'un paquet Emacs : Un navigateur de Tickets Github"
+        ],
+        "Mobile & Web": [
+          "Django par la pratique"
+        ],
+        "Securite & Vulnerabilite": [
+          "Chez les barbus - Java & Securite : Authentification a deux etapes"
+        ],
+        "Systeme & Reseau": [
+          "Amazon <3 Linux"
+        ]
       }
     },
     {
@@ -610,6 +777,1036 @@
           "La securite du noyau avec SELinux"
         ],
         "Annexe, Retrouvez ici les definitions de certains termes et acronymes presents dans les articles": []
+      }
+    },
+    {
+      "name": "lmhs88",
+      "date": "2017-01-01",
+      "title": "Creez votre base de donnees MySql MariaDb en 5 étapes",
+      "index": {
+        "Etape 1, Je concois ma base de donnees": [
+          "Comprendre les bases de donneed relationnelles",
+          "Utiliser l'interface graphique MySQL Workbench"
+        ],
+        "Etape 2, J'installe mon SGBDR MySql MariaDB": [
+          "Choisir MySql ou MariaDb et l'installer"
+        ],
+        "Etape 3, J'utilise le langage SQL pour acceder a ma base": [
+          "Utilisez correctement l'instruction Select pour vos requetes",
+          "Augmentez les performances de vos bases de donnees avec les index"
+        ],
+        "Etape 4, Je securise ma base et l'acces a mes donnees": [
+          "Securisez votre base MariaDb a l'aide de plugins"
+        ],
+        "Etape 5, Je cree des programmes utilisant mes bases de donnees": [
+          "Accedez a vos donnees en C++ avec sqlpp11",
+          "Utilisez MySql avec l'API REST et Python",
+          "Decouvrez les nouvelles fonctions natives SQL pour manipuler du contenu JSON"
+        ]
+      }
+    },
+    {
+      "name": "lmhs89",
+      "date": "2017-03-01",
+      "title": "Maitrisez la programmation de scripts Shell",
+      "index": {
+        "Programmez votre premier vrai script shell : bien plus qu'un simple fichier de commandes": [
+          "Ecrivez votre preimer script 'Shell'"
+        ],
+        "Progressez dans l'ecriture de scripts grace aux structures de controle et a la gestion de processue": [
+          "Utilisez les structures de controle et autres mecanismes de la programmation 'Shell'",
+          "Gerez vos processus et sous-processus"
+        ],
+        "Maitrisez les bonnes techniques et utilisez les fonctions avancees du Shell Bash": [
+          "Decouvrez les fonctionnalités avancees du 'Bash' et les bonnes pratiques"
+        ],
+        "Bonus": [
+          "Mise en pratique : realistion d'un outil de controle de qualite de scripts 'Shell'"
+        ]
+      }
+    },
+    {
+      "name": "lmhs90",
+      "date": "2017-05-01",
+      "title": "Le guide pour créer des applications client/serveur en python, programmation reseau",
+      "index": {
+        "Demarrez la programmation reseau en Python avec les modules essentiels": [
+          "Utilisez TCP et UDP en Python",
+          "Developpez une application graphique utilisant le reseau",
+          "Utilisez des API REST en Python",
+          "Scapy, le couteau suisse Python pour le reseau"
+        ],
+        "Creez vos robots et clients en python pour interagir avec des services web tels que Github, Google drive, etc.": [
+          "Creez un systeme de migration des rapports de bug de Github a votre Gitlab",
+          "Creez un driver FUSE pour Google Drive",
+          "Creez un bot IRC",
+          "Creez un Robot Slack, ",
+          "Creez un client XMPP"
+        ],
+        "Progressez en creant un script communiquant par SMS et en analysant un serveur de fichiers": [
+          "Envoyez des SMS avec un Raspberry Pi et Python",
+          "Un exemple concret de serveur HTTP servant des fichiers"
+        ]
+      }
+    },
+    {
+      "name": "lmhs91",
+      "date": "2017-07-01",
+      "title": "Creez, publier & monetisez votre application avancée android",
+      "index": {
+        "Decouvrez les etapes a suivre pour creer un projet structure": [
+          "Preparez le demarrage de votre projet geocatching"
+        ],
+        "Manipulez les capteurs/perippheriques de votre smartphone : accelerometre, magnetometre, NFC, GPS, etc.": [
+          "Decouvrez les capteurs de votre smartphone",
+          "Comment integrer des capteurs dans un application ?",
+          "Utilisez des tags NFC",
+          "Localisez les caches a l'aide de leurs coordonnees GPS et stockez l'information"
+        ],
+        "Communiquez en Bluetooth et par SMS pour partager des caches visibles sur des cartes Google Maps": [
+          "Communiquez en Bluetooth",
+          "Envoyez des SMS et utilisez l'API Google Maps pour afficher des cartes"
+        ],
+        "Publiez & Monetisez votre application sur Google Play, rendez-la payante et inserez-y de la publicite": [
+          "Preparez votre application pour le store",
+          "Internationalisez votre application et touchez le plus de monde possible",
+          "Diffusez votre application sur Google Play",
+          "Gagnez de l'argent ! Beaucoup d'argent ... ?"
+        ]
+      }
+    },
+    {
+      "name": "lmhs92",
+      "date": "2017-09-01",
+      "title": "VPN, le guide indispensable pour installer et configurer votre VPN",
+      "index": {
+        "Debutez avec le protocole TCP/IP les nouveautes d'IPv6 et le fonctionnement d'un VPN": [
+          "Presentation de TCP/IP",
+          "A la decouverte des VPNs",
+          "Comment choisir son VPN ?"
+        ],
+        "OPENVPN Configurez-le finement et installez des clients y compris sur des systemes non libres": [
+          "Creez une configuration OpenVPN simple",
+          "Utilisez les options avancees d'OpenVPN",
+          "Configurez les postes clients y compris sur des systemes non libres"
+        ],
+        "IPSEC Apprenez a configurer l'\"autre\" solution tunnel": [
+          "Mettez en place un serveur IPSec",
+          "Configurez les postes IPSec clients"
+        ],
+        "Allez plus loin avec OpenVPN en developpent vos plugins et en integrant un firewall OpenVPN": [
+          "Integrez un firewall a OpenVPN",
+          "Developpez vos plugins OpenVPN"
+        ]
+      }
+    }
+  ],
+  "Hackable": [
+    {
+      "name": "hk14",
+      "date": "2016-09-01",
+      "index": {
+        "Actualites": [
+          "Tizen, l'autre plateforme mobile open source ..."
+        ],
+        "Ardu n Co": [
+          "Un affichage sur votre papier electronique pour votre Arduino ?",
+          "Creez un moniteur de temperature et d hygrometrie"
+        ],
+        "Embarque et Informatique": [
+          "Votre Raspberry Pi en pont Wifi/Ethernet"
+        ],
+        "En couverture": [
+          "Controler votre appareil photo numerique avec votre Pi",
+          "Manipuler et traiter automatiquement vos photos sur Raspberry Pi",
+          "Prenez des cliches automatiquement en cas de detection de mouvement"
+        ],
+        "Equipement": [
+          "le C.H.I.P : le tueur de framboises ?"
+        ],
+        "Tension et Courant": [
+          "integrer l Arduino dans une reglette lumineuse : attention a l alimentation !"
+        ]
+      }
+    },
+    {
+      "name": "hk15",
+      "date": "2016-11-01",
+      "index": {
+        "Ardu n Co": [
+          "Creez un enregistreur autonome de temperatur, d humidité et de pression",
+          "Creer une lanterne qui reagit au toucher"
+        ],
+        "Embarque et Informatique": [
+          "Connectez un module LCD a votre Raspberry Pi pour afficher son adresse reseau"
+        ],
+        "En couverture": [
+          "Connectez votre Arduino en Bluetooth : configuration du module",
+          "Bluetooth : pilotez votre Arduino avec votre smartphone"
+        ],
+        "Equipement": [
+          "Controlez votre alimentation de laboration avec votre Raspberry Pi"
+        ],
+        "Reperes & Science": [
+          "Partagez vos projets et vos creations sur Github"
+        ],
+        "Tension et Courant": [
+          "Vos projet Arduino et Raspberry Pi sur une batterie externe pour smartphone. Pas si simple ..."
+        ]
+      }
+    },
+    {
+      "name": "hk16",
+      "date": "2017-01-01",
+      "index": {
+        "Ardu n Co": [
+          "Utilisez une carte SD avec votre Arduino"
+        ],
+        "Demontage, hacks & recup": [
+          "Faites peur a vos amis en lisant leur carte bancaire !",
+          "Gravez le bois avec de l'electricité !"
+        ],
+        "Embarque et Informatique": [
+          "Ne perdez plus la main sur votre Pi grace a GNU Screen",
+          "Utilisez vos applications graphiques Raspberry Pi depuis Windows",
+          "Controler vos montages Bluetooth depuis votre Pi"
+        ],
+        "En couverture": [
+          "nRF24L01 : creez une liaison radio longue distance entre carte arduino",
+          "utiliser nRF24L01 avec votre Raspberry Pi"
+        ],
+        "Equipement": [],
+        "Radio & Frequence": [
+          "Pour aller plus loin en radio logicielle : HackRF One"
+        ]
+      }
+    },
+    {
+      "name": "hk17",
+      "date": "2017-03-01",
+      "index": {
+        "Ardu n Co": [
+          "Creez un effet 'feu' avec une matrice de leds"
+        ],
+        "Demontage, hacks & recup": [
+          "Utilisez votre Arduino UNO comme périphérique USB"
+        ],
+        "Embarque et Informatique": [
+          "Configurez un clavier Bluetooth pour votre Pi",
+          "Changez la configuration des leds de votre Raspberry Pi"
+        ],
+        "En couverture": [
+          "Creez des boutons a copier/coller",
+          "Creez un controleur de volume pour votre ordinateur",
+          "Transformez un vieux materiel de 30 ans en clavier USB"
+        ],
+        "Equipement": [
+          "Utilisez un programmeur d'EPROM avec votre Raspberry Pi"
+        ],
+        "Reperes & Science": [
+          "Les codes tournants ou comment ne pas envoyer le meme message deux fois"
+        ]
+      }
+    },
+    {
+      "name": "hk18",
+      "date": "2017-05-01",
+      "index": {
+        "Ardu n Co": [
+          "Demarrez votre PC a distance avec une carte Arduino ou ESP8266",
+          "Recyclez un viel écran VGA et utilisez-le avec votre Arduino"
+        ],
+        "Embarque et Informatique": [
+          "DOS n'est pas mort ! Il va meme tres bien !"
+        ],
+        "En couverture": [
+          "Creez votre portier audio connecte",
+          "Portier audio connecte : installation et configuration"
+        ],
+        "Equipement": [
+          "Dessoudez, changez et recuperez des composants"
+        ],
+        "Reperes & Science": [
+          "Jonglez avec les version de Raspbian pour profiter des applications les plus recentes"
+        ]
+      }
+    },
+    {
+      "name": "hk19",
+      "date": "2017-07-01",
+      "index": {
+        "Demontage, hacks & recup": [
+          "Obtenez n'importe quelle tension a partir des 5V USB"
+        ],
+        "Domotique & Robotique": [
+          "Analyser le bus Siemens BSB d'une pompe a chaleur Atlantic",
+          "Pilotez votre pompe a chaleur Atlantic en utilisant le bus Siemens BSB"
+        ],
+        "Embarque et Informatique": [
+          "Obtenir les informations du firmware de votre Raspberry Pi"
+        ],
+        "En couverture": [
+          "Decouvrez LoRaWAN et creez votre passerelle/concentrateur",
+          "Creez vos montages Arduino communicants sur LoRaWAN"
+        ],
+        "Equipement": [
+          "Ajoutez un ecran intelligent a vos projets Arduino"
+        ],
+        "Radio & Frequence": [
+          "Construisez un emetteur 433 Mhz pour remplacer vos telecommandes"
+        ]
+      }
+    },
+    {
+      "name": "hk20",
+      "date": "2017-09-01",
+      "index": {
+        "Demontage, hacks & recup": [
+          "Creez votre ordinateur 8 bits sur platine a essais : le processeur"
+        ],
+        "Embarque et Informatique": [
+          "Visualisez la charge processeur de votre Pi avec Pimoroni Piglow",
+          "Sense HAT pour donner de la couleur et plus a votre Raspberry Pi"
+        ],
+        "En couverture": [
+          "Creez une lampe lunaire : preparation",
+          "Creez une lampe lunaire : en route !"
+        ],
+        "Equipement": [
+          "Fabriquez vos cables/jumpers pour platines a essais"
+        ],
+        "Tension et Courant": [
+          "Prenez de bonnes mesures ! Et si des la rentree on se mettait au courant ?"
+        ]
+      }
+    },
+    {
+      "name": "hkXX",
+      "date": "AAAA-MM-01",
+      "index": {
+        "Actualites": [],
+        "Ardu n Co": [],
+        "Demontage, hacks & recup": [],
+        "Domotique & Robotique": [],
+        "Embarque et Informatique": [],
+        "En couverture": [],
+        "Equipement": [],
+        "Radio & Frequence": [],
+        "Reperes & Science": [],
+        "Tension et Courant": []
+      }
+    }
+  ],
+  "Linux_Pratique": [
+    {
+      "name": "lp92",
+      "date": "2015-11-01",
+      "index": {
+        "Actualites": [
+          "L essentiel de l actualite Linux et open source"
+        ],
+        "Applicatif": [
+          "Incrustation en chrominance sous GNU/Linux : Solution simple avec Kdenlive, avance par Natron",
+          "Grod plan sur les nouveautes d Inkscape 9.91"
+        ],
+        "Cahier web": [
+          "Synchronisez vos contacts entre Thunderbird, Android et ownCloud"
+        ],
+        "Communautes": [
+          "Le Journal du hacker, le site d'informations participatif de la communaute du Logiciel Libre francophone"
+        ],
+        "Decryptage": [
+          "Tout ce qu il faut savoir sur le protocole LDAP"
+        ],
+        "En couverture": [
+          "Tails : protegez votre vie privee sans rien installer !",
+          "Lanceurs d alertes : entre marteau et l enclume"
+        ],
+        "Ligne de commande": [
+          "Tweetez en ligne de commandes !",
+          "Pgcli : le client PostgreSQL moderne"
+        ],
+        "Mobilite": [
+          "Liberez votre smartphone ZTE Open C !"
+        ],
+        "Programmation": [
+          "Tutoriel : Creer un back-office securise en 15 minutes avec Symfony"
+        ],
+        "Solutions pro libres et open source": [
+          "PyBBM, le forum Django"
+        ],
+        "Systeme et reseau": [
+          "Objectif securite : on passe en Raid 1"
+        ]
+      }
+    },
+    {
+      "name": "lp97",
+      "date": "2016-09-01",
+      "index": {
+        "Actualites": [
+          "L essentiel de l actualite Linux et open source"
+        ],
+        "Applicatif": [
+          "Initiation aux calculs numeriques avec Scilab",
+          "5 extensions pour un Blender plus efficace et plus simple",
+          "TapeUTape pour animer vos evenements a l aide de jingles sonores"
+        ],
+        "Cahier web": [
+          "AppCache : rendez cotre application en ligne disponible hors ligne",
+          "Grav, dissection appofondie d'un CMS flat-file particulierement attrayant",
+          "Introduction au Web semantique avec la synthaxe ARIA"
+        ],
+        "Decryptage": [
+          "Referencement naturel : comment demarrer sur de bonnes bases"
+        ],
+        "En couverture": [
+          "Ordinateurs, smartphone et tablettes Android .... un VPN pour les protéger tous"
+        ],
+        "Ligne de commande": [
+          "Utilisation de FFmpeg pour la conversion multimedia"
+        ],
+        "Solutions pro": [
+          "Tuto : Inventoriez votre reseau avec NetBox"
+        ],
+        "Systeme et reseau": [
+          "Orchestrz facilement Docker avec Rancher"
+        ]
+      }
+    },
+    {
+      "name": "lp98",
+      "date": "2016-11-01",
+      "index": {
+        "Actualites": [
+          "L essentiel de l actualite Linux et open source"
+        ],
+        "Applicatif": [
+          "Tutoriel : Creez une carte de voeux animee avec Synfig et Inskape",
+          "SciDAVIs : tracez vos graphiques et analysez vos donnees librement et simplement",
+          "Ne procrastinez plus vos sauvegarde grace a Borg"
+        ],
+        "Cahier web": [
+          "Tutoriel : Surveillez votre serveur web avec PSI",
+          "Acquisition de notoriete sur le Web : mode d emploi"
+        ],
+        "En couverture": [
+          "TestDisk et PhotoRec pour la recuperation de donnes"
+        ],
+        "Ligne de commande": [
+          "Gere et versionner votre configuration utiisateur avec RCM et Git",
+          "Recherche de fichiers avec grep et find"
+        ],
+        "Programmation": [
+          "Metter en place un outil de formation moderne avec JupyterHub et nbgrader"
+        ],
+        "Solutions pro": [
+          "Django CMS, le renouveau du CMS"
+        ],
+        "Systeme et reseau": [
+          "Automatisation d une distribution Debian",
+          "Synchronisez une cle USB avec un dossier local"
+        ]
+      }
+    },
+    {
+      "name": "lp99",
+      "date": "2017-01-01",
+      "index": {
+        "Actualites & Nouveautes": [
+          "L essentiel de l actualite Linux et open source"
+        ],
+        "Cahier Raspberry pi & Debutant Linux": [
+          "Personnalisez l'environnement de bureau pixel",
+          "Preparer la carte SD de votre Raspberry Pi avec Gnome Disks",
+          "Decouvrir des outils de base indispensables en ligne de commandes",
+          "Enregistrer facilement une image systeme sur la carte SD de votre RaspBerry¨Pi"
+        ],
+        "Entreprise et organisation": [
+          "Gerer vos lister de taches a l'aide de TaskWarrior"
+        ],
+        "Logitheque & Applicatif": [
+          "Creer une illustration a bases de formes triangulaires avec Inskape",
+          "Ramme : un client instagram open source pour votre desktop",
+          "Okular : un utilitaire pratique pour manipuler facilement vos documents",
+          "Harmony ; un player pour toute votre musique",
+          "Framemo : Un tableau pour realiser un brainstorming collaboratif",
+          "Creez un media center a partir de votre PC et/ou votre Raspberry Pi"
+        ],
+        "Mobilite & Objets connectes": [
+          "DuckDuckGo search & Stories : des rechers dans le respect de la vie privée",
+          "Amaze File Manager : Un gestionnaire de fichier simple, elegant & open source",
+          "Analyser vos activités sportive avec Turtlesport"
+        ],
+        "Programmation & Script": [
+          "Animation et controle de l'esprit de sprites avec Pacman",
+          "de l'installation aux limite de scratch 2.0"
+        ],
+        "Reflexion & Societe": [
+          "La joyeuse illusion de black SEO"
+        ],
+        "Systeme & Personnalisation": [
+          "Creer un bureau personnalise",
+          " Tracer votre utilisateur d'application avec thyme pour ameliorer votre productivite"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Enregistrer et rejouer des sessions terminal"
+        ],
+        "Web & Reseau": [
+          "Prendre en main bootstrap pour realiser un sote responsive et esthetique",
+          "Extension firefox : selectionnez et imprimez ! "
+        ]
+      }
+    },
+    {
+      "name": "lp100",
+      "date": "2017-03-01",
+      "index": {
+        "Actualite & Applicatif": [
+          "L'essentiel de l'activité linux et open source"
+        ],
+        "Cahier Raspberry pi & Debutant Linux": [
+          "Troquez pixel contre enlightenment",
+          "Changer l'environnement de bureau de rasbian",
+          "Prise en main de geany pour developper sur Rasberry pi"
+        ],
+        "Entreprise et organisation": [
+          "Gerer vos secrets avec vault"
+        ],
+        "Logitheque & Applicatif": [
+          "Realiser ses presentations avec sozi",
+          "Shots : capturez et annontez votre ecran",
+          "Calibre : lisez et gerez votre collection d e-books",
+          "Shotwell : organisez et retouchez votre phototheque",
+          "Framabag : Mettez-les de cote, lisez les plus tard",
+          "Realiser ses schema electroniques avec fritzing"
+        ],
+        "Mobilite & Objets connectes": [
+          "Permission friendly apps : reperez les applications les plus intrusives",
+          "Antennapod : lisez & gerez facilement tous vos podcasts"
+        ],
+        "Programmation & Script": [
+          "Un peu d'organisation pour Pacman",
+          "Il est rond comme un ballon, il est jaune comme un citron, c'est ... un objet",
+          "Programmer dans le cloud avec Codiac"
+        ],
+        "Reflexion & Societe": [
+          "[Interview] : Tristan nitot 'la centralisation des donnees personnelles rend economiquement possible la surveillance de masse'"
+        ],
+        "Systeme & Personnalisation": [
+          "Nano : l'editeur petit, mais costaud",
+          "Parametrez votre clavier multimedia avec xbindkeys"
+        ],
+        "Terminal & Ligne de commandes": [
+          "realisezr des captures d'ecran en ligne de commandes avec scrot"
+        ],
+        "Web & Reseau": [
+          "Securisez et controlez l'acces au web",
+          "8 conseils pour creer une landing page efficace"
+        ]
+      }
+    },
+    {
+      "name": "lp101",
+      "date": "2017-05-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "L'essentiel de l'actualite linux et open source",
+          "Rencontre avec les initiateurs des projets copypeste et openfacetracker, vainqueurs de la student demo cup"
+        ],
+        "Cahier Raspberry pi & Debutant Linux": [
+          "Personnalisez son terminal",
+          "Plongez au coeur des annees 80 avec votre raspberry pi et risc ostream",
+          "Gerez votre raspberry pi depuis votre smartphone et raspmanager"
+        ],
+        "Entreprise et organisation": [
+          "Securite procedurale : mise en oeuvre de la norme 27001 en entreprise"
+        ],
+        "Logitheque & Applicatif": [
+          "Creer votre fonte symbole",
+          "Green recorder : realisez des screencasts en toute simplicite",
+          "Nuclear : ecoutez toute la musique que vous aimez",
+          "Photofilmstrip : realisez un diaporama video a partir de vos photos",
+          "Framaslides : creez vos presentations en ligne",
+          "Brancher son ampli de guitare yamaha thr10 sous linux"
+        ],
+        "Mobilite & Objets connectes": [
+          "Omni notes : gerez vos notes de facon efficace",
+          "Loop : maintenez vos bonnes resolution sur le long terme"
+        ],
+        "Reflexion & Societe": [
+          "Organiser un brainstorming geant : l'innovation participative en pratique avec nova-ideo"
+        ],
+        "Systeme & Personnalisation": [
+          "Creer sa propreiso debian en incluant les paquets que l'on veut",
+          "Protegez votre vie privee avec Keepass et veracrypt",
+          "Programmation & scripts",
+          "Exercism : n'apprenez plus un langage tout seul ! "
+        ],
+        "Terminal & Ligne de commandes": [
+          "Avec extundelete, recuperez un repertoire efface !"
+        ],
+        "Web & Reseau": [
+          "Generer un site statique avec Lektor",
+          "Partagez vos documents de maniere securisee et auto-hebergee avec Privatebin"
+        ]
+      }
+    },
+    {
+      "name": "lp102",
+      "date": "2017-07-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Rencontre avec le collectif chatons"
+        ],
+        "Cahier Raspberry pi & Debutant Linux": [
+          "Transformez votre Raspberry Pi en Machine dediee a vos enfants",
+          "Diagnostiquer et lister les peripheriques de votre machine"
+        ],
+        "Entreprise et organisation": [
+          "Realiser un inventaire de votre parc informatique ou un deploiement automatise avec glpi/FusionInventory"
+        ],
+        "Logitheque & Applicatif": [
+          "Utiliser un tracker de decoupe avec inskape",
+          "Gnucash : etablissez un suivi de vos finances personnelles",
+          "Stacer : un etat des lieux de votre systeme en un coup d'oeil",
+          "Diffuser une video en streaming a l'aide de VLC"
+        ],
+        "Mobilite & Objets connectes": [
+          "Sky map : la tete dans les etoiles...",
+          "Osmand : pour ne plus vous perdre sur la route de vos vacances"
+        ],
+        "Reflexion & Societe": [
+          "Immersion dans le monde merveilleux du web pour aldultes"
+        ],
+        "Scripts": [
+          "Mettez-vous a la programmation avec processing !"
+        ],
+        "Systeme & Personnalisation": [
+          "Protegez vos donnees grace au chiffrement en cas de vol de votre ordinateur"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Gerez vos sites wordpress en ligne de commandes"
+        ],
+        "Web & Reseau": [
+          "Oubliez les gazouillis proprietaires et pouetez en toute liberte avec Mastodon"
+        ]
+      }
+    },
+    {
+      "name": "lp103",
+      "date": "2017-09-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Agenda Septembre-Octobre 2017"
+        ],
+        "Cahier Raspberry Pi": [
+          "Creez facilement votre console de jeu retrogaming multiplateforme avec recalbox",
+          "Faire ses premier pas avec opencv sur Raspberry Pi"
+        ],
+        "Entreprise et organisation": [
+          "Gerez vos sessions ssh avec teleport"
+        ],
+        "Logitheque & Applicatif": [
+          "Fotoxx : gestion et edition de votre phototheque a portee de clic",
+          "Quod Libet : Le player multifonction simple d'utilisation",
+          "Redecouvrir ses jeux preferes de psp grace a ppsspp"
+        ],
+        "Mobilite & Objets connectes": [
+          "TuxPaint : Pour laisser s'exprimer la fibre artistique des petits (et des grands)",
+          "Flym : ne pas perdre une miette de vos sites favoris"
+        ],
+        "Programmation & Script": [
+          "Programmer une application android a l'aide de processing"
+        ],
+        "Systeme & Personnalisation": [
+          "Mettre a jour sereinement son systeme grace a LVM",
+          "Optimiser le systeme d'exploitation de votre ordinateur de bureau et de votre Raspberry Pi",
+          "Proteger sa vie privee sous Chrome OS"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Optimiser ses images et ses commandes Shell",
+          "Rippez ses Dvd en ligne de commandes"
+        ],
+        "Web & Reseau": [
+          "Mettez en place votre propre generateur de liens courts avec Yourls"
+        ]
+      }
+    },
+    {
+      "name": "lpXXX",
+      "date": "20AA-MM-01",
+      "index": {
+        "Actualite & Applicatif": [],
+        "Actualite & Nouveautes": [],
+        "Cahier Raspberry Pi": [],
+        "Cahier Raspberry pi & Debutant Linux": [],
+        "Entreprise et organisation": [],
+        "Logitheque & Applicatif": [],
+        "Mobilite & Objets connectes": [],
+        "Programmation & Script": [],
+        "Reflexion & Societe": [],
+        "Scripts": [],
+        "Systeme & Personnalisation": [],
+        "Terminal & Ligne de commandes": [],
+        "Web & Reseau": []
+      }
+    }
+  ],
+  "Linux_Pratique_HS": [
+    {
+      "name": "lphs37",
+      "date": "2016-10-01",
+      "title": "Le guide pour réaliser votre première animation 3D avec Blender Logiciel libre & gratuit pour Windows, mac OS & Linux, Niveau Debutant",
+      "index": {
+        "Decouvrez blender": [
+          "Faites vos premiers pas avec Blender",
+          "Prenez en main Blender",
+          "Accelerez vos rendus"
+        ],
+        "Creez votre premiere scene": [
+          "Modelisez les objets de votre scene",
+          "Brisez le nom de votre studio",
+          "Donnez vie a votre scene"
+        ],
+        "Ajoutez de la lumiere et des textures": [
+          "Appliquez des materiaux a vos objets",
+          "Parametrez l eclairage de la scene"
+        ],
+        "Finalisez votre animation": [
+          "Ajoutez du son",
+          "Ajoutez des effets speciaux en post-production",
+          "Configurez le rendu de votre jingle"
+        ]
+      }
+    },
+    {
+      "name": "lphs38",
+      "date": "2017-03-01",
+      "title": "C'est decide, je debute sous linux avec la Raspberry Pi ! Zero prerequis",
+      "index": {
+        "C'est decide, je debute sous linux avec la Raspberry Pi !": [
+          "Introduction, qu'est-ce que la Raspberry Pi ? Faites connaissance avec le celebre nano-ordinateur et ses differents modeles",
+          "Qu'est-ce que la Raspberry¨Pi ?",
+          "Une famille, plusieurs modeles et des accessoires"
+        ],
+        "Mise en route, Apprenez tout ce qu'il faut savoir pour demarrer facilement avec la Raspberry Pi": [
+          "Preparez tout le necessaire avant de vous lancer",
+          "Mettez en route votre Raspberry¨Pi"
+        ],
+        "Decouverte, Effectuez un tour d'horizoncomplet de Raspbian, le systeme de votre Raspberry Pi, et de sa logitheque": [
+          "Tour d'horizon de votre environnement de travail",
+          "Faisons connaissance avec la logitheque disponible"
+        ],
+        "Tutoriels, Gerez vos logiciels, ajouter des utilisateurs , controlez a distance votre Pi, Mettez en place un media center": [
+          "Gerez vos paquets logiciels avec Synaptic",
+          "Ajoutez et gerez des utilisateurs",
+          "Controlez a distance votre Raspberry Pi avec VNC",
+          "Faites de votre Raspberry¨Pi un media center"
+        ],
+        "Bonus, Testez Ubuntu MATE, Deployez un cloud personnel, Creez une console de retrogaming": [
+          "Decouvrez Ubuntu MATE une alternative a Raspbian",
+          "Hebergez un cloud personnel sur votre Raspberry¨Pi",
+          "Transformez votre Raspberry¨Pi en console de retrogaming",
+          "L'aventure continue ..."
+        ]
+      }
+    },
+    {
+      "name": "lphs39",
+      "date": "20AA-MM-01",
+      "title": "Mémo ligne de commande, le guide pour exploiter le shell & tirer le meilleur de votre systeme",
+      "index": {
+        "Introduction, qu'est ce que le shell ? Comprenez ses principes de fonctionnement avant de prendre en main votre terminal": [
+          "Qu'est ce qu'un shell"
+        ],
+        "Memo, Decouvrez les bases indispensables pour maitriser le shell et creer vos premiers scripts : systeme de fichiers, mecanisme d'interpretation, expressions regulieres ...": [
+          "Memo 1 Le systeme de fichier",
+          "Memo 2 Le mecanisme d'interpretation du shell",
+          "Memo 3 Le traitement de flux de donnees"
+        ],
+        "Recettes, Obtenez des informations sur votre systeme, faites tournez un programme a distance, inspectez vos journaux systeme, Gerez vos environnements de travail, Synchronisez vos repertoires, Securisez votre serveur, Convertissez vos images par lots, ...": [
+          "Mieux connaitre son systeme",
+          "Inspectez les journaux systeme",
+          "Creer un service systeme",
+          "Planifier ses taches",
+          "Lancer des operations en taches de fond",
+          "Executer un programme interactif a distance",
+          "Securiser son serveur en appliquant des regles firewall",
+          "Detecter les eventuelles menaces presentes dans vos fichiers telecharges",
+          "Monter des fichiers ISO et creer des espaces de fichiers sur RAM",
+          "Gerer ses environnements de travail",
+          "Synchronier deux repertoires",
+          "Ecouter de la musique depuis son terminal",
+          "Renommer ses photos grace aux metadonnees",
+          "Convertir ses images par lots",
+          "Generer des galeries d'images avec mise a jour automatique"
+        ]
+      }
+    },
+    {
+      "name": "lphsXX",
+      "date": "20AA-MM-01",
+      "title": "",
+      "index": {}
+    }
+  ],
+  "Misc": [
+    {
+      "name": "misc73",
+      "date": "2014-05-01",
+      "index": {
+        "Application": [
+          "Etude du moteur d application des strategies de groupe Active Directiry a des fins d audit de securite"
+        ],
+        "Dossier": [
+          "Confrontez-vous aux meilleurs : mesurez vos competences grace aux challenges de securite"
+        ],
+        "Exploit corner": [
+          "Retour d experience sur la faille Windows CVE-2013-5065 'Ring Ring'"
+        ],
+        "Forensic corner": [
+          "Attaques ciblees : la visualisation analytique comme outil forensic et d investigation"
+        ],
+        "Pentest corner": [
+          "Compromission du serveur applicatif Tomcat via l API JMX"
+        ],
+        "Science et technologie": [
+          "Chroniques de la planete crypto : est-ce vraiment la fin ?"
+        ],
+        "Systeme": [
+          "Retour d experience sur le deploiement d un SOC : vulnerability management"
+        ]
+      }
+    },
+    {
+      "name": "misc87",
+      "date": "2016-09-01",
+      "index": {
+        "Code": [
+          "Pourquoi inclure la securite dans votre pipeline DevOps",
+          "Securite des vehicules connectes et/ou autonome"
+        ],
+        "Cryptographie": [
+          "Les attaques sur RSA : de la theorie a la pratique"
+        ],
+        "Dossier": [
+          "Social Engineering : decouvrez les techniques de manipulation et apprenez a les dejouer !"
+        ],
+        "Forensic corner": [
+          "Arretez de grogner avec GRR Rapid Response ! "
+        ],
+        "Malware corner": [
+          "Automatisation d une obfuscation de code VBA avec Vbad"
+        ],
+        "Pentest corner": [
+          "Contournement d AppLockervia Powershell"
+        ],
+        "Systeme": [
+          "Analyse de la securite d un bracelet sportif"
+        ]
+      }
+    },
+    {
+      "name": "misc89",
+      "date": "2017-01-01",
+      "index": {
+        "Cryptographie": [
+          "Cassage de mots de passe : que mettre dans votre boite a outils ?"
+        ],
+        "Dossier, Pub & internet : le nouvel arsenal des publicitaires": [
+          "Preambule",
+          "Le monstre au bout de l'enchere",
+          "IP Squatting applique au SPAM",
+          "Black SEO : de l'autre cote du miroir",
+          "Pourriel un jour, pourriel toujours"
+        ],
+        "Exploit corner": [
+          "Architecture 64 bits/ASLR : quelles consequences pour les exploits 32 bits ? Etude de cas avec Java et le CVE-2010-0842"
+        ],
+        "Forensic corner": [
+          "Un Honeypot nomme DFIR"
+        ],
+        "Pentest corner": [
+          "Approche pragmatique du dump memoire"
+        ],
+        "Reseau": [
+          "Automatisation des tests de securite en environnement web avec Mozilla Minion"
+        ],
+        "Systeme": [
+          "Detection d'attaque avec Splunk",
+          "UnSHc : dechiffrer des scripts Shell compiles et chiffres par SHc"
+        ]
+      }
+    },
+    {
+      "name": "misc90",
+      "date": "2017-03-01",
+      "index": {
+        "Cryptographie": [
+          "Psychologie ... et mots de passe"
+        ],
+        "Dossier, Telegram, signal, ... : Quelle confiance leur accorder ?": [
+          "Preambules",
+          "Dans la jungle des messageries instantanees",
+          "Telegram, la controversee",
+          "Chiffrement de messagerie quasi instantannee : a quel protocole se vouer",
+          "Presentation de l'attaque Man In The Contacts pour pieger les utilisateurs de WhatsApp, Signal et Telegram"
+        ],
+        "Exploit corner": [
+          "Authentification interprotocolaire sous Windows et elevation de privileges"
+        ],
+        "Malware corner": [
+          "A la decouverte de Mirai"
+        ],
+        "Organisation & Juridique": [
+          "L'evolution de la fonction CIL vers la fonction DPO"
+        ],
+        "Pentest corner": [
+          "Injection de DLL dans le service IKEEXT : un moyen (encore) efficace pour elever ses privileges sous Windows"
+        ],
+        "Reseau": [
+          "Durcissement des switchs HP Comware"
+        ]
+      }
+    },
+    {
+      "name": "misc92",
+      "date": "2017-07-01",
+      "index": {
+        "Cryptographie": [
+          "Usage de la cryptographie par les formats d'archives ZIP, RAR et 7z"
+        ],
+        "Dossier, Decouvrez les techniques de reverse engineering !": [
+          "Retro-ingenierie d'applications Android avec Androguard",
+          "CVE-2017-6862 : How I Rooted Your Router",
+          "Anti-RE 101",
+          "Introduction a l'analyse de malwares",
+          "Reverse Engineering : ce que le droit autorise et interdit"
+        ],
+        "Forensic corner": [
+          "Frida : le couteau suisse de l'analyse dynamique multiplateforme"
+        ],
+        "IoT corner": [
+          "Sextoys connectes : la debandade ?"
+        ],
+        "Malware corner": [
+          "Analyse d'un malware en Node.JS"
+        ],
+        "Organisation & Juridique": [
+          "Villes intelligentes et question de droit"
+        ],
+        "Reseau": [
+          "Gestion des logs : presentation et mise en oeuvre simplifiee d'un collecteur et d'un SIEM",
+          "iBeacon, ca baise un max !"
+        ]
+      }
+    },
+    {
+      "name": "miscXX",
+      "date": "20XX-MM-01",
+      "index": {
+        "Application": [],
+        "Code": [],
+        "Cryptographie": [],
+        "Dossier": [],
+        "Exploit corner": [],
+        "Forensic corner": [],
+        "IoT corner": [],
+        "Malware corner": [],
+        "Organisation & Juridique": [],
+        "Pentest corner": [],
+        "Reseau": [],
+        "Science et technologie": [],
+        "Systeme": []
+      }
+    }
+  ],
+  "Misc_HS": [
+    {
+      "name": "mischs14",
+      "date": "2016-10-01",
+      "title": "Apprenez a tester les vulnerabilites de vos systemes et de vos serveurs grace a Matasploit",
+      "index": {
+        "Prise en main": [
+          "Introduction",
+          "Deploiement rapide de Metasploit avec Docker",
+          "Metasploit is not an exploit framework"
+        ],
+        "Exploitation": [
+          "Ecriture d un exploit pour un plugin WordPress",
+          "De la preuve de concept au module Metasploit",
+          "Emulateur HID Teensy et Meterpreter Metasploit en Powershell"
+        ],
+        "Usages avances": [
+          "Mecanismes de generation de PE ",
+          "Pivoter facilement avec Metasploit",
+          "Prise en main Meterpreter"
+        ],
+        "Compromission de systemes": [
+          "Cinq facons de devenir administrateur de domaine avec Metasploit",
+          "Post-exploitation Windows avec Metasploit"
+        ]
+      }
+    }
+  ],
+  "Open_silicium": [
+    {
+      "name": "os18",
+      "date": "2016-09-01",
+      "index": {
+        "Actualite": [
+          "FOSDEM 2016, Burxelles"
+        ],
+        "Code et developpement": [
+          "Upload de programme sur processeur STMicroelectronics : cas du STM32-F401RE",
+          "Debogage kernel et applicatif avec Ftrace pour systeme generaliste ou embarque"
+        ],
+        "En couverture": [
+          "Prototypage IoT avec Buildroot",
+          "Mise en place d'un environnement de developpement sur le C.H.I.P",
+          "RIOT, le systeme d'exploitation libre pour l'internet des objets"
+        ],
+        "FPGA": [
+          "Mise en oeuvre de Xenomai sur carte FPGA Zynq Zedboard",
+          "Decompressez un flux de donnees 3R avec un circuit ecrit en VHDL",
+          "Ecrire un pilote en Userspace pour FPGA grace au pilote UIO"
+        ],
+        "Temoignage": [
+          "Interview de Cedric Bail"
+        ]
+      }
+    },
+    {
+      "name": "os20",
+      "date": "2016-11-01",
+      "index": {
+        "Systeme": [
+          "Peripheriques decouvrable, decouverts ou a decouvrir"
+        ],
+        "Distribution": [
+          "IoT sous Yocto, un cas d utilisation"
+        ],
+        "En couverture": [
+          "Buildroot vs Yocto vs le reste du monde"
+        ],
+        "Domotique": [
+          "Controllez vos applications d un simple geste avec Myo"
+        ],
+        "Reperes et sciences": [
+          "Modelisation et utilisation d une d'une parabole : application wifi"
+        ],
+        "Mobilite/IoT": [
+          "IoT : programmation d un objet connecte Java ME",
+          "A la decouverte de la WaRP7"
+        ]
+      }
+    },
+    {
+      "name": "osend",
+      "date": "2016-09-01",
+      "index": {
+        "status": "end of publication"
       }
     }
   ]

@@ -472,8 +472,87 @@ misc-N73(2014.05)
 	  Django par la pratique
 	Securite & Vulnerabilite
 	  Chez les barbus - Java & Securite : Authentification a deux etapes
+}
+2017.01-GNU Linux mag HS88 MySql/MariaDb{
+  Creez votre base de donnees MySql MariaDb en 5 étapes
+    Etape 1, Je concois ma base de donnees
+	  Comprendre les bases de donneed relationnelles
+	  Utiliser l'interface graphique MySQL Workbench
+	Etape 2, J'installe mon SGBDR MySql MariaDB
+	  Choisir MySql ou MariaDb et l'installer
+	Etape 3, J'utilise le langage SQL pour acceder a ma base
+	  Utilisez correctement l'instruction Select pour vos requetes
+	  Augmentez les performances de vos bases de donnees avec les index
+	Etape 4, Je securise ma base et l'acces a mes donnees
+	  Securisez votre base MariaDb a l'aide de plugins
+	Etape 5, Je cree des programmes utilisant mes bases de donnees
+	  Accedez a vos donnees en C++ avec sqlpp11
+	  Utilisez MySql avec l'API REST et Python
+	  Decouvrez les nouvelles fonctions natives SQL pour manipuler du contenu JSON
 	
 }
+2017.03-GNU Linux mag HS89 Shell {
+  Maitrisez la programmation de scripts Shell
+    Programmez votre premier vrai script shell : bien plus qu'un simple fichier de commandes
+	  Ecrivez votre preimer script "Shell"
+	Progressez dans l'ecriture de scripts grace aux structures de controle et a la gestion de processue
+	  Utilisez les structures de controle et autres mecanismes de la programmation "Shell"
+	  Gerez vos processus et sous-processus
+	Maitrisez les bonnes techniques et utilisez les fonctions avancees du Shell Bash
+	  Decouvrez les fonctionnalités avancees du "Bash" et les bonnes pratiques
+	Bonus
+	  Mise en pratique : realistion d'un outil de controle de qualite de scripts "Shell"
+}
+2017.05-GNU Linux mag HS90 Reseau/Python {
+  Demarrez la programmation reseau en Python avec les modules essentiels
+    Utilisez TCP et UDP en Python
+	Developpez une application graphique utilisant le reseau
+	Utilisez des API REST en Python
+	Scapy, le couteau suisse Python pour le reseau
+  Creez vos robots et clients en python pour interagir avec des services web tels que Github, Google drive, etc.
+    Creez un systeme de migration des rapports de bug de Github a votre Gitlab
+	Creez un driver FUSE pour Google Drive
+	Creez un bot IRC, 
+	Creez un Robot Slack, 
+	Creez un client XMPP
+  Progressez en creant un script communiquant par SMS et en analysant un serveur de fichiers
+    Envoyez des SMS avec un Raspberry Pi et Python
+	Un exemple concret de serveur HTTP servant des fichiers
+}
+2017.07-GNU Linux mag HS91 Android {
+  Decouvrez les etapes a suivre pour creer un projet structure
+    Preparez le demarrage de votre projet geocatching
+  Manipulez les capteurs/perippheriques de votre smartphone : accelerometre, magnetometre, NFC, GPS, etc.
+    Decouvrez les capteurs de votre smartphone
+	Comment integrer des capteurs dans un application ?
+	Utilisez des tags NFC
+	Localisez les caches a l'aide de leurs coordonnees GPS et stockez l'information
+  Communiquez en Bluetooth et par SMS pour partager des caches visibles sur des cartes Google Maps
+    Communiquez en Bluetooth
+	Envoyez des SMS et utilisez l'API Google Maps pour afficher des cartes
+  Publiez & Monetisez votre application sur Google Play, rendez-la payante et inserez-y de la publicite
+    Preparez votre application pour le store
+	Internationalisez votre application et touchez le plus de monde possible
+	Diffusez votre application sur Google Play
+	Gagnez de l'argent ! Beaucoup d'argent ... ?
+}
+2017.09-GNU Linux mag HS92 VPN {
+  Debutez avec le protocole TCP/IP les nouveautes d'IPv6 et le fonctionnement d'un VPN
+    Presentation de TCP/IP
+	A la decouverte des VPNs
+	Comment choisir son VPN ?
+  OPENVPN Configurez-le finement et installez des clients y compris sur des systemes non libress
+    Creez une configuration OpenVPN simple
+	Utilisez les options avancees d'OpenVPN
+	Configurez les postes clients y compris sur des systemes non libres
+  Allez plus loin en developpent vos plugins OpenVPN et en y integrant un firewall
+    Integrez un firewall a OpenVPN
+	Developpez vos plugins OpenVPN
+  +IPSEC Apprenez a configurer l'"autre" solution tunnel
+    Mettez en place un serveur IPSec
+	Configurez les postes IPSec clients
+}
+
 
 2016.09-Hackable 14 {
   Actualites
@@ -532,15 +611,15 @@ misc-N73(2014.05)
 	Creez un effet "feu" avec une matrice de leds
   En couverture
     Creez des boutons a copier/coller
-	Creez un controleur de volume pour votre ordinateur
-	Transformez un vieux materiel de 30 ans en clavier USB
+	  Creez un controleur de volume pour votre ordinateur
+	  Transformez un vieux materiel de 30 ans en clavier USB
   Embarque & informatique
-	Configurez un clavier Bluetooth pour votre Pi
-	Changez la configuration des leds de votre Raspberry Pi
+	  Configurez un clavier Bluetooth pour votre Pi
+	  Changez la configuration des leds de votre Raspberry Pi
   Demontage, Hacks & recup
-	Utilisez votre Arduino UNO comme périphérique USB
+	  Utilisez votre Arduino UNO comme périphérique USB
   Repere & science
-	Les codes tournants ou comment ne pas envoyer le meme message deux fois
+	  Les codes tournants ou comment ne pas envoyer le meme message deux fois
 }
 2017.05-Hackable 18 {
   Equipement
@@ -574,17 +653,17 @@ misc-N73(2014.05)
 }
 2017.09-Hackable 20 {
   Equipement
-	Fabriquez vos cables/jumpers pour platines a essais
+	  Fabriquez vos cables/jumpers pour platines a essais
   En Couverture
-	Creez une lampe lunaire : preparation
-	Creez une lampe lunaire : en route !
+	  Creez une lampe lunaire : preparation
+	  Creez une lampe lunaire : en route !
   Embarque & Informatique
-	Visualisez la charge processeur de votre Pi avec Pimoroni Piglow
-	Sense HAT pour donner de la couleur et plus a votre Raspberry Pi
+	  Visualisez la charge processeur de votre Pi avec Pimoroni Piglow
+	  Sense HAT pour donner de la couleur et plus a votre Raspberry Pi
   Demontage, Hacks & Recup
-	Creez votre ordinateur 8 bits sur platine a essais : le processeur
+	  Creez votre ordinateur 8 bits sur platine a essais : le processeur
   Tension & Courant
-	Prenez de bonnes mesures ! Et si des la rentree on se mettait au courant ?
+	  Prenez de bonnes mesures ! Et si des la rentree on se mettait au courant ?
 }
 
 2015.11-Linux Pratique 92 {
@@ -669,7 +748,7 @@ misc-N73(2014.05)
     Synchronisez une cle USB avec un dossier local
   Ligne de commandes
     Gere et versionner votre configuration utiisateur avec RCM et Git
-    Recherche de fichiers avec grep et find²
+    Recherche de fichiers avec grep et find
   Cahier web
     Tutoriel : Surveillez votre serveur web avec PSI
     Acquisition de notoriete sur le Web : mode d emploi
@@ -678,6 +757,213 @@ misc-N73(2014.05)
   Solutions Pro
     Django CMS, le renouveau du CMS
 }
+2017.01-Linux Pratique 99 {
+  Actualites & nouveautes
+    L essentiel de l actualite Linux et open source
+  Logitheque & Applicatif
+    Creer une illustration a bases de formes triangulaires avec Inskape
+	  Ramme : un client instagram open source pour votre desktop
+	  Okular : un utilitaire pratique pour manipuler facilement vos documents
+	  Harmony ; un player pour toute votre musique
+	  Framemo : Un tableau pour realiser un brainstorming collaboratif
+	  Creez un media center a partir de votre PC et/ou votre Raspberry Pi
+  Systeme & personnalisation
+    Creer un bureau personnalise
+	  Tracer votre utilisateur d'application avec thyme pour ameliorer votre productivite
+  Programmation & Script
+    Animation et controle de l'esprit de sprites avec Pacman
+	  de l'installation aux limite de scratch 2.0
+  Web & Reseau
+    Prendre en main bootstrap pour realiser un sote responsive et esthetique
+	  Extension firefox : selectionnez et imprimez ! 
+  Terminal & Ligne de commandes
+    Enregistrer et rejouer des sessions terminal
+  Entreprise et organisation
+	  Gerer vos lister de taches a l'aide de TaskWarrior
+  Reflexion & Societe
+	  La joyeuse illusion de black SEO
+  Mobilite & Objets connectes
+	  DuckDuckGo search & Stories : des rechers dans le respect de la vie privée
+	  Amaze File Manager : Un gestionnaire de fichier simple, elegant & open source
+	  analyser vos activités sportive avec Turtlesport
+  Cahier Raspberry pi & Debutant Linux
+	  Personnalisez l'environnement de bureau pixel
+	  preparer la carte SD de votre Raspberry Pi avec Gnome Disks
+	  Decouvrir des outils de base indispensables en ligne de commandes
+	  Enregistrer facilement une image systeme sur la carte SD de votre RaspBerry¨Pi
+}
+2017.03-Linux Pratique 100 {
+  Actualite & applicatif
+    L'essentiel de l'activité linux et open source
+  Logitheque & applicatif
+    Realiser ses presentations avec sozi
+	  shots : capturez et annontez votre ecran
+	  calibre : lisez et gerez votre collection d e-books
+	  Shotwell : organisez et retouchez votre phototheque
+	  Framabag : Mettez-les de cote, lisez les plus tard
+	  realiser ses schema electroniques avec fritzing
+  Systeme & personnalisation
+    Nano : l'editeur petit, mais costaud
+	  Parametrez votre clavier multimedia avec xbindkeys
+  programmation & scripts
+    Un peu d'organisation pour Pacman
+	  Il est rond comme un ballon, il est jaune comme un citron, c'est ... un objet
+	  Programmer dans le cloud avec Codiac
+  Web & reseau
+    Securisez et controlez l'acces au web
+    8 conseils pour creer une landing page efficace
+  Terminal & Ligne de commande
+    realisezr des captures d'ecran en ligne de commandes avec scrot
+  Entreprise & Organisation
+    Gerer vos secrets avec vault
+  Mobilite & Objet connectes
+    Permission friendly apps : reperez les applications les plus intrusives
+	  Antennapod : lisez & gerez facilement tous vos podcasts
+  Reflexion & Societe
+    [Interview] : Tristan nitot "la centralisation des donnees personnelles rend economiquement possible la surveillance de masse"
+  Cahier Raspberry Pi & Debutant Linux
+    Troquez pixel contre enlightenment
+	  Changer l'environnement de bureau de rasbian
+	  Prise en main de geany pour developper sur Rasberry pi
+}
+2017.05-Linux Pratique 101 {
+  Actualites & Nouveautes
+    L'essentiel de l'actualite linux et open source
+	  Rencontre avec les initiateurs des projets copypeste et openfacetracker, vainqueurs de la student demo cup
+  Logitheque & applicatif
+    Creer votre fonte symbole
+	  Green recorder : realisez des screencasts en toute simplicite
+	  Nuclear : ecoutez toute la musique que vous aimez
+	  Photofilmstrip : realisez un diaporama video a partir de vos photos
+	  Framaslides : creez vos presentations en ligne
+	  Brancher son ampli de guitare yamaha thr10 sous linux
+  Systeme & personnalisation
+    Creer sa propreiso debian en incluant les paquets que l'on veut
+	  Protegez votre vie privee avec Keepass et veracrypt
+    Programmation & scripts
+    Exercism : n'apprenez plus un langage tout seul ! 
+  Web & Reseau
+    Generer un site statique avec Lektor
+	  Partagez vos documents de maniere securisee et auto-hebergee avec Privatebin
+  Terminal & ligne de commandes
+    avec extundelete, recuperez un repertoire efface ! 
+  Entreprise & organisation 
+    Securite procedurale : mise en oeuvre de la norme 27001 en entreprise
+  Mobilite & objets connectes
+    Omni notes : gerez vos notes de facon efficace
+	  Loop : maintenez vos bonnes resolution sur le long terme
+  Reflexion & societe
+    Organiser un brainstorming geant : l'innovation participative en pratique avec nova-ideo
+  Cahier raspbeery pi & debutant linux
+    Personnalisez son terminal
+	  Plongez au coeur des annees 80 avec votre raspberry pi et risc ostream
+	  Gerez votre raspberry pi depuis votre smartphone et raspmanager
+}
+2017.07-Linux Pratique 102 {
+  Actualites & Nouveautes
+	  Rencontre avec le collectif chatons
+  Logitheque & Applicatif
+    Utiliser un tracker de decoupe avec inskape
+	  Gnucash : etablissez un suivi de vos finances personnelles
+	  Stacer : un etat des lieux de votre systeme en un coup d'oeil
+	  Diffuser une video en streaming a l'aide de VLC
+  Systeme & personnalisation
+    Protegez vos donnees grace au chiffrement en cas de vol de votre ordinateur
+  Web & reseau
+    Oubliez les gazouillis proprietaires et pouetez en toute liberte avec Mastodon
+  Scripts
+    Mettez-vous a la programmation avec processing !
+  Entreprise & Organisation
+    Realiser un inventaire de votre parc informatique ou un deploiement automatise avec glpi/FusionInventory
+  Terminal & ligne de commandes
+    Gerez vos sites wordpress en ligne de commandes
+  Reflexion & Societe
+    Immersion dans le monde merveilleux du web pour aldultes
+  Mobilite & objets connectes
+    Sky map : la tete dans les etoiles...
+	  Osmand : pour ne plus vous perdre sur la route de vos vacances
+  Cahier Raspberry Pi & Debutant Linux
+    Transformez votre Raspberry Pi en Machine dediee a vos enfants
+	  Diagnostiquer et lister les peripheriques de votre machine
+}
+2017.09-Linux Pratique 103 {
+  Actualites & Nouveautes
+    Agenda Septembre-Octobre 2017
+  Logitheque & Applicatif
+    Fotoxx : gestion et edition de votre phototheque a portee de clic
+	  Quod Libet : Le player multifonction simple d'utilisation
+	  Redecouvrir ses jeux preferes de psp grace a ppsspp
+  Systeme & Personnalisation
+    Mettre a jour sereinement son systeme grace a LVM
+	  Optimiser le systeme d'exploitation de votre ordinateur de bureau et de votre Raspberry Pi
+	  Proteger sa vie privee sous Chrome OS
+  Web & Reseau
+    Mettez en place votre propre generateur de liens courts avec Yourls
+  Programmation & Scripts
+    Programmer une application android a l'aide de processing
+  Entreprise & Organisation
+    Gerez vos sessions ssh avec teleport
+  Terminal & Ligne de Commandes
+    Optimiser ses images et ses commandes Shell
+	  Rippez ses Dvd en ligne de commandes
+  Mobilite & OBjets Connetces
+    TuxPaint : Pour laisser s'exprimer la fibre artistique des petits (et des grands)
+	  Flym : ne pas perdre une miette de vos sites favoris
+  Cahier Raspberry Pi
+    Creez facilement votre console de jeu retrogaming multiplateforme avec recalbox
+	  Faire ses premier pas avec opencv sur Raspberry Pi
+}
+2017.03-Linux Pratique HS38 Linux, Raspberry Pi {
+  C'est decide, je debute sous linux avec la Raspberry Pi !
+    Introduction, qu'est-ce que la Raspberry Pi ? Faites connaissance avec le celebre nano-ordinateur et ses differents modeles
+	  Qu'est-ce que la Raspberry¨Pi ?
+	  Une famille, plusieurs modeles et des accessoires
+	Mise en route, Apprenez tout ce qu'il faut savoir pour demarrer facilement avec la Raspberry Pi
+	  Preparez tout le necessaire avant de vous lancer
+	  Mettez en route votre Raspberry¨Pi
+	Decouverte, Effectuez un tour d'horizoncomplet de Raspbian, le systeme de votre Raspberry Pi, et de sa ligitheque
+	  Tour d'horizon de votre environnement de travail
+	  Faisons connaissance avec la logitheque disponible
+	Tutoriels, Gerez vos logiciels, ajouter des utilisateurs , controlez a distance votre Pi, Mettez en place un media center
+	  Gerez vos paquets logiciels avec Synaptic
+	  Ajoutez et gerez des utilisateurs
+	  Controlez a distance votre Raspberry Pi avec VNC
+	  Faites de votre Raspberry¨Pi un media center
+	Bonus, Testez Ubuntu MATE, Deployez un cloud personnel, Creez une console de retrogaming
+	  Decouvrez Ubuntu MATE une alternative a Raspbian
+	  Hebergez un cloud personnel sur votre Raspberry¨Pi
+	  Transformez votre Raspberry¨Pi en console de retrogaming
+	  L'aventure continue ...
+}
+2017.07-Linux Pratique HS39 Shell {
+  Memo lignes de commandes, le guide pour exploiter le shell & tirer le meilleur de votre systeme ! (compatible Raspberry¨Pi)
+	Introduction, qu'est ce que le shell ? Comprenez ses principes de fonctionnement avant de prendre en main votre terminal
+	  Qu'est ce qu'un shell
+	Memo, Decouvrez les bases indispensables pour maitriser le shell et creer vos premiers scripts : systeme de fichiers, mecanisme d'interpretation, expressions regulieres ...
+	  Memo 1 Le systeme de fichier
+	  Memo 2 Le mecanisme d'interpretation du shell
+	  Memo 3 Le traitement de flux de donnees
+	Recettes, Obtenez des informations sur votre systeme, faites tournez un programme a distance, inspectez vos journaux systeme, Gerez vos environnements de travail, Synchronisez vos repertoires, Securisez votre serveur, Convertissez vos images par lots, ...
+	  Mieux connaitre son systeme
+	  Inspectez les journaux systeme
+	  Creer un service systeme
+	  Planifier ses taches
+	  Lancer des operations en taches de fond
+	  Executer un programme interactif a distance
+	  Securiser son serveur en appliquant des regles firewall
+	  Detecter les eventuelles menaces presentes dans vos fichiers telecharges
+	  Monter des fichiers ISO et creer des espaces de fichiers sur RAM
+	  Gerer ses environnements de travail
+	  Synchronier deux repertoires
+	  Ecouter de la musique depuis son terminal
+	  Renommer ses photos grace aux metadonnees
+	  Convertir ses images par lots
+	  Generer des galeries d'images avec mise a jour automatique
+		
+	
+
+}
+2017.10-Linux Pratique HS40 {}
 
 2014.05-Misc 73 {
   Exploit corner
@@ -712,7 +998,7 @@ misc-N73(2014.05)
   Systeme
     Analyse de la securite d un bracelet sportif
 }
-2016.10-Misc HS14 {
+2016.10-Misc HS14 Metasploit {
   Prise en main
     Introduction
     Deploiement rapide de Metasploit avec Docker
@@ -731,6 +1017,72 @@ misc-N73(2014.05)
     
     
 }
+2017.01-Misc 89 {
+  Exploit corner
+    Architecture 64 bits/ASLR : quelles consequences pour les exploits 32 bits ? Etude de cas avec Java et le CVE-2010-0842
+  Pentest corner
+    Approche pragmatique du dump memoire
+  Forensic corner
+    Un Honeypot nomme DFIR
+  Dossier, Pub & internet : le nouvel arsenal des publicitaires
+    Preambule
+	  Le monstre au bout de l'enchere
+	  IP Squatting applique au SPAM
+	  Black SEO : de l'autre cote du miroir
+	  Pourriel un jour, pourriel toujours
+  Systeme
+    Detection d'attaque avec Splunk
+	  UnSHc : dechiffrer des scripts Shell compiles et chiffres par SHc
+  Cryptographie
+    Cassage de mots de passe : que mettre dans votre boite a outils ?
+  Reseau
+    Automatisation des tests de securite en environnement web avec Mozilla Minion
+}
+2017.03-Misc 90 {
+  Exploit corner
+    Authentification interprotocolaire sous Windows et elevation de privileges
+  Pentest corner
+    Injection de DLL dans le service IKEEXT : un moyen (encore) efficace pour elever ses privileges sous Windows
+  Malware corner
+    A la decouverte de Mirai
+  Dossier, Telegram, signal, ... : Quelle confiance leur accorder ?
+    Preambules
+	  Dans la jungle des messageries instantanees
+	  Telegram, la controversee
+	  Chiffrement de messagerie quasi instantannee : a quel protocole se vouer
+	  Presentation de l'attaque Man In The Contacts pour pieger les utilisateurs de WhatsApp, Signal et Telegram
+  Reseau
+	  Durcissement des switchs HP Comware
+  Organisation & Juridique
+	  L'evolution de la fonction CIL vers la fonction DPO
+  Cryptographie
+	  Psychologie ... et mots de passe
+}
+2017.05-Misc 91 {}
+2017.07-Misc 92 {
+  Malware corner
+    Analyse d'un malware en Node.JS
+  Forensic corner
+    Frida : le couteau suisse de l'analyse dynamique multiplateforme
+  IoT corner
+    Sextoys connectes : la debandade ?
+  Dossier, Decouvrez les techniques de reverse engineering !
+	  Retro-ingenierie d'applications Android avec Androguard
+	  CVE-2017-6862 : How I Rooted Your Router
+	  Anti-RE 101
+	  Introduction a l'analyse de malwares
+	  Reverse Engineering : ce que le droit autorise et interdit
+  Reseau
+    Gestion des logs : presentation et mise en oeuvre simplifiee d'un collecteur et d'un SIEM
+	  iBeacon, ca baise un max !
+  Organisation & Juridique
+    Villes intelligentes et question de droit
+  Cryptographie
+    Usage de la cryptographie par les formats d'archives ZIP, RAR et 7z
+}
+2017.09-Misc 93 {}
+2017.06-Misc HS15 {}
+2017.10-Misc HS16 {}
 
 2016.09-open silicium 18 {
   Actualite
