@@ -1,35 +1,30 @@
 {
-  "todo": [
-    {
-      "Gnu_Linux_mag": [],
-      "Gnu_Linux_mag_HS": [],
-      "Hackable": [
-        21,
-        22,
-        23,
-        24,
-        25,
-        26
-      ],
-      "Linux_Pratique": [
-        208,
-        209,
-        210,
-        211,
-        212,
-        213,
-        214,
-        215,
-        216,
+  "todo": {
+    "index": {
+      "Gnu_Linux_mag": [
         217,
         218
       ],
-      "Linux_Pratique_HS": [
+      "Gnu_Linux_mag_HS": [
         93,
         94,
         95,
         96,
         97
+      ],
+      "Hackable": [],
+      "Linux_Pratique": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "Linux_Pratique_HS": [
+        40,
+        41,
+        42
       ],
       "Misc": [
         "check missing",
@@ -50,8 +45,31 @@
       "Open_silicium": [
         null
       ]
-    }
-  ],
+    },
+    "read": [
+      "lm210 - Integrez vos scripts au bureau et gerer les URI",
+      "lm210 - Deployer un environnement de deploiement avec Debian-Installer Ansible et Git",
+      "lm210 - Securisez vos donnees par LVM et RAID",
+      "lm210 - HoneyPot qui mal y pense",
+      "lm211 - La configuration SSH d un 'DevOps'",
+      "lm211 - Base 16, 32, 36,  56, 64, 85, ...",
+      "lm211 - Isolez vos constructions logicielles a l aide de Docker",
+      "lm211 - Dopez vos commandes Shell",
+      "lm211 - Ecrivez du code JavaScript robuste",
+      "lm213 - La logique du jeu de la vie : exercice amusantes de pensee laterale",
+      "lm213 - Gerez vos tickets Github en ligne de commandes",
+      "lm213 - Detectez les fuites memoire dans vos programmes",
+      "lm214 - Stokage persistant dans cubernetes avec Rook",
+      "lm214 - L auto-hebergement leger de depots Git avec Gitolite",
+      "lm215 - A la decouverte des arbres binaires a commande equilibree",
+      "lm215 - Maintenance applicative avec Git",
+      "lm215 - Creez votre animal de compagnie virtuel",
+      "lm215 - Stimulus, un framework JS leger, puissant et cool",
+      "lm216 - Actus & Humeur - Python, PyEnv, et IA",
+      "lm216 - Une clé USB de secours toujours a portee de main",
+      "lm216 - Cloisonner une application simplement avec NsJail"
+    ]
+  },
   "Gnu_Linux_mag": [
     {
       "name": "lm101",
@@ -82,6 +100,38 @@
         "Sysadmin": [
           "Gli pour les (futures) barbus",
           "Anti-spam adaptable et performant avec OpenSSD et Spand"
+        ]
+      }
+    },
+    {
+      "name": "lm104",
+      "date": "2008-04-01",
+      "index": {
+        "Actualite": [
+          "FOSDEM 2008, une edition d exception !",
+          "Les nouveautes de Perl 5.10 - premiere partie"
+        ],
+        "Developpement": [
+          "Creez votre compilateur : c est pas mon type",
+          "La memoire des JVM et serveurs J2EE",
+          "Akonadi : un framework pour la PIM"
+        ],
+        "Hacks/codes": [
+          "Perles de Mongueurs : verification et mise en forme de script ou de module"
+        ],
+        "Kernel corner": [
+          "Noyau 2.6.25 : securite, memoire, spinlocks et KVM"
+        ],
+        "Sysadmin": [
+          "Utilisation avancee et securisation des clients legers",
+          "Monter son propre miroir Debian",
+          "SMF : gestion des services sous OpenSolaris",
+          "Idapvi, un editeur LDAP pour les barbus"
+        ],
+        "Unix/User": [
+          "Surfer sur IPv6 avec Freenet6",
+          "Grokking Docutils et reStructuredText",
+          "Configuration du reseau ave KEMU/KVM"
         ]
       }
     },
@@ -278,7 +328,7 @@
     },
     {
       "name": "lm197",
-      "date": "AAAA-MM-01",
+      "date": "2016-10-01",
       "index": {
         "Actualites": [
           "Generer son appli avec JBoss Forge"
@@ -629,8 +679,318 @@
       }
     },
     {
-      "name": "lmXXX",
-      "date": "AAAA-MM-01",
+      "name": "lm208",
+      "date": "2017-10-01",
+      "index": {
+        "Actus & Humeur": [
+          "Quand un petit projet depasse son concepteur ..."
+        ],
+        "Hacks/codes": [
+          "Objet storage sur Raspberry Pi ave Docker"
+        ],
+        "IA, Robotique & Science": [
+          "Detection d objets abandonnes"
+        ],
+        "IoT & Embarque": [
+          "Mise en oeuvre du protocole modbus (rtu) sur warp7 via QT5"
+        ],
+        "Libs & Modules": [
+          "Creez et auto-corrigez vos QCM avec auto multiple choice"
+        ],
+        "Mobile & Web": [
+          "Demystifier l injection de dependances en PHP"
+        ],
+        "Securite & Vulnerabilite": [
+          "Protections des partages NFS par Kerberos"
+        ],
+        "Systeme & Reseau": [
+          "L hyperconvergence, Open Source"
+        ]
+      }
+    },
+    {
+      "name": "lm209",
+      "date": "2017-11-01",
+      "index": {
+        "Actus & Humeur": [
+          "Petite lecon fictive de social engineering"
+        ],
+        "Hack & Bidouille": [
+          "Vous donnez des rendez-vous et on vous oublie ? envoyez automatiquement des SMS de rappel !"
+        ],
+        "IA, Robotique & Science": [
+          "Le code phase-out : l autre code binaire tronque"
+        ],
+        "IoT & Embarque": [
+          "Presentation et utilisation de la carte Steval-3DP001 pour le pilotage des imprimantes 3D"
+        ],
+        "Libs & Modules": [
+          "Realiser une API RESET avec GO"
+        ],
+        "Securite & Vulnerabilite": [
+          "La trilogie du reverse engineering"
+        ],
+        "Systeme & Reseau": [
+          "Un systeme de fichier haute disponibilité avec Glusterfs !",
+          "Mise en place d une IP Vertuelle avec Crorosync et Pacemaker",
+          "InfluxDB, Grafana et Glances, le monitoring qui brille"
+        ]
+      }
+    },
+    {
+      "name": "lm210",
+      "date": "2017-12-01",
+      "index": {
+        "Actus & Humeur": [
+          "HoneyPot qui mal y pense"
+        ],
+        "Hack & Bidouille": [
+          "Integrez vos scripts au bureau et gerer les URI"
+        ],
+        "IA, Robotique & Science": [
+          "Au coeur de la VM Pharo"
+        ],
+        "IoT & Embarque": [
+          "Un environnement executif visant la compatibilite POSIX : Analyseur de reseau a base de STM32"
+        ],
+        "Libs & Modules": [
+          "Introduction a GSStreamer 1.0"
+        ],
+        "Securite & Vulnerabilite": [
+          "Utilisez et etendez PhotoRec pour recuperer vos donnees perdues"
+        ],
+        "Systeme & Reseau": [
+          "LinuxKit ou le meilleur des containers et des UnixKernels",
+          "Deployer un environnement de deploiement avec Debian-Installer Ansible et Git",
+          "Securisez vos donnees par LVM et RAID"
+        ]
+      }
+    },
+    {
+      "name": "lm211",
+      "date": "2018-01-01",
+      "index": {
+        "Actus & Humeur": [
+          "CTE et Window functions avec MariaDb",
+          "La configuration SSH d un 'DevOps'"
+        ],
+        "Hack & Bidouille": [
+          "Dopez vos commandes Shell"
+        ],
+        "IA, Robotique & Science": [
+          "Vision 3D a partir d une camera sur Raspberry Pi",
+          "Base 16, 32, 36,  56, 64, 85, ..."
+        ],
+        "IoT & Embarque": [
+          "I.MX7 : 'Communication interprocesseur, donnons la vie au Cortex M4"
+        ],
+        "Kernel & Bas niveau": [
+          "Appels systemes sous Linux",
+          "Developpement applicatif avec GStramer 1.0"
+        ],
+        "Mobile & Web": [
+          "Ecrivez du code JavaScript robuste"
+        ],
+        "Systeme & Reseau": [
+          "Introduction : ServerLess et Function As A Service (FAAS)",
+          "Mais quelle est la meilleure methode  pour transferer un grand nombre de petits fichier ?",
+          "Isolez vos constructions logicielles a l aide de Docker"
+        ]
+      }
+    },
+    {
+      "name": "lm212",
+      "date": "2018-02-01",
+      "index": {
+        "Actus & Humeur": [
+          "La RAM non volatile"
+        ],
+        "Hack & Bidouille": [
+          "Personnalisez et distribuez vos images Raspbian"
+        ],
+        "IA, Robotique & Science": [
+          "Programmation dynamique et alignement de sequences"
+        ],
+        "IoT & Embarque": [
+          "Radar passif par intercorrelation de signaux acquis par deux recepteurs de television numerique terrestre"
+        ],
+        "Libs & Modules": [
+          "Ne cherchez plus sur le web, laissez vos agens le faire a votre place !"
+        ],
+        "Mobile & Web": [
+          "Developper une extension compatible Firefox, Chromium et autres navigateurs"
+        ],
+        "Securite & Vulnerabilite": [
+          "Durcissement Linux via SystemD"
+        ],
+        "Systeme & Reseau": [
+          "Effectuez vos sauvegardes avec Bareos"
+        ]
+      }
+    },
+    {
+      "name": "lm213",
+      "date": "2018-03-01",
+      "index": {
+        "Actus & Humeur": [
+          "Faut s demener au Fosdem"
+        ],
+        "Hack & Bidouille": [
+          "Effectuez automatiquement des captures d un pdf"
+        ],
+        "IA, Robotique & Science": [
+          "La logique du jeu de la vie : exercice amusantes de pensee laterale"
+        ],
+        "IoT & Embarque": [
+          "Solutions temps reel avec Yocto et Buildroot"
+        ],
+        "Kernel & Bas niveau": [
+          "Detectez les fuites memoire dans vos programmes",
+          "Reagir a un Kernel panic quand on est developpeur"
+        ],
+        "Libs & Modules": [
+          "Gerez les dates comme un pro avec SQL"
+        ],
+        "Mobile & Web": [
+          "Modifiez l ergonomie d une page web avec TamperMonley"
+        ],
+        "Securite & Vulnerabilite": [
+          "Securisez vos applications Php avec Snuffleupagus"
+        ],
+        "Systeme & Reseau": [
+          "Les subtilites de l equilibrage de charge avec le DNS",
+          "Gerez vos tickets Github en ligne de commandes"
+        ]
+      }
+    },
+    {
+      "name": "lm214",
+      "date": "2018-04-01",
+      "index": {
+        "Actus & Humeur": [
+          "Quand ne pas automatisez les tests logiciels ?",
+          "Stokage persistant dans cubernetes avec Rook"
+        ],
+        "Hack & Bidouille": [
+          "Les dependances entre paquets sous SlackWare",
+          "Un Python toujous a jour"
+        ],
+        "IA, Robotique & Science": [
+          "Primalité et Cryptographie"
+        ],
+        "IoT & Embarque": [
+          "Creez et pilotez votre peripherique materiel sous linux embarque",
+          "Correction d erruers par piegeage dans le systeme RDS"
+        ],
+        "Libs & Modules": [
+          "Faites vos jeux avec Pharo"
+        ],
+        "Mobile & Web": [
+          "Utilisation de GStreamer 1.0 dans une application Android"
+        ],
+        "Systeme & Reseau": [
+          "Repliquer sa base de donnees MariaDb en temps reel",
+          "L auto-hebergement leger de depots Git avec Gitolite"
+        ]
+      }
+    },
+    {
+      "name": "lm215",
+      "date": "2018-05-01",
+      "index": {
+        "Actus & Humeur": [
+          "Vers l arm et au-dela"
+        ],
+        "IA, Robotique & Science": [
+          "A la decouverte des arbres binaires a commande equilibree"
+        ],
+        "IoT & Embarque": [
+          "A l assaut du sous-systeme noyaux 'industrial i/o' ! (et du QML ... !)"
+        ],
+        "Libs & Modules": [
+          "Creez votre animal de compagnie virtuel"
+        ],
+        "Mobile & Web": [
+          "Stimulus, un framework JS leger, puissant et cool"
+        ],
+        "Securite & Vulnerabilite": [
+          "Construire son server d audit de hash"
+        ],
+        "Systeme & Reseau": [
+          "Maintenance applicative avec Git"
+        ]
+      }
+    },
+    {
+      "name": "lm216",
+      "date": "2018-06-01",
+      "index": {
+        "Actus & Humeur": [
+          "Installez simplement la derniere version de Python avec PyEnv",
+          "Enquete dans les meandres du systeme ... ou l aventure humaine de la chasse au bug",
+          "L apprentissage par renforcement pour creer des bots autonomes"
+        ],
+        "Developpement web et mobile": [],
+        "Hack & Bidouille": [
+          "Une clé USB de secours toujours a portee de main"
+        ],
+        "IA, Robotique & Science": [
+          "La peinture sur spectre radiofrequence et l effet de la modulation en frequence"
+        ],
+        "IoT & Embarque": [
+          "KF5 en embarqué, couple improbable ..."
+        ],
+        "Kernel & Bas niveau": [
+          "Les mysteres de l IOCTL()",
+          "Les tribulations d un programmeur Linux dans la Sierra Apple"
+        ],
+        "Libs & Modules": [],
+        "Mobile & Web": [
+          "Creer son propre ORM pour Node.js"
+        ],
+        "Securite & Vulnerabilite": [
+          "Cloisonner une application simplement avec NsJail"
+        ],
+        "Systeme & Reseau": [
+          "Infrastructure as code sous AWS avec Terraform"
+        ]
+      }
+    },
+    {
+      "name": "lm217",
+      "date": "2018-07-01",
+      "index": {
+        "Actus & Humeur": [],
+        "Developpement web et mobile": [],
+        "Hack & Bidouille": [],
+        "IA, Robotique & Science": [],
+        "IoT & Embarque": [],
+        "Kernel & Bas niveau": [],
+        "Libs & Modules": [],
+        "Mobile & Web": [],
+        "Securite & Vulnerabilite": [],
+        "Systeme & Reseau": []
+      }
+    },
+    {
+      "name": "lm2YY",
+      "date": "2018-MM-01",
+      "index": {
+        "Actus & Humeur": [],
+        "Developpement web et mobile": [],
+        "Hack & Bidouille": [],
+        "IA, Robotique & Science": [],
+        "IoT & Embarque": [],
+        "Kernel & Bas niveau": [],
+        "Libs & Modules": [],
+        "Mobile & Web": [],
+        "Securite & Vulnerabilite": [],
+        "Systeme & Reseau": []
+      }
+    },
+    {
+      "name": "lm2XX",
+      "date": "2018-MM-01",
       "index": {
         "Actualites": [],
         "Actus & Humeur": [],
@@ -1081,8 +1441,172 @@
       }
     },
     {
+      "name": "hk21",
+      "date": "2017-11-01",
+      "index": {
+        "Ardu n Co": [
+          "Utilisez un Minitel comme écran pour votre Arduino",
+          "Fabriquez votre T-shirt interactif avec Lilypad Arduino",
+          "OTA : programmez votre ESP8266 en Wifi !"
+        ],
+        "Demontage, hacks & recup": [
+          "Creez votre ordinateur 8 bits sur platine a essais : la memoire"
+        ],
+        "Embarque et Informatique": [
+          "mDNS ou comment retrouver facilement votre Pi"
+        ],
+        "En couverture": [
+          "Utilisez Google Analytics pour la surveillance physique"
+        ],
+        "Equipement": [
+          "Un testeur universel de composants pour 15€ ?"
+        ],
+        "Tension et Courant": [
+          "Utilisez une alimentation sans fil pour vos projets"
+        ]
+      }
+    },
+    {
+      "name": "hk22",
+      "date": "2018-01-01",
+      "index": {
+        "Actualites": [],
+        "Ardu n Co": [
+          "Un clone chinois de Digispark pour animer une bande de leds RGB"
+        ],
+        "Demontage, hacks & recup": [
+          "Mettez a jour la memoire de vos ESP-01",
+          "Creez votre ordinateur 8 bits sur platine : de la RAM, une pile ... cap vers le C !"
+        ],
+        "Domotique & Robotique": [],
+        "Embarque et Informatique": [
+          "Mise en oeuvre de la matrice de leds Pimoroni Unicorn sur votre Raspberry Pi"
+        ],
+        "En couverture": [
+          "L'ESP32 : l 'Arduino' economique ultime avec wifi et BLE ?"
+        ],
+        "Equipement": [
+          "Un fer a souder USB a moins de 6€ ? Pourquoi pas ?"
+        ],
+        "Radio & Frequence": [],
+        "Reperes & Science": [],
+        "Tension et Courant": [
+          "Alimentez votre projet avec un accu Li-ion sans vous ruiner"
+        ]
+      }
+    },
+    {
+      "name": "hk23",
+      "date": "2018-03-01",
+      "index": {
+        "Ardu n Co": [
+          "Decouvrez le multitache avec votre ESP32"
+        ],
+        "Demontage, hacks & recup": [
+          "Creez votre ordinateur 8 bits sur platine : Assez joue ! On passe au C !"
+        ],
+        "Embarque et Informatique": [
+          "Boostez vos developpements Linux sous Windows avec WSL"
+        ],
+        "En couverture": [
+          "Connectez votre Arduino au reseau mobile",
+          "Creez une sonde de température qui vous alerte par SMS"
+        ],
+        "Equipement": [
+          "NumWorks : la calculatrice open source francaise",
+          "Visualisez, enregistrez ou transmettez la sortie HDMI de votre Pi"
+        ],
+        "Retro Tech": [
+          "C64 reloaded MK2 ou la renaissance du Commodore 64"
+        ]
+      }
+    },
+    {
+      "name": "hk24",
+      "date": "2018-05-01",
+      "index": {
+        "Ardu n Co": [
+          "ESP32 : developpez vos croquis Arduino sans l'IDE Arduino"
+        ],
+        "Demontage, hacks & recup": [
+          "Et si on faisait communiquer notre Z80 ?"
+        ],
+        "Embarque et Informatique": [
+          "Robotique et electrons : mesurer une tension avec la Rpi"
+        ],
+        "En couverture": [
+          "la telecommande Arduino, le retour version ESP8266 !"
+        ],
+        "Equipement": [
+          "Automatisez vos mesures en utilisant l'USB"
+        ],
+        "Reperes & Science": [
+          "Signaux videos analogiques : comment vous y retrouvez ?"
+        ],
+        "Retro Tech": [
+          "Pilotez le mythique MOS SID avec un Arduino pour jouer vos chiptunes"
+        ]
+      }
+    },
+    {
+      "name": "hk25",
+      "date": "2018-07-01",
+      "index": {
+        "Actualites": [],
+        "Ardu n Co": [
+          "Vos ESP8266 se mettent a jour tout seuls !"
+        ],
+        "En couverture": [
+          "Introduction a la reception d images satellites",
+          "Se creer une antenne pour recevoir les images satellites",
+          "Reception de vos premieres images satellites"
+        ],
+        "Equipement": [
+          "Une station de soudage a air chaud a moins de 30€"
+        ],
+        "Radio & Frequence": [
+          "Mesurez la vitesse de la lumiere dans les cables !"
+        ],
+        "Reperes & Science": [
+          "La fabuleuse histoire des calculateurs numeriques a l ere electromecanique"
+        ],
+        "Retro Tech": [
+          "SCSI2SD ou comment remplacer un disque SCSI par une carte SD"
+        ],
+        "Tension et Courant": [
+          "Les capteurs photovoltaiques"
+        ]
+      }
+    },
+    {
+      "name": "hk26",
+      "date": "2018-09-01",
+      "index": {
+        "Actualites": [],
+        "Ardu n Co": [
+          "Transformez vos vieux lecteurs de disquettes en instrument de musique",
+          "Interfacage d une radiocomande de modelisme a un simulateur de vol"
+        ],
+        "En couverture": [
+          "Faites communiquer vos projets simplement avec MQTT",
+          "Securisez et protegez votre installation MQTT",
+          "Representez graphiquement vos données collectees en MQTT"
+        ],
+        "Equipement": [
+          "Test du fer a souder fixe/nomade TS100",
+          "Mes conseils, trucs et astuces pour impressions 3D de qualite"
+        ],
+        "Reperes & Science": [
+          "Solar Hammer : pourquoi les taches solaires menacent les reseaux ?"
+        ],
+        "Retro Tech": [
+          "Ajouter de la memoire a une vieille imprimante laser"
+        ]
+      }
+    },
+    {
       "name": "hkXX",
-      "date": "AAAA-MM-01",
+      "date": "2018-MM-01",
       "index": {
         "Actualites": [],
         "Ardu n Co": [],
@@ -1093,6 +1617,7 @@
         "Equipement": [],
         "Radio & Frequence": [],
         "Reperes & Science": [],
+        "Retro Tech": [],
         "Tension et Courant": []
       }
     }

@@ -4,6 +4,78 @@ LinuxPratique-HS-N37(2016.10)
 LinuxPratique-N92(2015.11)
 misc-N73(2014.05)
 
+"todo": {
+    "index": {
+      "Gnu_Linux_mag": [
+        217,
+        218
+      ],
+      "Gnu_Linux_mag_HS": [
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "Hackable": [],
+      "Linux_Pratique": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "Linux_Pratique_HS": [
+        40,
+        41,
+        42
+      ],
+      "Misc": [
+        "check missing",
+        91,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "Misc_HS": [
+        15,
+        16,
+        17
+      ],
+      "Open_silicium": [
+        null
+      ]
+    },
+    "read": [
+      "lm210 - Integrez vos scripts au bureau et gerer les URI",
+      "lm210 - Deployer un environnement de deploiement avec Debian-Installer Ansible et Git",
+      "lm210 - Securisez vos donnees par LVM et RAID",
+      "lm210 - HoneyPot qui mal y pense",
+      "lm211 - La configuration SSH d un 'DevOps'",
+      "lm211 - Base 16, 32, 36,  56, 64, 85, ...",
+      "lm211 - Isolez vos constructions logicielles a l aide de Docker",
+      "lm211 - Dopez vos commandes Shell",
+      "lm211 - Ecrivez du code JavaScript robuste",
+      "lm213 - La logique du jeu de la vie : exercice amusantes de pensee laterale",
+      "lm213 - Gerez vos tickets Github en ligne de commandes",
+      "lm213 - Detectez les fuites memoire dans vos programmes",
+      "lm214 - Stokage persistant dans cubernetes avec Rook",
+      "lm214 - L auto-hebergement leger de depots Git avec Gitolite",
+      "lm215 - A la decouverte des arbres binaires a commande equilibree",
+      "lm215 - Maintenance applicative avec Git",
+      "lm215 - Creez votre animal de compagnie virtuel",
+      "lm215 - Stimulus, un framework JS leger, puissant et cool",
+      "lm216 - Actus & Humeur - Python, PyEnv, et IA",
+      "lm216 - Une clé USB de secours toujours a portee de main",
+      "lm216 - Cloisonner une application simplement avec NsJail"
+    ]
+  },
+
 2008.01-Gnu Linux mag 101 {
   Kernel corner
     Les nouveautes du moyau 2.6.24
