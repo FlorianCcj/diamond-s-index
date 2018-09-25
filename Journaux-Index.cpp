@@ -9,11 +9,6 @@ misc-N73(2014.05)
       "Gnu_Linux_mag": [
       ],
       "Gnu_Linux_mag_HS": [
-        93,
-        94,
-        95,
-        96,
-        97
       ],
       "Hackable": [],
       "Linux_Pratique": [
@@ -71,7 +66,10 @@ misc-N73(2014.05)
       "lm216 - Actus & Humeur - Python, PyEnv, et IA",
       "lm216 - Une clé USB de secours toujours a portee de main",
       "lm216 - Cloisonner une application simplement avec NsJail",
-      "lm218 - Knockout, un framework JS qui a du repondant"
+      "lm218 - Knockout, un framework JS qui a du repondant",
+      "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
+      "lmhs95 - Memo Python",
+      "lmhs97 - Dossier - Developpement securise"
     ]
   },
 

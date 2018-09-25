@@ -1285,6 +1285,180 @@
           "Developpez vos plugins OpenVPN"
         ]
       }
+    },
+    {
+      "name": "lmhs93",
+      "date": "2017-11-01",
+      "title": "Reseau/Systeme/Serveur/Pentest/Spam ... Securisez votre infrastructure Linux",
+      "index": {
+        "RESEAU, Protegez votre reseau avec un firewall nftables ou ModSecurity": [
+          "Filtrez votre reseau avec nftables",
+          "Protegez-vous avec ModSecurity, le pare-feu web open source"
+        ],
+        "SYSTEME, Durcissez la protection de votre systeme avec OpenSCAP et AuditD": [
+          "Securiser un serveur CentOS des l installation une histoire de serpent et de SCAL^HP",
+          "Journalisez les actions de vos utilisateurs avec AuditD"
+        ],
+        "INFRASTRUCTURE SERVEUR, Filtrez les acces web avec Dansguardian et vos mails avec MailScanner": [
+          "Creez votre passerelle anti-SPAM multicouche avec Postfix, Postgrey et MailScanner",
+          "Filtrez et limitez l acces au Web avec Dansguardian"
+        ],
+        "AUDIT/PENTEST, Effectuez des tests de securite et apprenez a reagir en cas d incident": [
+          "Petit cours de R.I.E.N. a l usage des SysAdmin",
+          "Utilisez des scannes de reseau et de vulnerabilites"
+        ]
+      }
+    }, {
+      "name": "lmhs94",
+      "date": "2018-01-01",
+      "title": "Machine learning, le guide pratique pour demarrer en intelligence artificielle",
+      "index": {
+        "DECOUVREZ, le mecanisme d apprentissage des IA": [
+          "Petite introduction au Machine Learning"
+        ],
+        "CHOISISSEZ, le framework adapte a vos besoins": [
+          "Evaluez efficacement les frameworks de Machine Learning"
+        ],
+        "PREPAREZ, vos donnees grace a des outils mathematiques simple": [
+          "Utilisez la regression lineaire pour la prediction",
+          "La malediction de la dimension"
+        ],
+        "4 EXEMPLES CONCRETS POUR APPLIQUER LE MACHINE LEARNING": [
+          "Comment coder un systeme de recommandation en Python : l exemple de Mangaki",
+          "L Univers, ses galaxies et le machine Learning",
+          "Prediction de structures secondaires de proteines",
+          "Recherche de molecules innovantes"
+        ]
+      }
+    }, {
+      "name": "lmhs95",
+      "date": "2018-03-01",
+      "title": "Memo Python, 59 Nouvelles recettes pour accelerer vos developpements ! Saison 2",
+      "index": {
+        "DONNEES, Manipulez, triez, convertissez et representez vos donnees": [
+          "Arrondir un nombre a la dizaine superieur ou inferieur",
+          "Definir des constantes 'protegees'",
+          "Convertir une chaine de caracteres representant un tuple en tuple",
+          "Creer une dataframe depuis un dictionnaire dont les cles sont des tuples",
+          "Filtrer les donnees d une liste de dictionnaires en fonction d un critere",
+          "Manipuler des octets",
+          "Convertir un octet en chaine de 0 et de 1",
+          "Nettoyer des donnees en sortie du programme",
+          "Demander la saisie d un mot de passe",
+          "Decouper une chaine de caractere en sous chaine de taille fixe",
+          "Creer une interface CLI avec autocompletion",
+          "Compter le nombre d occurences des lettres d une chaine de caracteres",
+          "Formater des chaines de caracteres",
+          "Grouper des chaines de caracteres par taille",
+          "Effectuer des operations sur la colonnes d une DataFrame Pandas",
+          "Combienr les colonnes d une DataFrame Pandas",
+          "Nettoyer des donnees CSV avec PAndas",
+          "Effectuer des tests a la chaine",
+          "Utiliser l operateur * pour recuperer les donnees d une liste",
+          "Parcourir plusieurs listes avec une seule boucle",
+          "Trier une liste d entier lue sous forme de chaine de caracteres",
+          "Rafraichir une fenetre graphique Pygame"
+        ],
+        "OUTILS, Exploitez pleinement Python : interoperabilite, documentation, compilation ...": [
+          "Compiler Python",
+          "Afficher de maniere lisible une structure complexe",
+          "Utiliser une classe Java dans un script Python",
+          "Documenter un projet avec Sphynx",
+          "Utiliser une fonction C dans du Python",
+          "Utiliser une fonction Fortran dans du Python",
+          "Compiler un programme Python en Bytecode",
+          "Verifier la conformite PEP 8 d un code",
+          "Gerer les environnements virtuels avec Pipenv",
+          "Etudier l impact d une modification en desassemblant du code",
+          "Conserver des donnees de maniere persistante",
+          "Presenter du code Python avec Jupyter",
+          "Optimiser le temps d execution d une fonction avec un cache",
+          "Effectuer des installations de modules sur differentes versions de Python",
+          "Visualiser les portions de code plus lentes"
+        ],
+        "RESEAU, Recoltez des donnees sur le Web, envoyez des SMS, utilisez des services Google": [
+          "Envoyer des SMS",
+          "Recevoir et analyser des SMS",
+          "Envoyer des e-mails avec Gmail",
+          "Acceder aux evenements d un agenda Google Calendar",
+          "Rechercher et analyser des donnees sur le Web et generer un document CSV",
+          "Recolter des donnees web avec Scrapy",
+          "Remplir un formulaire et effectuer des clics automatiques sur des pages web"
+        ],
+        "STRUCTURE, Organisez votre code et utilisez les design patterns": [
+          "Reduire la consomation memoire d un code",
+          "Composer des decorateurs",
+          "Creer un operateur de class",
+          "Creer un Context Manager",
+          "Appliquer le principe du slicing a un generateur",
+          "Creer une boucle type do ... while",
+          "Utiliser une structure switch",
+          "Utiliser un compteur sans avoir a gerer une variable",
+          "Utiliser le design pattern 'Chaine de responsabilite'",
+          "Utiliser le design pattern 'Memento'",
+          "Utiliser le design pattern 'Adapter'",
+          "Utiliser le design pattern 'Facade'",
+          "Utiliser le design pattern 'Strategy'",
+          "Utiliser le design pattern 'Factory Method'",
+          "Explorer le contenu d une classe"
+        ]
+      }
+    }, {
+      "name": "lmhs96",
+      "date": "2018-05-01",
+      "title": "Vision assistee par ordianteur avec OpenCV",
+      "index": {
+        "DEBUTEZ, avec la bibliotheque graphique libre OpenCV": [
+          "Decouvrez le monde fabuleux d OpenCV",
+          "Mesurez les couleurs : les bases de la colorimetrie"
+        ],
+        "RECONNAISSEZ, des expressions faciales ou encore des chiffres en ecriture digitale": [
+          "Reconnaissez les expressions d un visage",
+          "Reconnaissez les chiffres en ecriture digitale"
+        ],
+        "DETECTEZ, des objets avec les algorithmes de Watersheld et de Classifier Cascade Haar": [
+          "Comparez le nombre de bonbons d une coupelle",
+          "Completez les methodes de detection d OpenCV : le Classifier Cascade Haar"
+        ],
+        "ALLEZ PLUS LOIN, avec la realite augmentee, la stereo-vision et le pilotage d une application par le regard": [
+          "Realite augmente : integrez un objet virtuel 3D a une video en temps reel",
+          "Pilotez une application par le regard",
+          "Reconstruisez des objets en 3D avec la vision stereoscopique"
+        ]
+      }
+    }, {
+      "name": "lmhs97",
+      "date": "2018-07-01",
+      "title": "Les bonnes pratiques du developpement securise",
+      "index": {
+        "Actus": [
+          "Breves",
+          "Cote livres ...",
+          "OWASP Top 10 : le palmares pour 2018",
+          "PostGreSQL 10, quelques nouvelles fonctionnalites"
+        ],
+        "Decryptage": [
+          "A quoi servent les coredumps lorsque l un de vos programmes crashe ?"
+        ],
+        "Dossier - Developpement securise": [
+          "Retour d experience d integration des aspects securite dans un cycle de developpement logiciel",
+          "Experimentations autour de code en Python",
+          "Java : comment utiliser correctement son gestionnaire de securite",
+          "Le renforcement de la securite des applications et sites web avec CSP",
+          "Quels outils pour l'audit d intrusions d applications web ?",
+          "Les options pour faire du compilateur C un ami qui vous veut du bien",
+          "Decouvrerte du Frama-C, l'un des outils incontournable d analyse de code C"
+        ],
+        "Reperes": [
+          "Comprendre la compilation Just-In-Time"
+        ],
+        "Temoignages": ["Gros plan sur les attaques par canaux auxiliaires : entretien avec Clementine Maurice, chercheuse en securite"]
+      }
+    }, {
+      "name": "lmhsXX",
+      "date": "2018-XX-01",
+      "title": "",
+      "index": {}
     }
   ],
   "Hackable": [
