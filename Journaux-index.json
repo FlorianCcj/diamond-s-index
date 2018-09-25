@@ -59,7 +59,7 @@
       "lm213 - La logique du jeu de la vie : exercice amusantes de pensee laterale",
       "lm213 - Gerez vos tickets Github en ligne de commandes",
       "lm213 - Detectez les fuites memoire dans vos programmes",
-      "lm214 - Stokage persistant dans cubernetes avec Rook",
+      "lm214 - Stokage persistant dans Kubernetes avec Rook",
       "lm214 - L auto-hebergement leger de depots Git avec Gitolite",
       "lm215 - A la decouverte des arbres binaires a commande equilibree",
       "lm215 - Maintenance applicative avec Git",
@@ -869,7 +869,7 @@
       "index": {
         "Actus & Humeur": [
           "Quand ne pas automatisez les tests logiciels ?",
-          "Stokage persistant dans cubernetes avec Rook"
+          "Stokage persistant dans Kubernetes avec Rook"
         ],
         "Hack & Bidouille": [
           "Les dependances entre paquets sous SlackWare",
@@ -960,16 +960,42 @@
       "name": "lm217",
       "date": "2018-07-01",
       "index": {
-        "Actus & Humeur": [],
+        "Actus & Humeur": [
+          "Retour sur Kubecon et Cloudnativecon Europe 2018 Copenhague",
+          "Le lien de trop : une enquete de J.S. Gramiet",
+          "Partitionnement avec PostgreSql 10"
+        ],
         "Developpement web et mobile": [],
-        "Hack & Bidouille": [],
-        "IA, Robotique & Science": [],
+        "Hack & Bidouille": ["Du python dans Minecraft ou comment automatiser les constructions"],
+        "IA, Robotique & Science": ["Modélisation et génération de code automatique"],
         "IoT & Embarque": [],
-        "Kernel & Bas niveau": [],
+        "Kernel & Bas niveau": ["RPN : interpreteur de notation polonaise inversee en langage C"],
         "Libs & Modules": [],
         "Mobile & Web": [],
-        "Securite & Vulnerabilite": [],
-        "Systeme & Reseau": []
+        "Securite & Vulnerabilite": ["Modes d operations et chiffrement des disques"],
+        "Systeme & Reseau": [
+          "Vous avez dit event driven ?",
+          "ZSH et Powerlevel9K pour un shell de malaaaaade"
+        ]
+      }
+    },
+    {
+      "name": "lm218",
+      "date": "2018-09-01",
+      "index": {
+        "Actus & Humeur": [
+          "Premiere edition des french Gnu radio days",
+          "Moira et Alicia, le monde de la robotique a besoin de vous"
+        ],
+        "Developpement web et mobile": [],
+        "Hack & Bidouille": ["J ai hacke ma clarinette"],
+        "IA, Robotique & Science": ["Quelques applications des arbres binaires a commande equilibree"],
+        "IoT & Embarque": ["Developpement C/C++ sous Android avec le NDK"],
+        "Kernel & Bas niveau": ["Au coeur des microprocesseurs"],
+        "Libs & Modules": [],
+        "Mobile & Web": ["Knockout, un framework JS qui a du repondant"],
+        "Securite & Vulnerabilite": ["Un vpn moderne, puissant, sur et simple : a la decouverte de Wireguard"],
+        "Systeme & Reseau": ["Deboguer un conteneur 'nu'", "Gestion de conteneurs en Bash"]
       }
     },
     {

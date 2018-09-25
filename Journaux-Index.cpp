@@ -7,8 +7,6 @@ misc-N73(2014.05)
 "todo": {
     "index": {
       "Gnu_Linux_mag": [
-        217,
-        218
       ],
       "Gnu_Linux_mag_HS": [
         93,
@@ -72,7 +70,8 @@ misc-N73(2014.05)
       "lm215 - Stimulus, un framework JS leger, puissant et cool",
       "lm216 - Actus & Humeur - Python, PyEnv, et IA",
       "lm216 - Une clé USB de secours toujours a portee de main",
-      "lm216 - Cloisonner une application simplement avec NsJail"
+      "lm216 - Cloisonner une application simplement avec NsJail",
+      "lm218 - Knockout, un framework JS qui a du repondant"
     ]
   },
 
