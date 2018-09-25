@@ -1,26 +1,10 @@
 {
   "todo": {
     "index": {
-      "Gnu_Linux_mag": [
-        217,
-        218
-      ],
-      "Gnu_Linux_mag_HS": [
-        93,
-        94,
-        95,
-        96,
-        97
-      ],
+      "Gnu_Linux_mag": [],
+      "Gnu_Linux_mag_HS": [],
       "Hackable": [],
-      "Linux_Pratique": [
-        104,
-        105,
-        106,
-        107,
-        108,
-        109
-      ],
+      "Linux_Pratique": [],
       "Linux_Pratique_HS": [
         40,
         41,
@@ -59,7 +43,7 @@
       "lm213 - La logique du jeu de la vie : exercice amusantes de pensee laterale",
       "lm213 - Gerez vos tickets Github en ligne de commandes",
       "lm213 - Detectez les fuites memoire dans vos programmes",
-      "lm214 - Stokage persistant dans Kubernetes avec Rook",
+      "lm214 - Stokage persistant dans cubernetes avec Rook",
       "lm214 - L auto-hebergement leger de depots Git avec Gitolite",
       "lm215 - A la decouverte des arbres binaires a commande equilibree",
       "lm215 - Maintenance applicative avec Git",
@@ -67,7 +51,16 @@
       "lm215 - Stimulus, un framework JS leger, puissant et cool",
       "lm216 - Actus & Humeur - Python, PyEnv, et IA",
       "lm216 - Une clé USB de secours toujours a portee de main",
-      "lm216 - Cloisonner une application simplement avec NsJail"
+      "lm216 - Cloisonner une application simplement avec NsJail",
+      "lm218 - Knockout, un framework JS qui a du repondant",
+      "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
+      "lmhs95 - Memo Python",
+      "lmhs97 - Dossier - Developpement securise",
+      "lp105 - Mettez en place une page de statut de vos services pour vos utilisateurs",
+      "lp107 - Concevoir un script 'shell'",
+      "lp109 - 9 cards : accedez plus rapidement a vos applications favorites",
+      "lp109 - Les bases theoriques pour comprendre le machine learning",
+      "lp109 - Gerer de maniere efficace votre travail dans le terminal TMUX"
     ]
   },
   "Gnu_Linux_mag": [
@@ -966,13 +959,21 @@
           "Partitionnement avec PostgreSql 10"
         ],
         "Developpement web et mobile": [],
-        "Hack & Bidouille": ["Du python dans Minecraft ou comment automatiser les constructions"],
-        "IA, Robotique & Science": ["Modélisation et génération de code automatique"],
+        "Hack & Bidouille": [
+          "Du python dans Minecraft ou comment automatiser les constructions"
+        ],
+        "IA, Robotique & Science": [
+          "Modélisation et génération de code automatique"
+        ],
         "IoT & Embarque": [],
-        "Kernel & Bas niveau": ["RPN : interpreteur de notation polonaise inversee en langage C"],
+        "Kernel & Bas niveau": [
+          "RPN : interpreteur de notation polonaise inversee en langage C"
+        ],
         "Libs & Modules": [],
         "Mobile & Web": [],
-        "Securite & Vulnerabilite": ["Modes d operations et chiffrement des disques"],
+        "Securite & Vulnerabilite": [
+          "Modes d operations et chiffrement des disques"
+        ],
         "Systeme & Reseau": [
           "Vous avez dit event driven ?",
           "ZSH et Powerlevel9K pour un shell de malaaaaade"
@@ -988,14 +989,29 @@
           "Moira et Alicia, le monde de la robotique a besoin de vous"
         ],
         "Developpement web et mobile": [],
-        "Hack & Bidouille": ["J ai hacke ma clarinette"],
-        "IA, Robotique & Science": ["Quelques applications des arbres binaires a commande equilibree"],
-        "IoT & Embarque": ["Developpement C/C++ sous Android avec le NDK"],
-        "Kernel & Bas niveau": ["Au coeur des microprocesseurs"],
+        "Hack & Bidouille": [
+          "J ai hacke ma clarinette"
+        ],
+        "IA, Robotique & Science": [
+          "Quelques applications des arbres binaires a commande equilibree"
+        ],
+        "IoT & Embarque": [
+          "Developpement C/C++ sous Android avec le NDK"
+        ],
+        "Kernel & Bas niveau": [
+          "Au coeur des microprocesseurs"
+        ],
         "Libs & Modules": [],
-        "Mobile & Web": ["Knockout, un framework JS qui a du repondant"],
-        "Securite & Vulnerabilite": ["Un vpn moderne, puissant, sur et simple : a la decouverte de Wireguard"],
-        "Systeme & Reseau": ["Deboguer un conteneur 'nu'", "Gestion de conteneurs en Bash"]
+        "Mobile & Web": [
+          "Knockout, un framework JS qui a du repondant"
+        ],
+        "Securite & Vulnerabilite": [
+          "Un vpn moderne, puissant, sur et simple : a la decouverte de Wireguard"
+        ],
+        "Systeme & Reseau": [
+          "Deboguer un conteneur 'nu'",
+          "Gestion de conteneurs en Bash"
+        ]
       }
     },
     {
@@ -1308,7 +1324,8 @@
           "Utilisez des scannes de reseau et de vulnerabilites"
         ]
       }
-    }, {
+    },
+    {
       "name": "lmhs94",
       "date": "2018-01-01",
       "title": "Machine learning, le guide pratique pour demarrer en intelligence artificielle",
@@ -1330,7 +1347,8 @@
           "Recherche de molecules innovantes"
         ]
       }
-    }, {
+    },
+    {
       "name": "lmhs95",
       "date": "2018-03-01",
       "title": "Memo Python, 59 Nouvelles recettes pour accelerer vos developpements ! Saison 2",
@@ -1403,7 +1421,8 @@
           "Explorer le contenu d une classe"
         ]
       }
-    }, {
+    },
+    {
       "name": "lmhs96",
       "date": "2018-05-01",
       "title": "Vision assistee par ordianteur avec OpenCV",
@@ -1426,7 +1445,8 @@
           "Reconstruisez des objets en 3D avec la vision stereoscopique"
         ]
       }
-    }, {
+    },
+    {
       "name": "lmhs97",
       "date": "2018-07-01",
       "title": "Les bonnes pratiques du developpement securise",
@@ -1452,9 +1472,12 @@
         "Reperes": [
           "Comprendre la compilation Just-In-Time"
         ],
-        "Temoignages": ["Gros plan sur les attaques par canaux auxiliaires : entretien avec Clementine Maurice, chercheuse en securite"]
+        "Temoignages": [
+          "Gros plan sur les attaques par canaux auxiliaires : entretien avec Clementine Maurice, chercheuse en securite"
+        ]
       }
-    }, {
+    },
+    {
       "name": "lmhsXX",
       "date": "2018-XX-01",
       "title": "",
@@ -2159,8 +2182,248 @@
       }
     },
     {
-      "name": "lpXXX",
-      "date": "20AA-MM-01",
+      "name": "lp104",
+      "date": "2017-11-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Breves & agenda novembre-decembre 2017"
+        ],
+        "Cahier Raspberry Pi": [
+          "Realisez votre propre camera de surveillance",
+          "6 astuces pour profiter au mieux de votre de jeu retrogaming multiplateforme"
+        ],
+        "Entreprise et organisation": [
+          "Surveillez vos certificats numeriques"
+        ],
+        "Logitheque & Applicatif": [
+          "Passez a Firefox Nightly",
+          "Komorebi : Votre gestionnaire de fond d ecran a effets speciaux",
+          "Openshot : Un logiciel de montage video simple a prendre en main",
+          "Creez votre disque externe multi-usages"
+        ],
+        "Mobilite & Objets connectes": [
+          "Firefox focus : un navigateur web destine a preserver votre vie privee",
+          "DataRespect : decouvrez comment et qui utilise vos donnees personnelles"
+        ],
+        "Programmation & Script": [
+          "Entrez dans la troisieme dimension de processing"
+        ],
+        "Reflexion & Societe": [
+          "Monnaies cryptographiques : du bitcoin au LHC@HOME",
+          "Installer un portefeuille Bitcoin et effectuer un paiement"
+        ],
+        "Systeme & Personnalisation": [
+          "Tectonique de la pate thermique",
+          "Installer son miroir depots Debian stretch sur son reseau local"
+        ],
+        "Web & Reseau": [
+          "Se faire son propre outil de curasion",
+          "Securisez votre vie numerique : une cle USB pour chiffrer et signer vos donnees"
+        ]
+      }
+    },
+    {
+      "name": "lp105",
+      "date": "2018-01-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Breves & agenda Janvier-Fevrier 2018"
+        ],
+        "Cahier Raspberry Pi": [
+          "Corriger auromatiquement des yeux rouges OpenCV",
+          "Mise en oeuvre d un ecran TFT tactile sur votre Raspberry Pi de premiere generation"
+        ],
+        "Entreprise et organisation": [
+          "Mettez en place une page de statut de vos services pour vos utilisateurs"
+        ],
+        "Logitheque & Applicatif": [
+          "Numworks, la calculatrice du linuxien ?",
+          "Pixelisez vos images avec gimp et creez des modeles pour vos bricolages",
+          "Shutter : photographiez et annotez votre ecran",
+          "Mellow player : un player pour votre musique en streaming",
+          "Utilisez Mecabricks et Blender pour vos rendus photorealistes et modeles Lego"
+        ],
+        "Mobilite & Objets connectes": [
+          "Keepass2android ou comment marier ergonomie et gestion securisee des mots de passe sous android",
+          "Calendrier Jorte : un agenda pour gerer votre organisation personnelle",
+          "Memento Database : une application dediee a la gestion de toutes vos collections"
+        ],
+        "Reflexion & Societe": [
+          "S initier au code, pour le jeu ou pour en vivre"
+        ],
+        "Systeme & Personnalisation": [
+          "Simplifiez-vous la domotique"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Newsbeuter : Lisez vos flux RSS/Atom dans votre terminal"
+        ],
+        "Web & Reseau": [
+          "Maitrisez Arpwatch, le gardien de votre reseau"
+        ]
+      }
+    },
+    {
+      "name": "lp106",
+      "date": "2018-03-01",
+      "index": {
+        "Actualite & Applicatif": [],
+        "Actualite & Nouveautes": [
+          "Breves & agenda Mars-Avril 2018"
+        ],
+        "Cahier Raspberry Pi": [
+          "Developper des applications graphiques pour petits ecrans tactiles en Python avec PySDL2"
+        ],
+        "Cahier Raspberry pi & Debutant Linux": [],
+        "Entreprise et organisation": [
+          "Mettez en place votre boutique en ligne en toute simplicite avec Prestashop",
+          "Veyon pour surveillez et piloter vos salles informatiques"
+        ],
+        "Logitheque & Applicatif": [
+          "Realiser une carte de visite avec Scribus",
+          "Cumulonimbus : un client pour profiter de vos podcats",
+          "Super productivity : gerez vos taches et votre temps efficacement",
+          "Creez vos partitions musicales avec Musescore"
+        ],
+        "Mobilite & Objets connectes": [
+          "Ghostery privacy browser : rapidite & protection de la vie privee pour surfer sur la toile",
+          "All-in-one toolbox : une boite a outils pour booster votre appareil"
+        ],
+        "Programmation & Script": [],
+        "Reflexion & Societe": [
+          "Configurez votre ordinateur pour contribuer a la recherche"
+        ],
+        "Scripts": [],
+        "Systeme & Personnalisation": [
+          "Synchronisez efficacement vos espaces disques avec Rsync",
+          "Concervez toutes les versions des fichiers importants"
+        ],
+        "Terminal & Ligne de commandes": [],
+        "Web & Reseau": [
+          "Sauvegardez automatiquement la configuration de vos equipements reseau",
+          "Suivez l audience de votre site avec Piwik/Matomo"
+        ]
+      }
+    },
+    {
+      "name": "lp107",
+      "date": "2018-05-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Agenda Mai-Juin 2018"
+        ],
+        "Cahier Raspberry Pi": [
+          "Raspberry Pi : a chacun son modele"
+        ],
+        "Entreprise et organisation": [
+          "Gerez votre bibliographie avec Zotero"
+        ],
+        "Logitheque & Applicatif": [
+          "Retranscivez vos fichier audio avec Parlatype",
+          "Museeks : un player minimaliste et simple a prendre en main",
+          "Bleachbit : l outil ideal pour proceder a un petit netoyage de printemps",
+          "Creez vos premieres macros avec Libreoffice Basic"
+        ],
+        "Mobilite & Objets connectes": [
+          "Prisma : transformez vos cliches en oeuvres d art",
+          "Yuka : l information alimentaire a portee de main",
+          "Guide de survie juridique pour vos applications mobiles"
+        ],
+        "Programmation & Script": [
+          "Creez une application musicale avec Pure Data"
+        ],
+        "Systeme & Personnalisation": [
+          "Compiler et gerer des applications supplementaires pour votre systeme avec LinuxBrew"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Concevoir un script 'shell'"
+        ],
+        "Web & Reseau": [
+          "Tracage des utilisateurs sur le web : quelques pistes pour s en premunir",
+          "Petit cas pratique d utilisation du client OpenSsh"
+        ]
+      }
+    },
+    {
+      "name": "lp108",
+      "date": "2018-07-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Breves"
+        ],
+        "Cahier Raspberry Pi": [
+          "Ajouter un effet 'ambilight' a votre TV grace a Hyperion et votre Raspberry Pi"
+        ],
+        "Entreprise et organisation": [
+          "Utilisation du serveur OpenSSH en Pratique"
+        ],
+        "Logitheque & Applicatif": [
+          "Realiser des rendus photorealistes d avatar humains avec makehuman et blender",
+          "Onlyoffice : la suite bureautique collaborative en ligne destinee aux organisations",
+          "Gifcurry : creez facilement vos gifs animes",
+          "Decoupez vos videos en toutes simplicite avec Vidcutter"
+        ],
+        "Mobilite & Objets connectes": [
+          "9 cards : accedez plus rapidement a vos applications favorites",
+          "Maps.me : Profiter d une cartographie hors ligne"
+        ],
+        "Programmation & Script": [
+          "Creez des visual novels avec Ren'Py",
+          "A la decouverte de Basic"
+        ],
+        "Systeme & Personnalisation": [
+          "Introduction a Docker"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Gerez efficacement vos taches avec taskwarrior : guide d'utilisation"
+        ],
+        "Web & Reseau": [
+          "Rediger avec Markdown"
+        ]
+      }
+    },
+    {
+      "name": "lp109",
+      "date": "2018-09-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Agenda Septembre-Octobre 2018"
+        ],
+        "Cahier Raspberry Pi": [
+          "Creer sa station meteo a l aide du Raspberry Pi et de son ecran 3.5''"
+        ],
+        "Entreprise et organisation": [
+          "Creer des documents HTML et PDF styles avec MD2HTMLPDF"
+        ],
+        "Logitheque & Applicatif": [
+          "Creer un motif repetable avec Inkscape",
+          "Geary : le client mail facile a prendre en main",
+          "Flameshot : la solution rapide et fonctionnelle pour realiser vos capture d ecran",
+          "Utiliser le publipostage avec LibreOffice pour personaliser des invitations"
+        ],
+        "Mobilite & Objets connectes": [
+          "GoodTime : parametrez votre sessions de travail",
+          "Kids Place : transformez un smartphone en telephone ou en lecteur mp3",
+          "Programmer pour Android"
+        ],
+        "Programmation & Script": [
+          "Inserez vos scripts Python dans la calculatrice NumWorks"
+        ],
+        "Societe": [
+          "Pourquoi Linux et les logiciels libres un bon choix pour l education"
+        ],
+        "Systeme & Personnalisation": [
+          "Les bases theoriques pour comprendre le machine learning",
+          "Le machine learning en pratique avec Orange"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Combien de temps passez-vous sur vos taches ?",
+          "Gerer de maniere efficace votre travail dans le terminal TMUX"
+        ]
+      }
+    },
+    {
+      "name": "lp11X",
+      "date": "2018-MM-01",
       "index": {
         "Actualite & Applicatif": [],
         "Actualite & Nouveautes": [],
@@ -2172,6 +2435,7 @@
         "Programmation & Script": [],
         "Reflexion & Societe": [],
         "Scripts": [],
+        "Societe": [],
         "Systeme & Personnalisation": [],
         "Terminal & Ligne de commandes": [],
         "Web & Reseau": []

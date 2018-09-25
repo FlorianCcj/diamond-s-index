@@ -12,8 +12,6 @@ misc-N73(2014.05)
       ],
       "Hackable": [],
       "Linux_Pratique": [
-        104,
-        105,
         106,
         107,
         108,
@@ -69,7 +67,11 @@ misc-N73(2014.05)
       "lm218 - Knockout, un framework JS qui a du repondant",
       "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
       "lmhs95 - Memo Python",
-      "lmhs97 - Dossier - Developpement securise"
+      "lmhs97 - Dossier - Developpement securise",
+      "lp105 - Mettez en place une page de statut de vos services pour vos utilisateurs",
+      "lp107 - Concevoir un script 'shell'",
+      "lp109 - 9 cards : accedez plus rapidement a vos applications favorites",
+      "lp109 - Les bases theoriques pour comprendre le machine learning"
     ]
   },
 
