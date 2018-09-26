@@ -1,0 +1,57 @@
+{
+  "index": {
+    "Gnu_Linux_mag": [],
+    "Gnu_Linux_mag_HS": [],
+    "Hackable": [],
+    "Linux_Pratique": [],
+    "Linux_Pratique_HS": [],
+    "Misc": [
+      "check missing",
+      91,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "Misc_HS": [],
+    "Open_silicium": [
+      null
+    ]
+  },
+  "read": [
+    "lm210 - Integrez vos scripts au bureau et gerer les URI",
+    "lm210 - Deployer un environnement de deploiement avec Debian-Installer Ansible et Git",
+    "lm210 - Securisez vos donnees par LVM et RAID",
+    "lm210 - HoneyPot qui mal y pense",
+    "lm211 - La configuration SSH d un 'DevOps'",
+    "lm211 - Base 16, 32, 36,  56, 64, 85, ...",
+    "lm211 - Isolez vos constructions logicielles a l aide de Docker",
+    "lm211 - Dopez vos commandes Shell",
+    "lm211 - Ecrivez du code JavaScript robuste",
+    "lm213 - La logique du jeu de la vie : exercice amusantes de pensee laterale",
+    "lm213 - Gerez vos tickets Github en ligne de commandes",
+    "lm213 - Detectez les fuites memoire dans vos programmes",
+    "lm214 - Stokage persistant dans cubernetes avec Rook",
+    "lm214 - L auto-hebergement leger de depots Git avec Gitolite",
+    "lm215 - A la decouverte des arbres binaires a commande equilibree",
+    "lm215 - Maintenance applicative avec Git",
+    "lm215 - Creez votre animal de compagnie virtuel",
+    "lm215 - Stimulus, un framework JS leger, puissant et cool",
+    "lm216 - Actus & Humeur - Python, PyEnv, et IA",
+    "lm216 - Une clé USB de secours toujours a portee de main",
+    "lm216 - Cloisonner une application simplement avec NsJail",
+    "lm218 - Knockout, un framework JS qui a du repondant",
+    "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
+    "lmhs95 - Memo Python",
+    "lmhs97 - Dossier - Developpement securise",
+    "lp105 - Mettez en place une page de statut de vos services pour vos utilisateurs",
+    "lp107 - Concevoir un script 'shell'",
+    "lp109 - 9 cards : accedez plus rapidement a vos applications favorites",
+    "lp109 - Les bases theoriques pour comprendre le machine learning",
+    "lp109 - Gerer de maniere efficace votre travail dans le terminal TMUX",
+    "lphs42 - Comprendre l importance de la gestion des versions d un projet"
+  ]
+}

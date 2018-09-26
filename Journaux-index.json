@@ -1,68 +1,4 @@
 {
-  "todo": {
-    "index": {
-      "Gnu_Linux_mag": [],
-      "Gnu_Linux_mag_HS": [],
-      "Hackable": [],
-      "Linux_Pratique": [],
-      "Linux_Pratique_HS": [
-        40,
-        41,
-        42
-      ],
-      "Misc": [
-        "check missing",
-        91,
-        93,
-        94,
-        95,
-        96,
-        97,
-        98,
-        99
-      ],
-      "Misc_HS": [
-        15,
-        16,
-        17
-      ],
-      "Open_silicium": [
-        null
-      ]
-    },
-    "read": [
-      "lm210 - Integrez vos scripts au bureau et gerer les URI",
-      "lm210 - Deployer un environnement de deploiement avec Debian-Installer Ansible et Git",
-      "lm210 - Securisez vos donnees par LVM et RAID",
-      "lm210 - HoneyPot qui mal y pense",
-      "lm211 - La configuration SSH d un 'DevOps'",
-      "lm211 - Base 16, 32, 36,  56, 64, 85, ...",
-      "lm211 - Isolez vos constructions logicielles a l aide de Docker",
-      "lm211 - Dopez vos commandes Shell",
-      "lm211 - Ecrivez du code JavaScript robuste",
-      "lm213 - La logique du jeu de la vie : exercice amusantes de pensee laterale",
-      "lm213 - Gerez vos tickets Github en ligne de commandes",
-      "lm213 - Detectez les fuites memoire dans vos programmes",
-      "lm214 - Stokage persistant dans cubernetes avec Rook",
-      "lm214 - L auto-hebergement leger de depots Git avec Gitolite",
-      "lm215 - A la decouverte des arbres binaires a commande equilibree",
-      "lm215 - Maintenance applicative avec Git",
-      "lm215 - Creez votre animal de compagnie virtuel",
-      "lm215 - Stimulus, un framework JS leger, puissant et cool",
-      "lm216 - Actus & Humeur - Python, PyEnv, et IA",
-      "lm216 - Une clé USB de secours toujours a portee de main",
-      "lm216 - Cloisonner une application simplement avec NsJail",
-      "lm218 - Knockout, un framework JS qui a du repondant",
-      "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
-      "lmhs95 - Memo Python",
-      "lmhs97 - Dossier - Developpement securise",
-      "lp105 - Mettez en place une page de statut de vos services pour vos utilisateurs",
-      "lp107 - Concevoir un script 'shell'",
-      "lp109 - 9 cards : accedez plus rapidement a vos applications favorites",
-      "lp109 - Les bases theoriques pour comprendre le machine learning",
-      "lp109 - Gerer de maniere efficace votre travail dans le terminal TMUX"
-    ]
-  },
   "Gnu_Linux_mag": [
     {
       "name": "lm101",
@@ -2503,7 +2439,7 @@
     },
     {
       "name": "lphs39",
-      "date": "20AA-MM-01",
+      "date": "2017-07-01",
       "title": "Mémo ligne de commande, le guide pour exploiter le shell & tirer le meilleur de votre systeme",
       "index": {
         "Introduction, qu'est ce que le shell ? Comprenez ses principes de fonctionnement avant de prendre en main votre terminal": [
@@ -2534,8 +2470,103 @@
       }
     },
     {
+      "name": "lphs40",
+      "date": "2017-10-01",
+      "title": "Creez votre reseau local, le guide pour construire et administrer votre reseau sous linux",
+      "index": {
+        "INTRODUCTION AU RESEAU, familiarisez-vous avec les mecaniques du reseau et ses outils": [
+          "Comprendre le reseau",
+          "Installons nos systemes d exploitation"
+        ],
+        "ARCHITECTURE, dressez le plan de votre reseau, mettez en place routage et firewall et installez un serveur DHCP et DNS": [
+          "Mettons en place les noeuds du reseau : routage et firewall",
+          "Distribuons les parametres reseau : DHCP et DNS"
+        ],
+        "WIFI, Installez des points d acces Wifi pour permettre la connectivites sans fil": [
+          "Mettons en place un point d acces Wifi",
+          "Utilisons plusieurs reseaux Wifi"
+        ],
+        "SERVICES, Gerez les utilisateurs de votre reseau et mettez-leur a disposition un partage de fichier et d impression": [
+          "Gerons les utilisateurs de notre reseau",
+          "Partageons nos fichiers",
+          "Faisons bonne impression"
+        ],
+        "SECURITE, Creez un VPN et mettez en place une connexion securisee SSH": [
+          "Etablissons un reseau prive virtuel",
+          "Connectons-nous dans tous les sens avec SSH"
+        ]
+      }
+    },
+    {
+      "name": "lphs41",
+      "date": "2018-02-01",
+      "title": "Retro Gaming, le guide pour retrouver le plaisir des classiques du jeu video emulez ...",
+      "index": {
+        "INTRODUCTION, Histoire, vocabulaire et legislation des Jeux videos et du retrogaming": [
+          "Retrogaming : le jeu video face a l eternite",
+          "ROM, BIOS, firmware, cartouche... ne melangeons pas tout !",
+          "Jeu videos : objet juridique mal identifie"
+        ],
+        "... DES MACHINES, telles que l'Atari ST, le Commodore 64, l'Oric ou encore un PC DOS": [
+          "Retrouvez vos 'bon' vieux jeux DOS avec DOSBox",
+          "Oric I et Atmos : la legende des 80's presque francaise",
+          "Emulez un Atari ST avec Hatari",
+          "Commodore 64 via VICE : a la (re)decouverte d un morceau d histoire"
+        ],
+        "... DES CONSOLES, comme la super Nintendo, la Sega Genesis et les bornes d'arcades avec MAME et RetroFE": [
+          "Profitez de vos consoles de jeu favorites avec RetroFE",
+          "Retrouvez le plaisir des jeux d'arcade sur votre PC grace a MAME"
+        ],
+        "... SUR RASPBERRY PI": [
+          "Transformez votre Raspberry Pi en station de retrogaming avec Lakka",
+          "Decouvrez RetroPie, la distribution dediee au retrogaming sur Raspberry Pi"
+        ]
+      }
+    },
+    {
+      "name": "lphs42",
+      "date": "2018-05-01",
+      "title": "",
+      "index": {
+        "Actus": [
+          "Breves",
+          "Gros plan sur le phenomene des Hackathons",
+          "Votre agenda",
+          "Cote livres ...",
+          "Quels sont les langages de programmation les plus populaire ?"
+        ],
+        "Decryptage": [
+          "Comprendre l importance de la gestion des versions d un projet"
+        ],
+        "Dossier : decouvrir la programmation": [
+          "Decouverte et installation de Processing",
+          "Les principaux elements de synthaxe a connaitre",
+          "L utilisation des variables",
+          "L organisation du code",
+          "Cap sur la 3D !",
+          "Les boucles et les conditions",
+          "Ameliorations visuelles et sonores",
+          "Initiation a la programation orientee objet"
+        ],
+        "Reperes": [
+          "Les differents types de programmation"
+        ],
+        "Societe": [
+          "L informatique et la programmation a l ecole : tour d horizon des initiatives developpes",
+          "Rencontre avec David Odin, enseignant a l Ecole d Ingenieur en Chimie et Sciences du Numerique de Lyon"
+        ],
+        "Temoignages": [
+          "Portraits de developpeurs"
+        ],
+        "Zoom sur": [
+          "Financement de projets : lorsque les internautes se transforment en mecenes",
+          "Bien selectionner sa licence libre"
+        ]
+      }
+    },
+    {
       "name": "lphsXX",
-      "date": "20AA-MM-01",
+      "date": "2018-MM-01",
       "title": "",
       "index": {}
     }
@@ -2737,6 +2768,78 @@
           "Post-exploitation Windows avec Metasploit"
         ]
       }
+    }, {
+      "name": "mischs15",
+      "date": "2017-06-01",
+      "title": "Pouvez-vous encore faire confiance a votre refrigerateur ? Securite des objets connectes",
+      "index": {
+        "LES STANDARDS UTILISES, Initiez-vous aux standards de l IoT d aujourd hui et de demain": [
+          "Introduction a la securite des objets connectes",
+          "Etude de chiffrement dans un reseau IoT : le cas LoRaWan",
+          "MQTT : le protocole IoT qui distribue vos donnees personnelles a tous ?"
+        ],
+        "EVALUATION DES RISQUES, Donnees personnelles droit, modernisation : comprendre les developpement en cours": [
+          "L Internet des objets et le droit",
+          "La CCTV : un systeme de surveillance en circuits ouverts ?",
+          "Investigation numerique dans votre portefeuille"
+        ],
+        "ATTAQUES SUR LES OBJETS, Analyse des malwares et attaque d une camera connectee": [
+          "Analyse d une camera Wireless P2P Cloud",
+          "Les objets connectes peuvent-ils etre infectes ?"
+        ],
+        "AMELIORATION DE LA SECURITE, Crypto, methode formelle : decouvrez des techniques dediees a l IoT": [
+          "La cryptographie symetrique a bas cout : comment ptoteger des donnees avec tres peu de ressources ?",
+          "Des preuves mathematiques pour la securite des objets connectes ?"
+        ]
+      }
+    }, {
+      "name": "mischs16",
+      "date": "2017-10-01",
+      "title": "RFID, GSM, DVB, SDR, BLE... Securite des systemes sans fil, maitrisez les outils materiels et logiciels pour les auditer",
+      "index": {
+        "COMMUNICATION SANS FIL, Initiez-vous au monde des telecommunications et de la radio logicielle avec une approche securise": [
+          "Les tests d intrusion en radiocommunication",
+          "Exploration du spectre radio en radio logicielle",
+          "Agressions electromagnetiques et risques SSI"
+        ],
+        "RADIO-IDENTIFICATION, Decouvrez la boite a outils materielle Proxmark ainsi que diverses attaques sur la RFID": [
+          "Proxmark 3, le couteau suisse RFID"
+        ],
+        "TELEPHONIE MOBILE, Approfondissez vos connaissances sur le GSM de l interception a l analyse de flux": [
+          "Interception passive et decodage de flux GSM avec gr-gsm"
+        ],
+        "OBJETS CONNECTES, Analyse d un porte-cle Bluetooth et des technologies des televisions connectees": [
+          "Attaques HbbTV par DVB-T",
+          "Analyse d un porte-clef connecte Bluetooth Low Energy"
+        ]
+      }
+    }, {
+      "name": "mischs17",
+      "date": "2018-04-01",
+      "title": "Recher de Vulnerabilites, decouvrez de nouveaux outils pour auditer vos applications",
+      "index": {
+        "ANALYSE STATIQUE & DYNAMIQUE, Fuzzing execution symbolique, reverse engineeting : d afl a r2, reprenez les bases pour la recherche de vulnerabilites": [
+          "Analyse concolique de binaire avec angr",
+          "Introduction au developpement de plugins pour Radare2",
+          "Usages avances d AFL"
+        ],
+        "CRYPTOGRAPHIE, De l identification de primitives vulnerables dans des binaires aux tests automatises : initiez-vous a grap et a CDF - Crypto Differential Fuzzing": [
+          "Testons votre crypto !",
+          "Algorithmes et implementations cryptographiques vulnerables : detection avec grap"
+        ],
+        "IOT, Prenez en main l ensemble des outils necessaires pour tester la securite des objets connectes": [
+          "Toolkit 4.0 : revue des outils pour l exploitation pour l IoT"
+        ],
+        "WEB, XSS, injection SQL : mettez en oeuvre les outils pour deceler les problemes de securite dans vos applications web": [
+          "Recherche passive de vulnerabilites web avec Snuffleupagus",
+          "Wapiti : chasser les vulnerabilites web"
+        ]
+      }
+    }, {
+      "name": "mischsXX",
+      "date": "2017-0X-01",
+      "title": "",
+      "index": {}
     }
   ],
   "Open_silicium": [
