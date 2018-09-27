@@ -5,21 +5,9 @@
     "Hackable": [],
     "Linux_Pratique": [],
     "Linux_Pratique_HS": [],
-    "Misc": [
-      "check missing",
-      91,
-      93,
-      94,
-      95,
-      96,
-      97,
-      98,
-      99
-    ],
+    "Misc": [],
     "Misc_HS": [],
-    "Open_silicium": [
-      null
-    ]
+    "Open_silicium": [null]
   },
   "read": [
     "lm210 - Integrez vos scripts au bureau et gerer les URI",
@@ -52,6 +40,7 @@
     "lp109 - 9 cards : accedez plus rapidement a vos applications favorites",
     "lp109 - Les bases theoriques pour comprendre le machine learning",
     "lp109 - Gerer de maniere efficace votre travail dans le terminal TMUX",
-    "lphs42 - Comprendre l importance de la gestion des versions d un projet"
+    "lphs42 - Comprendre l importance de la gestion des versions d un projet",
+    "Misc95 - dossier"
   ]
 }

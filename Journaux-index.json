@@ -2692,6 +2692,28 @@
     },
     {
       "name": "misc92",
+      "date": "2017-05-01",
+      "index": {
+        "Dossier-Quand on arrive en ville": [
+          "Preambule",
+          "Introduction au concept de smart city",
+          "Le point sur la cybersecurite des systemes de videosurveillance",
+          "Les systemes de videosurveillance et l IoT : protocole de vulnerabilite",
+          "De l Open data a la ville intelligente"
+        ],
+        "Forensic corner": ["Detecter des persistances WMI"],
+        "Malware corner": ["Botnet low cost"],
+        "Organisation & Juridique": [
+          "Les messageries securisees, enjeux societaux",
+          "Faites vos jeux"
+        ],
+        "Pentest corner": ["Auditer la securite d une application IOS avec Needle"],
+        "Reseau": ["SDN ou comment le reseau s automatise a grande echelle"],
+        "Systeme": ["Securite des terminaux mobiles"]
+      }
+    },
+    {
+      "name": "misc92",
       "date": "2017-07-01",
       "index": {
         "Cryptographie": [
@@ -2723,8 +2745,144 @@
       }
     },
     {
+      "name": "misc93",
+      "date": "2017-09-01",
+      "index": {
+        "Code": ["Voyage en C++ie, les symboles", "DevOps, automatisations et gestion d incidents"],
+        "Cryptographie": ["Les standards de cryptographie, de la theorie a la pratique"],
+        "Dossier-Decouverte des outils de wikileaks et des shadow brokers": [
+          "106 shades of Marble",
+          "Shadow Brokers : courtier ou agent d influence ?",
+          "Soupe a l onion",
+          "Lanceurs d alerte : premier contact"
+        ],
+        "Forensic corner": ["Aller plus loin que l evenement 4624, detecter les actions malveillant sur l AD"],
+        "Malware corner": ["Petya or not Petya, that is the question"],
+        "Pentest corner": ["Exploitation des injections de template dans Django"],
+        "Systeme": ["Active Directory, transformer une faiblesse en point fort"]
+      }
+    },
+    {
+      "name": "misc94",
+      "date": "2017-11-01",
+      "index": {
+        "Cryptographie": ["Le bon, la brute et le WPA2"],
+        "Dossier - CERT, CSIRT et SOC : organisation, outillage hunting et LPM": [
+          "Martine monte un CERT s02e01",
+          "TheHive, Cortex et MISP : la cyberdefense a portee de main",
+          "Threat hunting 101",
+          "Voyage au centre de la loi de Programmation Militaire"
+        ],
+        "Forensic corner": ["ELK, un SIEM a prendre au serieux"],
+        "Malware corner": ["Instrumentation de machines virtuelles avec PyREBox"],
+        "Organisation & Juridique": ["Maturite d entreprise et plan d action pour la mise en conformite avec GDPR"],
+        "Pentest corner": ["pfSense, obtention d un reverse-shell root a partir d une XSS"],
+        "Systeme": ["Psychologie comportementale, que dfaire du mot de passe ?"]
+      }
+    },
+    {
+      "name": "misc95",
+      "date": "2018-01-01",
+      "index": {
+        "Dossier - Docker : quelle securite pour les conteneurs ?": [
+          "Preambule",
+          "Apercu de la securite de Docker",
+          "Introduction aux containers Linux",
+          "Docker : les bons reflexes a adopter",
+          "Docker, DevOps & securite : enfin reconcilies"
+        ],
+        "Exploit corner": ["Exploitation du CVE-2015-4843"],
+        "Forensic corner": ["Paniquez pas, on grep !"],
+        "Malware corner": ["C est une bonne situation ca Scribbles ?"],
+        "Organisation & Juridique": [
+          "Les CERT, acteurs de la cybersecurite internationale"
+        ],
+        "Reseau": [
+          "Protection 802.1x et techniques de contournement",
+          "Trouver efficacement les equipements reseau vulnerables a un PSIRT"
+        ],
+        "Systeme": ["FreeOTP : authentification VPN a 2 facteurs open source"]
+      }
+    },
+    {
+      "name": "misc96",
+      "date": "2018-03-01",
+      "index": {
+        "Code": ["Voyage en C++IE : les objets"],
+        "Cryptographie": ["Attaques par faute"],
+        "Dossier - Blockchain : un reel progres pour la securite ?": [
+          "Blockchain, nouveau paradigme de la securite ?",
+          "Wallet Parity : exploitation d une vulnerabilite a 30 millions de dollars",
+          "Securite des portefeuilles legers Bitcoin",
+          "Minage indesirable"
+        ],
+        "Exploit corner": ["Realisation d une preuve de concept pour la vulnerabilite CVE-2017-5123"],
+        "Malware corner": ["Cadeaux de noel aux reversers"],
+        "Pentest corner": ["Utilisation de PowerSploit dans la vraie vie"],
+        "Reseau": ["Analyse des configurations SSL/TLS de serveurs SMTP"],
+        "Systeme": ["Mac address randomization tour d horizon"]
+      }
+    },
+    {
+      "name": "misc97",
+      "date": "2018-05-01",
+      "index": {
+        "Application": ["Conpot : l art de faire murir ses pommes en stimulant un systeme de controle industriel (ICS)"],
+        "Dossier - Meltdown, spectre, cryptanalyse : comprendre le fonctionnement des attaques par canaux auxiliaires !": [
+          "Verifier un code PIN",
+          "Des attaques en boite grise pour casser des implementations cryptographiques en boite blanche",
+          "Meltdown et attaques sur KASLR : les attaques par canal auxiliaire passent a la vitesse superieure",
+          "Attaques par canaux auxiliaires sur AES - Partie 1"
+        ],
+        "Exploit corner": ["Fini le bac a sable, avec le CVE-2017-3272, devenez un grand !"],
+        "Forensic corner": ["Archeologie numerique"],
+        "Pentest corner": ["Pentest dans les reseau CAN : des standards a la pratique"],
+        "Reseau": [
+          "Compromission de clavier sans fil 2.4GHZ",
+          "Evolution des architectures de securite reseau en entreprise - Partie 1"
+        ],
+        "Systeme": ["SMTP : la 'killer app' de DNSSEC"]
+      }
+    },
+    {
+      "name": "misc98",
+      "date": "2018-07-01",
+      "index": {
+        "Code": ["Comprendre le fonctionnement des CORS"],
+        "Cryptographie": ["Attaques par canaux auxilliaires sur AES - Partie 2"],
+        "Dossier - Authentification : enfin la fin des mots de passe ?": [
+          "Tour d horizon de l authentification forte (MFA)",
+          "Web authentification / Password reset : REX de Bug Bounty",
+          "'WebAuthn' : enfin la fin des mots de passe ?",
+          "OpenID Connect : presentation du prototype et etude de l attaque Broken End-User Authentication"
+        ],
+        "Forensic corner": ["Votre SIEM a portee de main avec Elasticsearch/Elastalert"],
+        "IoT corner": ["Piranhalysis : rendre l analyse facile et reproductible"],
+        "Malware corner": ["Emulation du bootloader de NotPedya avec Miasm"],
+        "Organisation & Juridique": ["La surface d attaque son utilite, ses limites, ses nouveaux defis"]
+      }
+    },
+    {
+      "name": "misc99",
+      "date": "2018-09-01",
+      "index": {
+        "Code": ["Cross Origin Resource Sharing : defauts de configurations, vulnerabilites et exploitations"],
+        "Cryptographie": ["Attaques par canaux auxiliaires : evaluations de securite a court et long terme"],
+        "Dossier - Environnemennts d execution securises : de SGX a Trustzone": [
+          "Android & TEE",
+          "Attaques sur la technologie TrustZone d ARM",
+          "Fabriquer sa propre enclave a base de FPGA",
+          "Developper une application securise avec Intel SGX"
+        ],
+        "Forensic corner": ["Desanonymisation du jeu de donnees Mawi"],
+        "Malware corner": ["Analyse de Jrat"],
+        "Pentest corner": ["Techniques de communication furtives avec empire ou comment exfiltrer des donnees sans etre detecte"],
+        "Systeme": ["EDR : Endpoint detection response"]
+      }
+    },
+    {
       "name": "miscXX",
-      "date": "20XX-MM-01",
+      "date": "2018-MM-01",
       "index": {
         "Application": [],
         "Code": [],
