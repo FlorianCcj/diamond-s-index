@@ -951,6 +951,70 @@
       }
     },
     {
+      "name": "lm219",
+      "date": "2018-10-01",
+      "index": {
+        "Actus & Humeur": [
+          "Le cerveau de Peter"
+        ],
+        "IA, Robotique & Science": [
+          "Script Shell de comparaison de deux arborescences"
+        ],
+        "IoT & Embarque": [
+          "Mise a jour d un systeme linux embarque 'over the air' : comment integrer et utiliser 'mender' pour vos deploiement"
+        ],
+        "Kernel & Bas niveau": [
+          "Comment demarrer manuellement le noyau Linux"
+        ],
+        "Libs & Modules": [
+          "Votre Chatbot peut-il passer pour un humain ?"
+        ],
+        "Mobile & Web": [
+          "Qt on the web"
+        ],
+        "Securite & Vulnerabilite": [
+          "PassPort, bastion ssh"
+        ],
+        "Systeme & Reseau": [
+          "Testez votre infrastructure comme vous testez vitre code avec test Kitchen",
+          "Generer vos conteneurs et machines virtuelles de maniere automatises avec Packer"
+        ]
+      }
+    },
+    {
+      "name": "lm220",
+      "date": "2018-11-01",
+      "index": {
+        "Actus & Humeur": [
+          "Performances et supervision avec PostgreSQL en version 10"
+        ],
+        "Developpement web et mobile": [],
+        "Hack & Bidouille": [
+          "Selection des informations dans un agenda google"
+        ],
+        "IA, Robotique & Science": [
+          "Introduction au NLP avec Spacy"
+        ],
+        "IoT & Embarque": [
+          "Utilisation avancee de l interface USB-RS232 FT232"
+        ],
+        "Kernel & Bas niveau": [
+          "Coreboot et Me_Cleaner liberez votre Bios"
+        ],
+        "Libs & Modules": [],
+        "Mobile & Web": [],
+        "Securite & Vulnerabilite": [
+          "Proxy let s encrypt : comment generaliser SSL"
+        ],
+        "Systeme & Reseau": [
+          "Big Data avec AWK",
+          "Ansible container : le meilleur des deux mondes ?",
+          "Aller plus loin avec Bash ...",
+          "Just enough operating system et l exemple de Rancheros"
+        ]
+      }
+    },
+    {
       "name": "lm2YY",
       "date": "2018-MM-01",
       "index": {
@@ -1711,7 +1775,6 @@
       "name": "hk25",
       "date": "2018-07-01",
       "index": {
-        "Actualites": [],
         "Ardu n Co": [
           "Vos ESP8266 se mettent a jour tout seuls !"
         ],
@@ -1741,7 +1804,6 @@
       "name": "hk26",
       "date": "2018-09-01",
       "index": {
-        "Actualites": [],
         "Ardu n Co": [
           "Transformez vos vieux lecteurs de disquettes en instrument de musique",
           "Interfacage d une radiocomande de modelisme a un simulateur de vol"
@@ -1760,6 +1822,33 @@
         ],
         "Retro Tech": [
           "Ajouter de la memoire a une vieille imprimante laser"
+        ]
+      }
+    },
+    {
+      "name": "hk27",
+      "date": "2018-11-01",
+      "index": {
+        "Ardu n Co": [
+          "Une jauge analogique MQTT pour afficher vos mesures et valeurs"
+        ],
+        "Demontage, hacks & recup": [
+          "Ordinateur 8 bits Z80 : on prend les memes et on recommence"
+        ],
+        "Embarque et Informatique": [
+          "Robotique et electrons : mesurer une consomation avec le Rpi"
+        ],
+        "En couverture": [
+          "Reseau mesh : etendre facilement son reseau sans fil pour ses montages"
+        ],
+        "Equipement": [
+          "Pilotez des ecrans e-paper a trois couleurs !"
+        ],
+        "Reperes & Science": [
+          "Controlez vos NeoPixels en 3.3 volts"
+        ],
+        "Tension et Courant": [
+          "Etude d un traqueur solaire"
         ]
       }
     },
@@ -2358,7 +2447,55 @@
       }
     },
     {
-      "name": "lp11X",
+      "name": "lp110",
+      "date": "2018-11-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Breves",
+          "Agenda novembre - decembre 2018"
+        ],
+        "Cahier Raspberry Pi": [
+          "Reconnaissance faciale sur Raspberry Pi a l aide d OpenCV"
+        ],
+        "Entreprise et organisation": [
+          "Pilotez vos serveurs sans peine avec Cockpit",
+          "Ecrivez et gerez vos documentations avec Bookstack"
+        ],
+        "Logitheque & Applicatif": [
+          "Realisez une video promotionnelle avec KdenLive",
+          "Ecrire une chanson avec lilypond",
+          "Flagfox : renseignez-vous sur les sites que vous visitez",
+          "Dark reader : assurez-vous un conford de lecture optimal",
+          "Tabliss : transformez vos 'nouveaux' onglets",
+          "Produire des documents avec Pandoc"
+        ],
+        "Mobilite & Objets connectes": [
+          "Trello : organisez tous vos projets",
+          "Pocket : vos listes de lecture a consulter 'plus tard'"
+        ],
+        "Programmation & Script": [
+          "Creer une interface utilisateur propre et lisible sous Pure Data"
+        ],
+        "Societe": [
+          "Vie privee numerique : le point sur le reglement europeen eprivacy"
+        ],
+        "Systeme & Personnalisation": [
+          "Realisez un assistant virtuel avec la parole"
+        ],
+        "Web & Reseau": [
+          "Echappez a la censure : routez tout votre trafic dans Tor",
+          "Creez facilement vos animations HTML avec JCANVAS"
+        ]
+      }
+    },
+      {
+        "name": "lp11X",
+        "date": "2018-MM-01",
+        "index": {
+      }
+    },
+    {
+      "name": "lp11Y",
       "date": "2018-MM-01",
       "index": {
         "Actualite & Applicatif": [],
@@ -2878,6 +3015,42 @@
         "Malware corner": ["Analyse de Jrat"],
         "Pentest corner": ["Techniques de communication furtives avec empire ou comment exfiltrer des donnees sans etre detecte"],
         "Systeme": ["EDR : Endpoint detection response"]
+      }
+    },
+    {
+      "name": "misc100",
+      "date": "2018-11-01",
+      "index": {
+        "Code": [
+          "Deserialisation Java : une breve introduction"
+        ],
+        "Dossier - Supervision : retours d experience autour des SIEM": [
+          "Quelques enjeux pour votre SIEM",
+          "Game of SOC : mise en place sans encombre d une solution de SOC avec la stack Elastic",
+          "Collecte de logs d installations industrielles isolees",
+          "Interfacer Suricata avec son ecosysteme de securite"
+        ],
+        "Forensic corner": [
+          "10 ans de Suricata"
+        ],
+        "Malware corner": [
+          "Analyse de malware bancaire Gootkit et de ses mecanisme de protection"
+        ],
+        "Pentest corner": [
+          "Quelques vulnerabilites du SDN"
+        ],
+        "Reseau": [
+          "Comment securiser la centralisation du calcul des routes d un coeur de reseau ?"
+        ],
+        "Tribune": [
+          "Misc 100 le changement c est tout le temps"
+        ],
+      }
+    },
+    {
+      "name": "miscXX",
+      "date": "2018-MM-01",
+      "index": {
       }
     },
     {

@@ -32,6 +32,16 @@
     "lm216 - Une clé USB de secours toujours a portee de main",
     "lm216 - Cloisonner une application simplement avec NsJail",
     "lm218 - Knockout, un framework JS qui a du repondant",
+    "lm219 - Script Shell de comparaison de deux arborescences",
+    "lm219 - Votre Chatbot peut-il passer pour un humain ?",
+    "lm219 - PassPort, bastion ssh",
+    "lm219 - Mise a jour d un systeme linux embarque 'over the air' : comment integrer et utiliser 'mender' pour vos deploiement",
+    "lm220 - Introduction au NLP avec Spacy",
+    "lm220 - Big Data avec AWK",
+    "lm220 -Aller plus loin avec Bash ...",
+    "lm220 - Ansible container : le meilleur des deux mondes ?",
+    "lm220 - Just enough operating system et l exemple de Rancheros",
+    "lm220 - Proxy let s encrypt : comment generaliser SSL",
     "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
     "lmhs95 - Memo Python",
     "lmhs97 - Dossier - Developpement securise",
@@ -40,7 +50,13 @@
     "lp109 - 9 cards : accedez plus rapidement a vos applications favorites",
     "lp109 - Les bases theoriques pour comprendre le machine learning",
     "lp109 - Gerer de maniere efficace votre travail dans le terminal TMUX",
+    "lp110 - Echappez a la censure : routez tout votre trafic dans Tor",
+    "lp110 - Creez facilement vos animations HTML avec JCANVAS",
+    "lp110 - Creer une interface utilisateur propre et lisible sous Pure Data",
+    "lp110 - Ecrivez et gerez vos documentations avec Bookstack",
+    "lp110 - Pocket : vos listes de lecture a consulter 'plus tard'",
     "lphs42 - Comprendre l importance de la gestion des versions d un projet",
-    "Misc95 - dossier"
+    "Misc95 - dossier",
+    "misc100 - Dossier - Supervision : retours d experience autour des SIEM"
   ]
 }
