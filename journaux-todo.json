@@ -45,6 +45,9 @@
     "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
     "lmhs95 - Memo Python",
     "lmhs97 - Dossier - Developpement securise",
+    "lmhs98",
+    "lmhs99 - Maintenant, faites aussi vos presentations en Python !",
+    "lmhs99 - Premiere approche pratique de la securite de Docker",
     "lp105 - Mettez en place une page de statut de vos services pour vos utilisateurs",
     "lp107 - Concevoir un script 'shell'",
     "lp109 - 9 cards : accedez plus rapidement a vos applications favorites",
@@ -57,6 +60,7 @@
     "lp110 - Pocket : vos listes de lecture a consulter 'plus tard'",
     "lphs42 - Comprendre l importance de la gestion des versions d un projet",
     "Misc95 - dossier",
-    "misc100 - Dossier - Supervision : retours d experience autour des SIEM"
+    "misc100 - Dossier - Supervision : retours d experience autour des SIEM",
+    "mischs18 - dossier"
   ]
 }

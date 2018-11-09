@@ -1478,10 +1478,94 @@
       }
     },
     {
+      "name": "lmhs98",
+      "date": "2018-09-01",
+      "title": "Comprenez enfin tout sur... Les conteneurs ! Pourquoi ? Quand ? Comment ?",
+      "index": {
+        "Actus": [
+          "Breves",
+          "Cote livres",
+          "Un aprecu des nouveautes de Python 3.7 : le decorateur @dataclass"
+        ],
+        "Decryptage": [
+          "Supervision a petite echelle avec Conky et Collectd"
+        ],
+        "Dossier - Les conteneurs": [
+          "La petite histoire du conteneur",
+          "The Twelve Factor App : la methodologie de creation de SaaS",
+          "Demystication des conteneurs",
+          "Bien commencer avec Docker",
+          "Pourquoi ai-je besoin d un orchestrateur ?",
+          "Kubernetes en action",
+          "Kubernetes : architecture et concepts",
+          "Aller encore plus loin avec Kubernetes"
+        ],
+        "Reperes": [
+          "Quel est le meilleur langage pour faire du Machine Learning ? - Le cas Python -"
+        ],
+        "Temoignages": [
+          "Entretien avec Adrien Duermael, developpeur Docker"
+        ]
+      }
+    },
+    {
+      "name": "lmhs99",
+      "date": "2018-11-01",
+      "title": "Tracking, Krack, WPS, WPA3, ... Comprendre les attaques sur le WIFI",
+      "index": {
+        "Actus": [
+          "Breves",
+          "Cote livres...",
+          "La version 10 de PostgreSQL et la replication"
+        ],
+        "Boite a outils": [
+          "Maintenant, faites aussi vos presentations en Python !"
+        ],
+        "Decryptage": [
+          "Premiere approche pratique de la securite de Docker"
+        ],
+        "Dossier - Comporendre les attaques sur le WI-FI": {
+          "Gros titre": [
+            "PROTOCOLES, Presentation des differents protocoles WIFI depuis WEP jusqu a WPA3",
+            "WPS, Decouverte du fonctionnement et des faiblesses du WIFI Protected Setup",
+            "VIE PRIVEE, Systemes de tracage et de mesure d audience WIFI : quels risques ?",
+            "ATTAQUES, Gros plan sur les differents types d attaque : deni de service, portail captif, man in the middle, ..."
+          ],
+          "Sommaire": [
+            "Du WEP a WPA3 : petit historique de la securite WIFI",
+            "WPS : fonctionnement et faiblesses",
+            "Tracage WIFI : qu en est-il en pratique ?",
+            "Attaque par deni de service dans le WIFI",
+            "Comprendre les attaques Krack",
+            "Est-il simple de mettre en place une attaque WIFI ?"
+          ]
+        },
+        "Reperes": [
+          "Une introduction parallele avec Open MPI et OpenMP"
+        ],
+        "Temoignages": [
+          "Entretien avec Olivier Levillan, expert en sécurité informatique"
+        ]
+      }
+    },
+    {
       "name": "lmhsXX",
       "date": "2018-XX-01",
       "title": "",
-      "index": {}
+      "index": {
+        "Actus": [
+        ],
+        "Boite a outils": [
+        ],
+        "Decryptage": [
+        ],
+        "Dossier": [
+        ],
+        "Reperes": [
+        ],
+        "Temoignages": [
+        ]
+      }
     }
   ],
   "Hackable": [
@@ -3099,7 +3183,8 @@
           "Post-exploitation Windows avec Metasploit"
         ]
       }
-    }, {
+    },
+    {
       "name": "mischs15",
       "date": "2017-06-01",
       "title": "Pouvez-vous encore faire confiance a votre refrigerateur ? Securite des objets connectes",
@@ -3123,7 +3208,8 @@
           "Des preuves mathematiques pour la securite des objets connectes ?"
         ]
       }
-    }, {
+    },
+    {
       "name": "mischs16",
       "date": "2017-10-01",
       "title": "RFID, GSM, DVB, SDR, BLE... Securite des systemes sans fil, maitrisez les outils materiels et logiciels pour les auditer",
@@ -3144,10 +3230,11 @@
           "Analyse d un porte-clef connecte Bluetooth Low Energy"
         ]
       }
-    }, {
+    },
+    {
       "name": "mischs17",
       "date": "2018-04-01",
-      "title": "Recher de Vulnerabilites, decouvrez de nouveaux outils pour auditer vos applications",
+      "title": "Recherche de Vulnerabilites, decouvrez de nouveaux outils pour auditer vos applications",
       "index": {
         "ANALYSE STATIQUE & DYNAMIQUE, Fuzzing execution symbolique, reverse engineeting : d afl a r2, reprenez les bases pour la recherche de vulnerabilites": [
           "Analyse concolique de binaire avec angr",
@@ -3166,9 +3253,48 @@
           "Wapiti : chasser les vulnerabilites web"
         ]
       }
-    }, {
-      "name": "mischsXX",
-      "date": "2017-0X-01",
+    },
+    {
+      "name": "mischs18",
+      "date": "2018-11-01",
+      "title": "Machine learning & Securite",
+      "index": {
+        "Actus": [
+          "Revus de livres...",
+          "Entretien avec Julien Cornedise, expert en machine learning"
+        ],
+        "Code": [
+          "Voyage en C++ie : un diamant d innocence"
+        ],
+        "Dossier - Machine learning & Securite": {
+          "Gros titre": [
+            "APPRENTISSAGE MACHINE : LES BASES, Faites vos premiers pas et vos premiers code python en Machine Learning",
+            "DETECTION D INTRUSION, Decouvrez comment Keras et TensorFlow peuvent vous y aider",
+            "DEEP LEARNING, Classification de malwares : utilisez l IA pour l analyse de sentiments dans des textes",
+            "CLUSTERISATION DE MALWARES, Techniques de classification automatique de malwares pour generez vos propres regles Yara"
+          ],
+          "Sommaire": [
+            "Machine Learning : un (rapide) tour d horizon",
+            "ML & securite : les opportunites",
+            "Vers une detection d intrusion dynamique et continue en utilisant les reseaux de neurones",
+            "Machine Learning en Python : clusterisation a la rescouse des hunters (de malware)",
+            "Automeans, ou comment eviter le 'k par k' avec K-means",
+            "Analyse des sentiments avec le Deep Learning",
+            "YaDiff : de l intelligence Artificielle pour comparer les codes binaires"
+          ]
+        },
+        "Malware": [
+          "Aux voleurs"
+        ],
+        "Sciences": [
+          "Introduction a l apprentissage par renforcement, sans code et presque sans maths",
+          "Graphes geants creux : comment definir le centre du Web"
+        ]
+      }
+    },
+    {
+      "name": "mischs1X",
+      "date": "2018-0X-01",
       "title": "",
       "index": {}
     }
