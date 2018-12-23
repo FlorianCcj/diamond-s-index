@@ -42,6 +42,12 @@
     "lm220 - Ansible container : le meilleur des deux mondes ?",
     "lm220 - Just enough operating system et l exemple de Rancheros",
     "lm220 - Proxy let s encrypt : comment generaliser SSL",
+    "lm221 - Highway to Helm",
+    "lm221 - U-Boot : a la decouvert de 'demarage verifie'"
+    "lm221 - L'intelligence artificielle au service de la classification",
+    "lm222 - Faut-il necessairement reflechir pour programmer ?",
+    "lm222 - Le langage Dart et les Web Apps",
+    "lm222 - Decouvrez ou redecouvrez Ansible-Vault",
     "lmhs94 - Machine learning, le guide pratique pour demarrer en intelligence artificielle",
     "lmhs95 - Memo Python",
     "lmhs97 - Dossier - Developpement securise",
@@ -58,9 +64,27 @@
     "lp110 - Creer une interface utilisateur propre et lisible sous Pure Data",
     "lp110 - Ecrivez et gerez vos documentations avec Bookstack",
     "lp110 - Pocket : vos listes de lecture a consulter 'plus tard'",
+    "lp111 - Page memo : annotez les pages web que vous consultez",
+    "lp111 - Creer son environnement de developpement LAMP grace a Docker Compose",
+    "lp111 - Votre serveur de chat auto-heberge avec Roccket-chat",
+    "lp111 - Tirez le meilleur de votre ligne de commande !",
+    "lp111 - Linux Command library : votre pense-bete a portee de main",
+    "lp111 - Space : pour prendre de la distance avec votre mobile",
+    "lp111 - Commander votre ordinateur par la voix",
     "lphs42 - Comprendre l importance de la gestion des versions d un projet",
+    "lphs43 - Dossier, securise un reseau",
     "Misc95 - dossier",
     "misc100 - Dossier - Supervision : retours d experience autour des SIEM",
+    "misc101 - OpenSSH : Une vulnerabilite exitant depuis 20 ans a ete detectee dans cet outil concu pour securiser les communications",
     "mischs18 - dossier"
-  ]
+  ],
+  "to see": {
+    "soft": [
+      "Bookstack: documentations"
+    ],
+    "dev js": [
+      "helmet: gestion des entete https",
+      "passport: gestion de la session"
+    ]
+  }
 }

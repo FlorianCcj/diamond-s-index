@@ -1015,6 +1015,65 @@
       }
     },
     {
+      "name": "lm221",
+      "date": "2018-12-01",
+      "index": {
+        "Actus & Humeur": [
+          "Android 8, le projet Treble",
+          "Les langages de demain"
+        ],
+        "IA, Robotique & Science": [
+          "L'intelligence artificielle au service de la classification"
+          "Quelques elements de traitement de signaux echantillonnes en temps discret avec GNU Radio"
+        ],
+        "IoT & Embarque": [
+          "U-Boot : a la decouvert de 'demarage verifie'"
+        ],
+        "Kernel & Bas niveau": [
+          "RPN : extention de la synthaxe grace a LEX"
+        ],
+        "Securite & Vulnerabilite": [
+          "Gerez vos listes avec le framework IPSET et le pare-feu Netfilter"
+        ],
+        "Systeme & Reseau": [
+          "Highway to Helm"
+        ]
+      }
+    },
+    {
+      "name": "lm222",
+      "date": "2019-01-01",
+      "index": {
+        "Actus & Humeur": [
+          "Empaquetez (facilement)votre projet avec UPT",
+          "Apres le code source, le code moral !",
+          "Faut-il necessairement reflechir pour programmer ?"
+        ],
+        "Developpement web et mobile": [],
+        "Hack & Bidouille": [],
+        "IA, Robotique & Science": [
+          "Confrontation de plans cadastraux et des photos satellite avec opencv"
+        ],
+        "IoT & Embarque": [
+          "Retrouvez le plaisir du test HDL avec COCOTB"
+        ],
+        "Kernel & Bas niveau": [
+          "Une introduction a LuaJIT"
+        ],
+        "Libs & Modules": [],
+        "Mobile & Web": [
+          "Le langage Dart et les Web Apps"
+        ],
+        "Securite & Vulnerabilite": [
+          "Decouvrez ou redecouvrez Ansible-Vault"
+        ],
+        "Systeme & Reseau": [
+          "Chroot, machine virtuel ou Kubernetes ?",
+          "Imprimer en ligne de commandes"
+        ]
+      }
+    },
+    {
       "name": "lm2YY",
       "date": "2018-MM-01",
       "index": {
@@ -2572,10 +2631,50 @@
         ]
       }
     },
-      {
-        "name": "lp11X",
-        "date": "2018-MM-01",
-        "index": {
+    {
+      "name": "lp111",
+      "date": "2019-01-01",
+      "index": {
+        "Actualite & Nouveautes": [
+          "Breves",
+          "Agenda Janvier-Fevrier 2019"
+        ],
+        "Cahier Raspberry Pi": [
+          "Commander votre ordinateur par la voix"
+        ],
+        "Cahier Raspberry pi & Debutant Linux": [],
+        "Entreprise et organisation": [
+          "Comment realiser des creations graphiques professionelles avec des logiciels libres"
+        ],
+        "Logitheque & Applicatif": [
+          "Creer vos documents scientifiques avec LYX",
+          "Page memo : annotez les pages web que vous consultez",
+          "Tomato Clock : controlez vos sessions de travail",
+          "Minimalist : une todo-list integree a votre navigateur web",
+          "Creer une structure en nid d'abeilles a decouper avec Inskape",
+          "Tracer simplement des courbes"
+        ],
+        "Mobilite & Objets connectes": [
+          "Linux Command library : votre pense-bete a portee de main",
+          "Space : pour prendre de la distance avec votre mobile",
+          "Utiliser des applications Android sous Chrome Os"
+        ],
+        "Programmation & Script": [],
+        "Reflexion & Societe": [],
+        "Scripts": [],
+        "Societe": [
+          "Des nuages sur notre souverainete"
+        ],
+        "Systeme & Personnalisation": [
+          "Creer son environnement de developpement LAMP grace a Docker Compose",
+          "Multiposte : plusieurs personnes sur le meme ordinateur"
+        ],
+        "Terminal & Ligne de commandes": [
+          "Tirez le meilleur de votre ligne de commande !"
+        ],
+        "Web & Reseau": [
+          "Votre serveur de chat auto-heberge avec Roccket-chat"
+        ]
       }
     },
     {
@@ -2786,10 +2885,52 @@
       }
     },
     {
+      "name": "lphs43",
+      "date": "2018-10-01",
+      "title": "",
+      "index": {
+        "Actus": [
+          "Breves",
+          "Votre agenda",
+          "Cote livres ...",
+          "Interview : 'PeerTube est decentralise et federe : un seul acteur n a pas le controle de toutes les videos'"
+        ],
+        "Boite a outil": [
+          "'Ranger' : un gestionnaire de fichiers 3 colonnes en mode texte"
+        ],
+        "Dossier - Optimisez votre reseau local": [
+          "Mettre en place l infrastrucuture pour heberger vos services",
+          "Surveillez vos services reseaux",
+          "Installez votre Hotspot Wifi d entreprise",
+          "Prenez le controle de votre telephone : installez Asterisk",
+          "Aller plus loin avec Asterisk : creez votre centre de communications personalise",
+          "Mettez en place votre architecture de sauvegarde"
+        ],
+        "Reperes": [
+          "Prendre en main son reseau : les outils indispensables"
+        ],
+        "Societe": [
+          "La question de l identite numerique"
+        ],
+        "Zoom sur": [
+          "Botnets, mon serveur ne vous aidera pas !"
+        ]
+      }
+    },
+    {
       "name": "lphsXX",
       "date": "2018-MM-01",
       "title": "",
-      "index": {}
+      "index": {
+        "Actus": [],
+        "Boite a outil": [],
+        "Decryptage": [],
+        "Dossier": [],
+        "Reperes": [],
+        "Societe": [],
+        "Temoignages": [],
+        "Zoom sur": []
+      }
     }
   ],
   "Misc": [
@@ -3132,9 +3273,33 @@
       }
     },
     {
-      "name": "miscXX",
-      "date": "2018-MM-01",
+      "name": "misc101",
+      "date": "2019-01-01",
       "index": {
+        "Dossier-Bonnes pratique & developpement, securite des applications web": [
+          "Les fondamentaux pour securiser une application MEAN",
+          "Controle d'identite avec Passport",
+          "Vos entetes HTTPS avec HELMET",
+          "Integrer la securite dans votre usine de developpement JS"
+        ],
+        "Exploit corner": [
+          "OpenSSH : Une vulnerabilite exitant depuis 20 ans a ete detectee dans cet outil concu pour securiser les communications"
+        ],
+        "Forensic corner": [
+          "Recuperation des symboles du noyau linux sur android"
+        ],
+        "Organisation & Juridique": [
+          "Le piratage de logiciels dans le monde"
+        ],
+        "Pentest corner": [
+          "Deserialisation JAVA : une breve introduction au ROP de haut niveau"
+        ],
+        "Reseau": [
+          "URL interceptor pour milieu inerte"
+        ],
+        "Systeme": [
+          "Analyse d'un probleme pose par INTEL SGX : la Communication securisee entre une enclave et un peripherique"
+        ]
       }
     },
     {
