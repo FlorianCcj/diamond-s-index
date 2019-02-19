@@ -1074,8 +1074,33 @@
       }
     },
     {
+      "name": "lm223",
+      "date": "2019-02-01",
+      "index": {
+        "Actus & Humeur": [
+          "are you safe ?"
+        ],
+        "Hack & Bidouille": [
+          "gerer son argent avec un fichier texte"
+        ],
+        "IoT & Embarque": [
+          "yocto/oe et qt mqtt : le duo gagnant"
+        ],
+        "Kernel & Bas niveau": [
+          "implementation et exploitation de la fonction backtrace() en C"
+        ],
+        "Libs & Modules": [
+          "Comment distribuer des executables Python ?",
+          "du lua dans du Late ? c est lualatex"
+        ],
+        "Systeme & Reseau": [
+          "la livraison continue avec gitlab ci"
+        ]
+      }
+    },
+    {
       "name": "lm2YY",
-      "date": "2018-MM-01",
+      "date": "2019-MM-01",
       "index": {
         "Actus & Humeur": [],
         "Developpement web et mobile": [],
@@ -1091,7 +1116,7 @@
     },
     {
       "name": "lm2XX",
-      "date": "2018-MM-01",
+      "date": "2019-MM-01",
       "index": {
         "Actualites": [],
         "Actus & Humeur": [],
@@ -2918,15 +2943,52 @@
       }
     },
     {
+      "name": "lphs44",
+      "date": "2019-02-01",
+      "title": "Geants du net independance numerique, liberez-vous de l empire des GAFA !",
+      "index": {
+        "Actus": [
+          "Breves",
+          "Cote livres...",
+          "Votre agenda"
+        ],
+        "Boite a outil": [],
+        "Code": [
+          "Creer vos feuilles de tournoi avec jQuery Bracket"
+        ],
+        "Decryptage": [],
+        "Dossier - liberez-vous de l emprise des GAFA": [
+          "Le choi de l auto-hebergement avec YunoHost : rencontre avec l eauipe du projet",
+          "Creez votre cloud prive avec Nextcloud",
+          "Reprenez en main votre webmail avec Roundcube et Mailvelope",
+          "Creez votre propre fil d actualite avec Tiny Tiny RSS",
+          "Auto-hebergez et partagez vos photos en ligne",
+          "Heberger votre code sur Gitlab",
+          "Chiffrer et proteger ses donnees de sa cle USB jusqu qu cloud"
+        ],
+        "Reperes": [],
+        "Sciences": [
+          "Kile : un environnement LaTeX integre pour vous aider a rediger"
+        ],
+        "Societe": [
+          "Interview du plus ancien FAI de France en activite"
+        ],
+        "Temoignages": [],
+        "Zoom sur": []
+      }
+    },
+    {
       "name": "lphsXX",
-      "date": "2018-MM-01",
+      "date": "2019-MM-01",
       "title": "",
       "index": {
         "Actus": [],
         "Boite a outil": [],
+        "Code": [],
         "Decryptage": [],
         "Dossier": [],
         "Reperes": [],
+        "Sciences": [],
         "Societe": [],
         "Temoignages": [],
         "Zoom sur": []
@@ -3458,10 +3520,47 @@
       }
     },
     {
+      "name": "mischs19",
+      "date": "2019-02-01",
+      "title": "Comprendre les vulnerabilites de l iot",
+      "index": {
+        "Actus": [
+          "Revue de livres..."
+        ],
+        "Dossier - Comprendre les vulnerabilites de l iot": [
+          "Bus CAN : se lancer dans l analyse des communications de votre vehicule",
+          "Lecture d une memoire flash NAND et dump de firmware",
+          "Attaques des equipements mobiles: du GPRS au LTE",
+          "Des traceurs GPS bien trop indiscrets",
+          "Leurrage du GPS par radio logicielle"
+        ],
+        "Processeurs": [
+          "Foreshadow-SGX, nouvelle vulnerabilite sur les processeurs Intel"
+        ],
+        "Sciences": [
+          "Machine Learning pour les systemes de detection : recommandations et solutions avec SecuML"
+        ],
+        "Threat Intelligence": [
+          "Introduction au framework ATT&CK du MITRE"
+        ]
+      }
+    },
+    {
       "name": "mischs1X",
-      "date": "2018-0X-01",
+      "date": "2019-0X-01",
       "title": "",
-      "index": {}
+      "index": {
+        "Actus": [
+        ],
+        "Dossier": [
+        ],
+        "Processeurs": [
+        ],
+        "Sciences": [
+        ],
+        "Threat Intelligence": [
+        ]
+      }
     }
   ],
   "Open_silicium": [
